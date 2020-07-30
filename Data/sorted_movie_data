@@ -1,0 +1,1265 @@
+,movie,year,oscar_win,times_nominated,domestic_boxoffice,budget,release_month,MPAA_rating,running_time,genre,tropes,rt_score,book_based,true_story_based
+0,crocodile dundee,1986,0,1,174803506,8800000,9,PG-13,97,"['Action', 'Adventure', 'Comedy']",19,87,0,0
+1,round midnight,1986,1,2,3272593,,10,R,133,"['Drama', 'Music']",5,100,1,0
+2,102 dalmatians,2000,0,1,66957026,85000000,11,G,100,"['Adventure', 'Comedy', 'Family']",6,31,0,0
+3,12 monkeys,1995,0,2,57141459,29000000,12,R,129,"['Mystery', 'Sci-Fi', 'Thriller']",23,90,0,0
+4,12 years a slave,2013,3,9,56671993,20000000,10,R,134,"['Biography', 'Drama', 'History']",31,95,0,1
+5,127 hours,2010,0,6,18335230,18000000,11,R,94,"['Biography', 'Drama']",14,92,1,1
+6,13 hours: the secret soldiers of benghazi,2016,0,1,52853219,50000000,2,R,144,"['Action', 'Drama', 'War']",13,51,1,1
+7,1917,2019,3,10,159227644,95000000,12,R,119,"['Drama', 'War']",29,92,0,1
+8,20th century women,2016,0,1,5664764,,12,R,119,"['Comedy', 'Drama']",2,88,0,0
+9,21 grams,2003,0,2,16290476,20000000,11,R,124,"['Crime', 'Drama', 'Thriller']",7,80,0,0
+10,3 misses,1999,0,1,28273,,10,R,101,['Drama'],0,91,0,0
+11,3:10 to yuma,2007,0,2,53606916,55000000,9,R,122,"['Action', 'Crime', 'Drama', 'Western']",27,89,1,0
+12,45 years,2015,0,1,4247285,,8,R,91,"['Drama', 'Romance']",6,97,1,0
+13,8 mile,2002,1,1,116750901,41000000,11,R,110,"['Drama', 'Music']",22,92,0,0
+14,9,2005,0,1,31749894,30000000,8,PG-13,79,"['Action', 'Adventure', 'Animation', 'Drama', 'Sci-Fi']",60,92,0,1
+15,a beautiful day in the neighborhood,2019,0,1,61704055,25000000,11,PG,109,"['Biography', 'Drama']",11,96,1,1
+16,a beautiful mind,2001,4,8,170742341,58000000,12,PG-13,135,"['Biography', 'Drama']",11,74,1,1
+17,a better life,2011,0,1,1759252,10000000,6,PG-13,98,"['Drama', 'Romance']",8,85,0,0
+18,a bug's life,1998,0,1,162798565,120000000,11,G,95,"['Adventure', 'Animation', 'Comedy', 'Family']",48,92,0,0
+19,a cat in paris,2011,0,1,309973,,12,PG,70,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family']",21,83,0,0
+20,a chorus line,1985,0,3,14202899,,12,PG-13,113,"['Drama', 'Music', 'Musical']",12,40,0,0
+21,a civil action,1998,0,2,56709981,75000000,12,PG-13,115,['Drama'],6,61,1,1
+22,a close shave,1995,1,1,112175,,6,NR,,"['Animation', 'Comedy', 'Crime', 'Family', 'Short']",21,100,0,0
+23,a cry in the dark,1988,0,1,6908797,,11,PG-13,,"['Biography', 'Drama']",5,93,1,1
+24,a dry white season,1989,0,1,3766879,,9,R,106,"['Drama', 'Thriller']",6,81,0,0
+25,a few good men,1992,0,4,141340178,41000000,12,R,138,"['Drama', 'Thriller']",49,83,1,0
+26,a fish called wanda,1988,1,3,62493712,,7,R,108,"['Comedy', 'Crime']",35,94,0,0
+27,a handful of dust,1988,0,1,1560700,,6,PG,118,"['Drama', 'Romance']",2,45,0,0
+28,a history of violence,2005,0,2,31504633,32000000,9,R,96,"['Drama', 'Thriller']",20,87,0,0
+29,a little princess,1995,0,2,10015449,,5,G,97,"['Drama', 'Family', 'Fantasy']",30,97,1,0
+30,a man called ove,2016,0,1,3479315,,12,PG-13,116,"['Comedy', 'Drama', 'Romance']",13,90,1,0
+31,a matter of loaf and death,2009,0,1,124241,,9,PG,104,"['Comedy', 'Drama', 'Fantasy', 'Romance', 'War']",31,77,0,0
+32,a mighty wind,2003,0,1,17781006,6000000,4,PG-13,91,"['Comedy', 'Music']",6,87,0,0
+33,a quiet place,2018,0,1,188024361,17000000,4,PG-13,90,"['Drama', 'Horror', 'Sci-Fi']",16,92,0,0
+34,a river runs through it,1992,1,3,43440294,,10,PG,123,['Drama'],10,80,1,0
+35,a room with a view,1986,3,8,20966644,3000000,3,R,117,"['Drama', 'Romance']",4,100,1,0
+36,a separation,2011,0,1,7099055,,6,PG-13,123,['Drama'],7,99,0,0
+37,a serious man,2009,0,2,9228768,7000000,10,R,106,"['Comedy', 'Drama']",23,90,0,0
+38,a simple plan,1998,0,2,16316273,30000000,12,R,121,"['Crime', 'Drama', 'Thriller']",8,90,1,0
+39,a single life,2014,0,1,14024,,4,NR,75,['Documentary'],8,80,0,0
+40,a single man,2009,0,1,9176000,7000000,12,R,99,"['Drama', 'Romance']",6,85,1,0
+41,a sister,2019,0,1,330661,,1,NR,,"['Drama', 'Short', 'Thriller']",9,92,0,0
+42,a star is born,2018,1,8,215288866,36000000,10,R,136,"['Drama', 'Music', 'Romance']",15,90,1,0
+43,a very long engagement,2004,0,2,6524389,56600000,10,R,133,"['Drama', 'Mystery', 'Romance', 'War']",13,78,1,0
+44,a.i. artificial intelligence,2001,0,2,78616689,100000000,6,PG-13,146,"['Drama', 'Sci-Fi']",20,74,1,0
+45,about a boy,2002,0,1,41385278,30000000,4,PG-13,101,"['Comedy', 'Drama', 'Romance']",8,93,0,0
+46,about schmidt,2002,0,2,65016287,30000000,3,R,125,"['Comedy', 'Drama']",16,85,1,0
+47,across the universe,2007,0,1,24602291,45000000,9,PG-13,133,"['Drama', 'Fantasy', 'History', 'Music', 'Musical', 'Romance']",8,53,0,0
+48,ad astra,2019,0,1,50188370,90000000,9,PG-13,123,"['Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",18,84,0,0
+49,adam,1992,0,1,33353,3200000,7,NR,95,['Comedy'],11,38,0,1
+50,adaptation,2002,1,4,22498520,19000000,12,R,115,"['Comedy', 'Drama']",9,91,1,1
+51,addams family values,1993,0,1,48919043,47000000,11,PG-13,94,"['Comedy', 'Fantasy']",59,77,1,0
+52,affliction,1998,1,2,6330054,6000000,12,R,114,"['Drama', 'Mystery', 'Thriller']",7,88,0,0
+53,afterglow,1997,0,1,2465960,,12,R,119,"['Comedy', 'Drama', 'Romance']",0,76,0,0
+54,agnes of god,1985,0,3,25627836,,9,PG-13,98,"['Drama', 'Mystery']",7,43,1,0
+55,air force one,1997,0,2,172956409,85000000,7,R,124,"['Action', 'Drama', 'Thriller']",38,76,0,0
+56,aladdin,1992,2,5,355559216,183000000,5,PG,128,"['Adventure', 'Family', 'Fantasy', 'Musical', 'Romance']",66,95,0,0
+57,albert nobbs,2011,0,3,3014696,7500000,12,R,113,"['Drama', 'Romance']",1,56,0,0
+58,ali,2001,0,2,58203105,107000000,12,R,157,"['Biography', 'Drama', 'Sport']",8,68,0,1
+59,alice,1990,0,1,334191110,200000000,3,PG,108,"['Adventure', 'Family', 'Fantasy']",1,75,0,0
+60,alice in wonderland,2010,2,3,334191110,200000000,3,PG,108,"['Adventure', 'Family', 'Fantasy']",44,51,1,0
+61,alien 3,1992,0,1,55473545,50000000,5,R,114,"['Action', 'Horror', 'Sci-Fi']",32,44,1,0
+62,aliens,1986,2,7,85160248,17000000,7,R,137,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",55,97,0,0
+63,all is lost,2013,0,1,6263670,8500000,10,PG-13,106,"['Action', 'Adventure', 'Drama']",6,92,0,0
+64,all the money in the world,2017,0,1,25113707,50000000,12,R,132,"['Biography', 'Crime', 'Drama', 'Mystery', 'Thriller']",14,92,0,1
+65,allied,2016,0,1,40098064,85000000,11,R,124,"['Action', 'Drama', 'Romance', 'Thriller', 'War']",4,60,0,0
+66,almost famous,2000,1,4,32534850,60000000,9,R,122,"['Adventure', 'Comedy', 'Drama', 'Music']",16,89,0,1
+67,alone yet not alone,2013,0,1,887851,7000000,9,PG-13,103,"['Action', 'Drama', 'History', 'Romance', 'War']",3,63,1,0
+68,american beauty,1999,5,8,130096601,15000000,9,R,122,['Drama'],36,87,0,0
+69,american gangster,2007,0,2,130164645,100000000,11,R,157,"['Biography', 'Crime', 'Drama', 'Thriller']",18,80,1,1
+70,american history x,1998,0,1,6719864,20000000,10,R,119,['Drama'],37,84,0,0
+71,american hustle,2013,0,10,150117807,40000000,12,R,138,"['Crime', 'Drama']",40,92,0,1
+72,american sniper,2014,1,6,350126372,58800000,12,R,133,"['Action', 'Biography', 'Drama', 'War']",20,72,1,1
+73,american splendor,2003,0,1,6010990,2000000,8,R,101,"['Biography', 'Comedy', 'Drama']",4,94,0,0
+74,amistad,1997,0,4,44229441,36000000,12,R,155,"['Biography', 'Drama', 'History']",10,77,0,1
+75,amour,2012,0,4,6739492,8900000,9,PG-13,127,"['Drama', 'Romance']",8,93,0,0
+76,amélie,2001,0,4,33225499,10000000,4,R,122,"['Comedy', 'Romance']",8,88,0,0
+77,an american tail,1986,0,1,47483002,,11,G,80,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Musical']",33,71,0,0
+78,an education,2009,0,3,12574914,7500000,10,PG-13,100,['Drama'],18,94,0,0
+79,an inconvenient truth,2006,1,1,24146161,1000000,5,PG,96,"['Documentary', 'News']",1,92,0,0
+80,anastasia,1997,0,2,58406347,53000000,11,G,94,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Musical', 'Mystery', 'Romance']",45,85,1,1
+81,angela's ashes,1999,0,1,13042112,50000000,12,R,145,['Drama'],7,52,1,1
+82,angels and insects,1996,0,1,3414301,,1,R,116,"['Drama', 'Romance']",13,71,1,0
+83,animal behaviour,2018,0,1,41526,,10,NR,85,"['Comedy', 'Romance']",3,46,0,0
+84,animal kingdom,2010,0,1,1044039,4200000,6,R,113,"['Crime', 'Drama']",17,94,0,1
+85,anna,1987,0,1,7743794,4357373,6,R,118,"['Action', 'Thriller']",8,55,0,0
+86,anna & bella,1985,1,1,84273813,6500000,9,R,99,"['Horror', 'Mystery', 'Thriller']",1,10,0,0
+87,anna and the king,1999,0,2,39263420,92000000,12,PG-13,148,"['Drama', 'History', 'Romance']",6,51,1,1
+88,anna karenina,2012,1,4,12816367,49000000,9,R,129,"['Drama', 'Romance']",13,92,1,0
+89,anomalisa,2015,0,1,3759286,8000000,12,R,90,"['Animation', 'Comedy', 'Drama', 'Romance']",14,92,1,0
+90,anonymous,2011,0,1,4463292,30000000,10,PG-13,130,"['Drama', 'Thriller']",0,45,0,1
+91,another year,2010,0,1,3205706,8000000,11,PG-13,129,"['Comedy', 'Drama']",2,92,0,0
+92,apocalypto,2006,0,3,50866635,40000000,12,R,139,"['Action', 'Adventure', 'Drama', 'Thriller']",30,66,0,0
+93,apollo 13,1995,2,9,173837933,65000000,6,PG,140,"['Adventure', 'Drama', 'History']",38,96,1,1
+94,argo,2012,3,7,136025503,44500000,10,R,,"['Biography', 'Drama', 'Thriller']",33,96,1,1
+95,armageddon,1998,0,4,201578182,140000000,7,PG-13,151,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",5,38,0,0
+96,arrival,2016,1,8,100546139,47000000,11,PG-13,116,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",29,94,1,0
+97,as good as it gets,1997,2,7,148478011,50000000,12,PG-13,139,"['Comedy', 'Drama', 'Romance']",19,85,0,0
+98,asad,2012,0,1,14454364,,4,NR,98,['Comedy'],0,56,0,0
+99,at eternity's gate,2018,0,1,2294915,,11,PG-13,111,"['Biography', 'Drama']",3,80,0,1
+100,at night,2007,0,1,535234033,185000000,7,PG-13,152,"['Action', 'Crime', 'Drama', 'Thriller']",3,31,0,0
+101,atonement,2007,1,7,50927067,30000000,9,R,123,"['Drama', 'Mystery', 'Romance', 'War']",13,83,1,0
+102,"au revoir les enfants (goodbye, children)",1987,0,1,4542825,,2,PG,104,"['Drama', 'War']",7,97,0,0
+103,august rush,2007,0,1,31664162,25000000,11,PG,114,"['Drama', 'Music']",4,37,0,0
+104,august: osage county,2013,0,2,37738810,25000000,12,R,121,"['Comedy', 'Drama']",16,66,1,0
+105,austin powers: the spy who shagged me,1999,0,1,206040086,33000000,6,PG-13,95,"['Action', 'Adventure', 'Comedy', 'Crime']",62,52,1,0
+106,australia,2008,0,1,49554002,130000000,11,PG-13,165,"['Adventure', 'Comedy', 'Drama', 'Romance', 'War', 'Western']",15,55,0,1
+107,avalon,1990,0,4,15740796,,10,PG,128,['Drama'],5,84,0,0
+108,avatar,2009,3,9,760507625,237000000,12,PG-13,162,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",48,82,0,0
+109,ave maria,2015,0,1,6950,,11,NR,107,"['Biography', 'Documentary']",1,92,0,0
+110,avengers: endgame,2019,0,1,858373000,356000000,4,PG-13,181,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",0,94,0,0
+111,avengers: infinity war,2018,0,1,678815482,300000000,4,PG-13,149,"['Action', 'Adventure', 'Sci-Fi']",0,85,1,0
+112,awakenings,1990,0,3,52096475,,12,PG-13,121,"['Biography', 'Drama']",4,88,0,1
+113,away from her,2007,0,2,4571521,,4,PG-13,110,['Drama'],11,94,1,0
+114,aya,2014,0,1,18980744,,12,R,133,"['Drama', 'History', 'Romance']",2,22,0,0
+115,babe,1995,1,7,63658910,30000000,8,G,91,"['Comedy', 'Drama', 'Family']",29,97,1,0
+116,babe: pig in the city,1998,0,1,18319860,90000000,11,G,97,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",9,65,1,0
+117,babel,2006,1,7,34302837,20000000,10,R,143,['Drama'],13,69,0,0
+118,baby driver,2017,0,3,107825862,34000000,6,R,113,"['Action', 'Crime', 'Drama', 'Music', 'Thriller']",77,92,0,0
+119,back to the future,1985,1,4,211159762,19000000,7,PG,116,"['Adventure', 'Comedy', 'Sci-Fi']",44,96,0,0
+120,back to the future part ii,1989,0,1,119000002,40000000,8,PG,108,"['Adventure', 'Comedy', 'Sci-Fi']",68,65,1,0
+121,backdraft,1991,0,3,77868585,,5,R,137,"['Crime', 'Drama', 'Mystery', 'Thriller']",18,74,0,0
+122,bagdad cafe,1988,0,1,3587303,,4,PG,95,"['Comedy', 'Drama']",7,85,0,0
+123,balance,1989,1,1,42684,,3,NR,,"['Animation', 'Drama', 'Short']",1,92,0,0
+124,bao,2018,1,1,32138862,60000000,2,R,119,"['Action', 'Crime', 'Drama', 'Thriller']",6,88,0,0
+125,barney's version,2010,0,1,4439201,30000000,1,R,134,"['Comedy', 'Drama']",6,78,1,0
+126,barton fink,1991,0,3,6153939,,8,R,116,"['Comedy', 'Drama', 'Thriller']",23,90,0,0
+127,basic instinct,1992,0,2,117727224,49000000,3,R,127,"['Drama', 'Mystery', 'Thriller']",33,52,0,0
+128,batman,1989,1,1,"[2200000, 41158757]",35000000,10,PG-13,,"['Action', 'Crime', 'Drama']",83,71,0,0
+129,batman begins,2005,0,1,206852432,150000000,6,PG-13,140,"['Action', 'Adventure']",56,84,1,0
+130,batman forever,1995,0,3,184069126,100000000,6,PG-13,121,"['Action', 'Adventure']",52,39,1,0
+131,batman returns,1992,0,2,162902340,80000000,6,PG-13,126,"['Action', 'Crime', 'Fantasy']",90,80,1,0
+132,beaches,1988,0,1,57041866,,12,PG-13,123,"['Comedy', 'Drama', 'Music']",4,39,1,0
+133,beasts of the southern wild,2012,0,4,12795746,1800000,6,PG-13,93,"['Adventure', 'Drama', 'Fantasy']",6,87,0,0
+134,beauty and the beast,1991,2,8,504014165,160000000,3,PG,129,"['Family', 'Fantasy', 'Musical', 'Romance']",58,94,1,0
+135,beethoven's 2nd,1993,0,1,53443066,,12,PG,89,"['Comedy', 'Family', 'Romance']",42,23,1,0
+136,beetlejuice,1988,1,1,74220408,15000000,3,PG,92,"['Comedy', 'Fantasy']",48,84,0,0
+137,before midnight,2013,0,1,8114627,3000000,5,R,109,"['Drama', 'Romance']",15,98,1,0
+138,before night falls,2000,0,1,4242892,,12,R,133,"['Biography', 'Drama', 'Romance']",0,73,0,0
+139,before sunset,2004,0,1,5820649,2700000,6,R,80,"['Drama', 'Romance']",15,95,1,0
+140,begin again,2014,0,1,16170632,8000000,6,R,104,"['Comedy', 'Drama', 'Music', 'Romance']",9,83,0,0
+141,beginners,2011,1,1,5790894,3200000,6,R,105,"['Comedy', 'Drama', 'Romance']",0,85,0,0
+142,being john malkovich,1999,0,3,22863596,13000000,10,R,113,"['Comedy', 'Drama', 'Fantasy']",10,93,0,0
+143,being julia,2004,0,1,7739049,18000000,10,R,104,"['Comedy', 'Drama', 'Romance']",7,76,1,0
+144,beloved,1998,0,1,22852487,80000000,10,R,172,"['Drama', 'History', 'Horror']",11,78,1,0
+145,beverly hills cop ii,1987,0,1,153665036,20000000,5,R,100,"['Action', 'Comedy', 'Crime', 'Thriller']",25,43,1,0
+146,beyond the lights,2014,0,1,14618727,7000000,11,PG-13,116,"['Drama', 'Music', 'Romance']",23,92,0,0
+147,bicentennial man,1999,0,1,58223861,100000000,12,PG,132,"['Comedy', 'Drama', 'Sci-Fi']",19,36,1,0
+148,big,1988,0,2,115227281,18000000,6,PG,104,"['Comedy', 'Drama', 'Fantasy', 'Romance']",11,97,0,0
+149,big fish,2003,0,1,66809693,70000000,12,PG-13,125,"['Adventure', 'Drama', 'Fantasy', 'Romance']",19,75,0,0
+150,big hero 6,2014,1,1,222527828,165000000,10,PG,102,"['Action', 'Adventure', 'Animation', 'Family', 'Sci-Fi']",71,89,0,0
+151,billy elliot,2000,0,3,21995263,5000000,9,R,110,"['Drama', 'Music']",5,85,0,0
+152,birch street gym,1991,0,1,84689,,10,PG-13,90,['Documentary'],2,91,0,0
+153,bird,1988,1,1,2181286,,9,R,161,"['Biography', 'Drama', 'Music']",28,82,0,1
+154,birdman or (the unexpected virtue of ignorance),2014,4,9,42340598,18000000,10,R,119,"['Comedy', 'Drama']",33,91,0,0
+155,birthday boy,2004,0,1,5142576,,1,R,93,"['Comedy', 'Crime', 'Thriller']",8,62,0,0
+156,biutiful,2010,0,1,5101237,35000000,10,R,148,"['Drama', 'Romance']",6,66,0,0
+157,black hawk down,2001,2,4,108638745,92000000,12,R,144,"['Drama', 'History', 'War']",41,76,0,1
+158,black panther,2018,3,7,700059566,200000000,2,PG-13,134,"['Action', 'Adventure', 'Sci-Fi']",69,92,1,0
+159,black rain,1989,0,2,46212055,30000000,9,R,125,"['Action', 'Crime', 'Thriller']",13,50,0,0
+160,black swan,2010,1,5,106954678,13000000,12,R,108,"['Drama', 'Thriller']",41,85,0,0
+161,blackfly,1991,0,1,2073582,,7,PG-13,83,"['Documentary', 'News']",1,58,0,0
+162,blackkklansman,2018,1,6,49275340,15000000,8,R,135,"['Biography', 'Crime', 'Drama']",16,96,1,1
+163,blade runner 2049,2017,2,5,92054159,150000000,10,R,164,"['Action', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",49,92,0,0
+164,blaze,1989,0,1,704955,,8,R,129,"['Biography', 'Drama', 'Music']",7,73,1,1
+165,blood diamond,2006,0,5,57377916,100000000,12,R,143,"['Adventure', 'Drama', 'Thriller']",29,63,0,0
+166,blue jasmine,2013,1,3,33405481,18000000,7,PG-13,98,['Drama'],21,91,0,0
+167,blue sky,1994,1,1,3359465,,9,PG-13,101,"['Drama', 'Romance']",0,78,0,0
+168,blue valentine,2010,0,1,9706328,1000000,12,R,112,"['Drama', 'Romance']",14,87,0,0
+169,blue velvet,1986,0,1,8551228,6000000,9,R,,"['Drama', 'Mystery', 'Thriller']",29,93,0,0
+170,bob's birthday,1994,1,1,13689,,5,R,71,['Drama'],0,59,0,0
+171,bohemian rhapsody,2018,4,5,216428042,52000000,10,PG-13,134,"['Biography', 'Drama', 'Music']",45,92,0,1
+172,bolt,2008,0,1,114053579,150000000,11,PG,96,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",44,89,0,0
+173,bombshell,2019,1,3,31762808,32000000,12,R,109,"['Biography', 'Drama']",4,70,0,1
+174,boogie nights,1997,0,3,26400640,15000000,10,R,155,['Drama'],30,93,0,1
+175,borat cultural learnings of america for make benefit glorious nation of kazakhstan,2006,0,1,128505958,18000000,2,R,84,['Comedy'],20,91,0,0
+176,border,2018,0,1,771930,,10,R,110,"['Crime', 'Drama', 'Fantasy', 'Romance', 'Thriller']",0,97,1,1
+177,born on the fourth of july,1989,2,8,70001698,14000000,12,R,145,"['Biography', 'Drama', 'War']",2,85,0,1
+178,borrowed time,2016,0,1,43564,,11,NR,95,"['Comedy', 'Drama']",9,78,0,0
+179,boundin',2003,0,1,3802260,,10,R,109,"['Crime', 'Romance', 'Thriller']",1,65,0,0
+180,boy and the world,2015,0,1,129480,,1,PG,80,"['Adventure', 'Animation', 'Family']",4,93,0,0
+181,boyhood,2014,1,6,25352281,4000000,6,R,165,['Drama'],13,97,0,0
+182,boys don't cry,1999,1,2,11540607,2000000,10,R,118,"['Biography', 'Crime', 'Drama', 'Romance']",0,88,0,1
+183,boyz n the hood,1991,0,2,57504069,6500000,7,R,112,"['Crime', 'Drama']",20,92,0,0
+184,bram stoker's dracula,1992,3,4,82522790,40000000,11,R,128,['Horror'],26,71,0,0
+185,brave,2012,1,1,237283207,185000000,6,PG,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",54,78,0,0
+186,braveheart,1995,5,10,75609945,72000000,5,R,178,"['Biography', 'Drama', 'History', 'War']",39,78,0,1
+187,brazil,1985,0,2,9929135,15000000,12,R,132,"['Drama', 'Sci-Fi']",29,98,0,0
+188,breaking the waves,1996,0,1,3803298,,11,R,159,['Drama'],13,85,0,0
+189,breakthrough,2019,0,1,40713082,14000000,4,PG,116,"['Biography', 'Drama']",0,92,1,1
+190,bridesmaids,2011,0,2,169106725,32500000,5,R,125,"['Comedy', 'Romance']",26,90,0,0
+191,bridge of spies,2015,1,6,72313754,40000000,10,PG-13,142,"['Drama', 'History', 'Thriller']",19,92,0,1
+192,bridget jones's diary,2001,0,1,71543427,25000000,4,R,97,"['Comedy', 'Drama', 'Romance']",35,80,0,0
+193,bright star,2009,0,1,4444637,8500000,9,PG,119,"['Biography', 'Drama', 'Romance']",23,83,0,1
+194,broadcast news,1987,0,7,51249404,,12,,133,"['Comedy', 'Drama', 'Romance']",21,92,0,0
+195,brokeback mountain,2005,3,8,83043761,14000000,12,R,134,"['Drama', 'Romance']",9,92,0,0
+196,brooklyn,2015,0,3,38322743,11000000,11,PG-13,117,"['Drama', 'Romance']",0,97,0,0
+197,brooms,1995,0,1,844281,,5,G,107,"['Drama', 'Romance']",13,82,0,0
+198,brother bear,2003,0,1,85336277,,10,G,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",0,37,0,0
+199,brotherhood,2019,0,1,1111061,,2,R,140,"['Action', 'Drama', 'War']",3,92,0,1
+200,bugsy,1991,2,10,49114016,,12,R,136,"['Biography', 'Crime', 'Drama']",6,85,0,1
+201,bull durham,1988,0,1,50888729,,6,,108,"['Comedy', 'Romance', 'Sport']",19,92,0,0
+202,bullets over broadway,1994,1,7,13383747,20000000,10,R,98,"['Comedy', 'Crime']",21,92,0,0
+203,bulworth,1998,0,1,26528185,30000000,5,R,108,"['Comedy', 'Drama', 'Romance']",11,92,0,0
+204,bunny,1998,1,1,48237389,25000000,8,PG-13,97,"['Comedy', 'Romance']",0,92,0,0
+205,buster,1988,0,1,540000,,11,,91,"['Comedy', 'Crime', 'Drama', 'Romance']",0,92,0,1
+206,by courier,2000,0,1,272693,,12,R,99,"['Action', 'Crime', 'Drama', 'Thriller']",3,20,0,0
+207,call me by your name,2017,1,4,18095701,3500000,10,R,132,"['Drama', 'Romance']",9,92,1,0
+208,camille claudel,1989,0,1,3331297,,12,R,175,"['Biography', 'Drama', 'History', 'Romance']",0,100,0,0
+209,can you ever forgive me?,2018,0,3,8803865,10000000,10,R,106,"['Biography', 'Comedy', 'Crime', 'Drama']",5,92,1,1
+210,canhead,1996,0,1,4385516,,10,,86,"['Fantasy', 'Horror']",9,92,0,0
+211,cape fear,1991,0,2,79091969,35000000,11,R,128,"['Crime', 'Thriller']",32,92,0,0
+212,capote,2005,1,5,28750530,7000000,9,R,114,"['Biography', 'Crime', 'Drama', 'History']",4,92,1,1
+213,captain america: the winter soldier,2014,0,1,259766572,170000000,3,PG-13,136,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",102,92,1,0
+214,captain fantastic,2016,0,1,5879835,5000000,7,R,118,"['Comedy', 'Drama']",10,92,0,0
+215,captain phillips,2013,0,6,107100855,55000000,10,PG-13,134,"['Biography', 'Crime', 'Drama', 'Thriller']",23,92,1,1
+216,carol,2015,0,6,12711491,11800000,11,R,118,"['Drama', 'Romance']",0,92,0,0
+217,cars,2006,0,2,244082982,120000000,6,,117,"['Animation', 'Comedy', 'Family', 'Sport']",51,92,0,0
+218,cashback,2005,0,1,25343,,1,R,102,"['Comedy', 'Drama', 'Romance']",0,46,0,0
+219,casino,1995,0,1,42512375,52000000,11,R,178,"['Crime', 'Drama']",0,80,0,1
+220,cast away,2000,0,2,233632142,90000000,12,PG-13,143,"['Adventure', 'Drama', 'Romance']",17,88,0,0
+221,catch me if you can,2002,0,2,164615351,52000000,12,PG-13,141,"['Biography', 'Crime', 'Drama']",41,92,0,1
+222,central station,1998,0,1,5969553,,11,R,110,['Drama'],43,94,0,0
+223,chances are,1989,0,1,16278590,,3,,108,"['Comedy', 'Fantasy', 'Romance']",5,92,0,0
+224,changeling,2008,0,3,35739802,55000000,10,R,141,"['Biography', 'Crime', 'Drama', 'History', 'Mystery', 'Thriller']",0,61,0,1
+225,chaplin,1992,0,3,9493259,,12,PG-13,143,"['Biography', 'Comedy', 'Drama']",1,59,1,1
+226,charlie and the chocolate factory,2005,0,1,206459076,150000000,7,PG,115,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",29,92,0,0
+227,charlie wilson's war,2007,0,1,66661095,75000000,12,R,102,"['Biography', 'Comedy', 'Drama', 'History']",0,82,1,1
+228,chasing ice,2012,0,1,1328467,,11,PG-13,75,"['Biography', 'Documentary']",0,92,0,0
+229,chicago,2002,6,13,170687518,45000000,2,PG-13,113,"['Comedy', 'Crime', 'Musical']",43,92,0,1
+230,chico & rita,2011,0,1,350524,,11,NR,94,"['Animation', 'Crime', 'Drama', 'Music', 'Romance']",12,87,0,0
+231,children of a lesser god,1986,1,5,31853080,,10,,119,"['Drama', 'Romance']",0,92,1,0
+232,children of men,2006,0,3,35552383,76000000,9,R,109,"['Drama', 'Sci-Fi', 'Thriller']",0,92,1,0
+233,chocolat,2000,0,5,71509363,25000000,12,PG-13,121,"['Drama', 'Romance']",22,62,1,0
+234,christopher robin,2018,0,1,99215042,75000000,8,PG,104,"['Comedy', 'Drama', 'Family', 'Fantasy']",37,92,1,0
+235,cinderella,2015,0,1,201151353,95000000,3,PG,105,"['Drama', 'Family', 'Fantasy', 'Romance']",31,84,0,0
+236,cinderella man,2005,0,3,61649911,88000000,6,PG-13,144,"['Biography', 'Drama', 'History', 'Romance', 'Sport']",12,92,0,1
+237,city of god,2003,0,4,7564459,,8,R,130,"['Crime', 'Drama']",33,91,0,1
+238,city slickers,1991,1,1,124033791,27000000,6,,113,"['Comedy', 'Western']",16,92,0,0
+239,clear and present danger,1994,0,2,122187717,62000000,8,PG-13,141,"['Action', 'Crime', 'Drama', 'Thriller']",26,79,1,0
+240,click,2006,0,1,137355633,82500000,6,PG-13,107,"['Comedy', 'Drama', 'Fantasy', 'Romance']",25,92,0,0
+241,cliffhanger,1993,0,3,84049211,70000000,5,R,113,"['Action', 'Adventure', 'Thriller']",45,68,0,0
+242,closer,2004,0,2,33987757,27000000,12,R,104,"['Drama', 'Romance']",16,92,1,0
+243,coco,2017,2,2,209726015,175000000,10,PG,105,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Music', 'Mystery']",65,92,0,0
+244,coco before chanel,2009,0,1,6113834,23000000,4,PG-13,105,"['Biography', 'Drama']",0,64,1,0
+245,cocoon,1985,2,2,76113124,,6,,117,"['Comedy', 'Drama', 'Sci-Fi']",8,92,0,0
+246,cold mountain,2003,1,7,95636509,79000000,12,R,154,"['Adventure', 'Drama', 'History', 'Romance', 'War']",14,70,1,0
+247,cold war,2018,0,2,4580048,,12,R,89,"['Drama', 'History', 'Music', 'Romance']",11,92,0,1
+248,collateral,2004,0,2,101005703,65000000,8,R,,"['Crime', 'Drama', 'Thriller']",23,92,0,0
+249,coming to america,1988,0,2,128152301,,6,,116,"['Comedy', 'Romance']",28,92,0,0
+250,con air,1997,0,2,101117573,75000000,6,R,115,"['Action', 'Crime', 'Thriller']",50,92,0,0
+251,contact,1992,0,2,100546139,47000000,11,PG-13,116,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",0,92,0,0
+252,coraline,2009,0,1,75286229,60000000,2,PG,100,"['Animation', 'Drama', 'Family', 'Fantasy', 'Thriller']",53,92,1,0
+253,country strong,2010,0,1,20218921,15000000,12,PG-13,117,"['Drama', 'Music']",14,92,0,0
+254,crash,2005,3,6,54580300,6500000,4,R,112,"['Crime', 'Drama', 'Thriller']",12,92,0,0
+255,crazy heart,2009,2,3,39464306,7000000,12,R,112,"['Drama', 'Music', 'Romance']",4,92,1,0
+256,creature comforts,1990,1,1,112175,,6,PG,,"['Animation', 'Comedy', 'Family', 'Short']",8,93,0,0
+257,creed,2015,0,1,109767581,35000000,11,PG-13,133,"['Drama', 'Sport']",19,92,0,0
+258,crimes and misdemeanors,1989,0,3,18254702,,10,PG-13,104,"['Comedy', 'Drama']",13,93,0,0
+259,crimes of the heart,1986,0,3,22905522,,12,PG-13,105,"['Comedy', 'Drama']",2,81,0,0
+260,crimson tide,1995,0,3,91387195,55000000,5,R,116,"['Action', 'Drama', 'Thriller', 'War']",15,92,0,0
+261,"crouching tiger, hidden dragon",2000,3,9,128078872,17000000,12,PG-13,,"['Action', 'Adventure', 'Fantasy', 'Romance']",15,97,1,0
+262,cruise control,1992,0,1,48608066,160000000,6,PG-13,121,"['Action', 'Adventure', 'Crime', 'Romance', 'Thriller']",5,92,0,0
+263,cry freedom,1987,0,3,5899797,29000000,11,PG,157,"['Biography', 'Drama', 'History']",3,79,0,1
+264,culture,1998,0,1,220409,,3,,88,"['Drama', 'Romance']",7,92,1,0
+265,curfew,2012,1,1,10078,,11,NR,93,['Drama'],2,90,0,0
+266,curse of the golden flower,2006,0,1,6566773,,12,R,111,"['Action', 'Adventure', 'Drama', 'Romance', 'Thriller']",18,92,1,0
+267,cyrano de bergerac,1990,1,4,5820020,,11,PG,137,"['Comedy', 'Drama', 'History', 'Romance']",3,100,0,0
+268,dad,1989,0,1,22103037,,10,,117,"['Comedy', 'Drama']",24,92,0,0
+269,dallas buyers club,2013,3,6,27298285,5000000,11,R,117,"['Biography', 'Drama']",13,93,0,1
+270,damage,1992,0,1,7532911,,12,R,111,"['Drama', 'Romance']",6,78,1,0
+271,dancer in the dark,2000,0,1,4184036,12500000,9,R,140,"['Crime', 'Drama', 'Musical']",6,92,0,0
+272,dances with wolves,1990,7,12,184208848,22000000,11,PG-13,181,"['Adventure', 'Drama', 'Western']",25,83,1,0
+273,dangerous liaisons,1988,3,7,34670720,14000000,12,,119,"['Drama', 'Romance']",0,92,1,0
+274,dark eyes,1987,0,1,2201428,,11,NR,118,"['Comedy', 'Drama', 'Romance']",3,100,0,0
+275,darkest hour,2017,2,6,56468410,30000000,11,PG-13,125,"['Biography', 'Drama', 'Family', 'History', 'Thriller', 'War']",17,92,0,1
+276,das rad,2002,0,1,113348,,1,NR,96,['Documentary'],2,92,0,0
+277,dave,1993,0,1,63270710,,5,PG-13,110,"['Comedy', 'Romance']",0,95,0,1
+278,dawn of the planet of the apes,2014,0,1,208545589,170000000,7,PG-13,130,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",55,92,0,0
+279,day & night,2010,0,1,36063,,1,G,,['Drama'],12,83,0,0
+280,day one,2015,0,1,13843771,15000000,6,PG-13,107,"['Drama', 'Romance']",0,92,0,0
+281,daylight,1996,0,1,33023469,80000000,12,PG-13,114,"['Action', 'Adventure', 'Drama', 'Thriller']",8,25,0,0
+282,days of thunder,1990,0,1,82670733,60000000,6,R,107,"['Action', 'Drama', 'Sport']",6,38,0,0
+283,dcera (daughter),2019,0,1,8358,,5,R,206,"['Drama', 'Romance']",5,84,0,0
+284,dead man walking,1995,1,4,39363635,11000000,12,R,122,"['Crime', 'Drama']",3,92,1,0
+285,dead poets society,1989,1,4,95860116,16400000,12,PG,128,"['Comedy', 'Drama']",32,84,0,0
+286,dear diary,1996,1,1,2856,,1,,100,"['Biography', 'Comedy', 'Drama']",2,92,0,0
+287,death becomes her,1992,1,1,58422650,55000000,7,PG-13,104,"['Comedy', 'Fantasy', 'Horror']",48,92,0,0
+288,deconstructing harry,1997,0,1,10686841,20000000,12,R,96,['Comedy'],17,92,0,0
+289,deepwater horizon,2016,0,2,61433527,110000000,9,PG-13,107,"['Action', 'Drama', 'History', 'Thriller']",0,92,1,1
+290,defiance,2008,0,1,28644813,32000000,12,R,137,"['Action', 'Drama', 'History', 'Thriller', 'War']",0,92,1,1
+291,despicable me 2,2013,0,2,368065385,76000000,6,PG,98,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",63,92,0,0
+292,destino,2003,0,1,12156,,5,,97,"['Drama', 'Fantasy', 'Thriller']",3,92,0,0
+293,dick tracy,1990,3,7,103738726,47000000,6,,105,"['Action', 'Comedy', 'Crime', 'Music', 'Romance', 'Thriller']",33,92,1,0
+294,die hard,1988,0,4,83519093,28000000,7,,132,"['Action', 'Thriller']",0,92,0,0
+295,dimanche/sunday,2011,0,1,75530832,55000000,12,R,162,"['Drama', 'Sport']",0,92,0,0
+296,dirty dancing,1987,1,1,64577242,6000000,8,,100,"['Drama', 'Music', 'Romance']",24,92,0,0
+297,dirty pretty things,2003,0,1,8112414,10000000,12,R,97,"['Crime', 'Drama', 'Thriller']",7,92,0,0
+298,district 9,2009,0,4,115646235,30000000,8,R,112,"['Action', 'Sci-Fi', 'Thriller']",67,92,1,0
+299,django unchained,2012,2,5,162805434,100000000,12,R,165,"['Drama', 'Western']",82,92,0,0
+300,do the right thing,1989,0,2,27545445,6000000,6,,,"['Comedy', 'Drama']",20,92,0,0
+301,doctor strange,2016,0,1,232641920,165000000,10,PG-13,115,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",66,92,1,0
+302,don juan demarco,1995,0,1,22150451,25000000,4,PG-13,97,"['Comedy', 'Drama', 'Romance']",8,92,0,0
+303,donnie brasco,1997,0,1,41909762,35000000,2,R,127,"['Biography', 'Crime', 'Drama']",13,92,1,1
+304,doubt,2008,0,5,33446470,20000000,12,PG-13,104,"['Drama', 'Mystery']",9,92,1,0
+305,down on the waterfront,1993,0,1,,,7,,108,"['Crime', 'Drama', 'Thriller']",15,92,0,0
+306,dr. seuss' how the grinch stole christmas,2000,1,3,260044825,123000000,11,PG,104,"['Comedy', 'Family', 'Fantasy']",49,92,0,0
+307,dragonheart,1996,0,1,51367375,57000000,5,,103,"['Action', 'Adventure', 'Fantasy']",55,92,0,0
+308,dreamgirls,2006,2,8,103365956,75000000,12,PG-13,130,"['Drama', 'Music', 'Musical']",26,92,1,0
+309,drive,2011,0,1,35061555,15000000,9,R,100,"['Crime', 'Drama']",0,92,1,0
+310,driving miss daisy,1989,4,9,106593296,7500000,12,,99,['Drama'],10,92,0,0
+311,dunkirk,2017,3,8,189740665,100000000,7,PG-13,106,"['Action', 'Drama', 'History', 'Thriller', 'War']",34,92,0,1
+312,eastern promises,2007,0,1,17266000,50000000,9,R,100,"['Action', 'Crime', 'Drama', 'Thriller']",28,92,0,0
+313,ed wood,1994,2,2,5887457,18000000,9,R,127,"['Biography', 'Comedy', 'Drama']",21,92,0,1
+314,edward scissorhands,1990,0,1,56362352,20000000,12,,105,"['Drama', 'Fantasy', 'Romance']",21,92,0,0
+315,election,1999,0,1,14902041,25000000,4,R,103,"['Comedy', 'Drama', 'Romance']",0,92,1,0
+316,elizabeth,1998,1,7,30082699,30000000,10,R,124,"['Biography', 'Drama', 'History']",17,92,0,1
+317,elizabeth: the golden age,2007,1,2,16383509,55000000,10,PG-13,114,"['Biography', 'Drama', 'History', 'War']",17,92,0,1
+318,elle,2016,0,1,25568251,23000000,12,R,126,"['Drama', 'Romance', 'Sci-Fi']",14,92,1,0
+319,emma,1996,1,2,10055355,10000000,2,PG,124,"['Comedy', 'Drama']",7,92,1,0
+320,empire of the sun,1987,0,6,22238696,,12,,153,"['Action', 'Drama', 'History', 'War']",16,92,0,0
+321,enchanted,2007,0,3,127807262,85000000,11,PG,107,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",0,92,0,0
+322,enchanted april,1992,0,3,13200170,,7,PG,95,['Drama'],2,92,0,0
+323,"enemies, a love story",1989,0,3,7754571,,12,,119,"['Comedy', 'Drama', 'Romance']",7,92,1,0
+324,eraser,1996,0,1,101295562,100000000,6,R,115,"['Action', 'Drama', 'Thriller']",22,37,0,0
+325,erin brockovich,2000,1,5,125595205,52000000,3,R,131,"['Biography', 'Drama']",10,84,0,1
+326,ernest & celestine,2013,0,1,262075,,12,PG,80,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family', 'Fantasy']",7,97,0,0
+327,eternal sunshine of the spotless mind,2004,1,2,34400301,20000000,3,R,108,"['Drama', 'Romance', 'Sci-Fi']",28,92,0,0
+328,europa europa,1991,0,1,5575738,,6,R,112,"['Drama', 'History', 'War']",7,95,0,1
+329,evita,1996,1,5,50047179,55000000,12,PG,135,"['Biography', 'Drama', 'History', 'Musical']",15,92,1,0
+330,ex machina,2015,1,2,25442958,15000000,1,R,108,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",28,92,0,0
+331,exit,1986,0,1,470699,,7,,103,"['Action', 'Comedy']",0,92,0,0
+332,extremely loud & incredibly close,2011,0,2,31847881,,12,PG-13,129,"['Adventure', 'Drama', 'Mystery']",8,92,1,0
+333,face/off,1997,0,1,112276146,80000000,6,R,138,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",36,92,0,0
+334,fantastic beasts and where to find them,2016,1,2,234037575,180000000,11,PG-13,132,"['Adventure', 'Family', 'Fantasy']",47,92,1,0
+335,fantastic mr. fox,2009,0,2,21002919,40000000,10,PG,87,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family']",43,92,0,0
+336,far from heaven,2002,0,4,15901849,13500000,11,PG-13,107,['Drama'],5,92,0,0
+337,farewell my concubine,1993,0,1,5216888,,10,R,171,"['Drama', 'Music', 'Romance']",12,92,1,0
+338,fargo,1996,2,7,24611975,7000000,3,R,98,"['Crime', 'Drama', 'Thriller']",37,92,0,0
+339,fatal attraction,1987,0,6,156645693,14000000,9,,119,"['Drama', 'Thriller']",29,92,1,0
+340,father and daughter,2000,1,1,5587709,,10,R,116,['Drama'],1,93,0,0
+341,fearless,1993,0,1,24633730,,1,PG-13,104,"['Action', 'Biography', 'Drama', 'Sport']",0,85,1,0
+342,feast,2014,1,1,56131,3200000,9,R,95,"['Action', 'Comedy', 'Horror', 'Thriller']",19,92,0,0
+343,fences,2016,1,4,57682904,24000000,12,PG-13,139,['Drama'],9,92,0,0
+344,feral,2013,0,1,,,5,NR,90,"['Action', 'Drama', 'Horror', 'Thriller']",12,100,0,0
+345,ferdinand,2017,0,1,84410380,111000000,12,PG,108,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",23,92,1,0
+346,field of dreams,1989,0,3,64431625,,4,PG,107,"['Drama', 'Family', 'Fantasy', 'Sport']",22,87,1,0
+347,fifty shades of grey,2015,0,1,166167230,40000000,2,R,125,"['Drama', 'Romance', 'Thriller']",12,92,1,0
+348,fight club,1999,0,1,37030102,63000000,10,R,139,['Drama'],48,79,0,0
+349,finding nemo,2003,1,4,380843261,94000000,5,,100,"['Adventure', 'Animation', 'Comedy', 'Family']",58,92,0,0
+350,finding neverland,2004,1,7,51680613,25000000,10,PG,106,"['Biography', 'Drama', 'Family']",8,92,1,1
+351,first man,2018,1,4,44936545,59000000,10,PG-13,141,"['Biography', 'Drama', 'History']",13,92,1,1
+352,first reformed,2018,0,1,3448256,3500000,5,R,113,"['Drama', 'Mystery', 'Thriller']",10,93,0,0
+353,flags of our fathers,2006,0,2,33602376,90000000,10,R,135,"['Action', 'Adventure', 'Drama', 'History', 'War']",6,92,1,1
+354,flatliners,1990,0,1,16883115,19000000,9,PG-13,109,"['Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",7,48,0,0
+355,flight,2012,0,2,93772375,31000000,11,R,138,"['Drama', 'Thriller']",0,92,0,0
+356,florence foster jenkins,2016,0,2,27383770,29000000,5,PG-13,111,"['Biography', 'Comedy', 'Drama', 'Music']",15,87,0,1
+357,fly away home,1996,0,1,25143818,,9,PG,107,"['Adventure', 'Drama', 'Family']",12,92,1,1
+358,for the birds,2001,1,1,633959,,11,R,121,"['Comedy', 'Drama', 'Romance']",28,54,0,0
+359,for the boys,1991,0,1,17860280,40000000,11,R,138,"['Comedy', 'Drama', 'Music']",0,92,0,0
+360,ford v ferrari,2019,2,4,117624357,97600000,11,PG-13,152,"['Action', 'Biography', 'Drama', 'Sport']",29,92,0,1
+361,forrest gump,1994,6,13,330455270,55000000,7,PG-13,142,"['Drama', 'Romance']",42,92,0,0
+362,four weddings and a funeral,1994,0,2,52700832,4400000,3,R,117,"['Comedy', 'Drama', 'Romance']",12,92,0,0
+363,foxcatcher,2014,0,5,12096300,24000000,11,R,134,"['Biography', 'Drama', 'Sport']",6,92,0,1
+364,frankenweenie,2012,0,1,35291068,39000000,10,PG,87,"['Animation', 'Comedy', 'Family', 'Horror', 'Sci-Fi']",20,87,1,0
+365,french roast,2009,0,1,160742,,4,NR,87,['Romance'],3,71,0,0
+366,frida,2002,2,6,25885000,12000000,10,R,123,"['Biography', 'Drama', 'Romance']",9,92,1,1
+367,fried green tomatoes,1991,0,2,82418501,11000000,12,PG-13,130,['Drama'],7,74,1,0
+368,frost/nixon,2008,0,5,18622031,25000000,12,R,122,"['Biography', 'Drama', 'History']",18,92,1,1
+369,frozen,2013,2,2,400738009,150000000,11,PG,102,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",11,92,0,0
+370,frozen ii,2019,0,1,477373578,150000000,11,PG,103,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",41,92,0,0
+371,frozen river,2008,0,2,2511476,1000000,8,R,97,"['Crime', 'Drama']",2,92,0,0
+372,full metal jacket,1987,0,1,46357676,30000000,6,,116,"['Drama', 'War']",52,92,1,1
+373,gaby - a true story,1987,0,1,125400,,10,,110,"['Drama', 'Romance']",5,92,0,0
+374,gagarin,1995,0,1,1121976,,6,,108,"['Adventure', 'Biography', 'Drama', 'History']",0,92,0,0
+375,gangs of new york,2002,0,10,77812000,100000000,12,R,167,"['Crime', 'Drama']",62,92,1,0
+376,garden party,2017,0,1,21886,,7,,88,['Drama'],1,92,0,0
+377,gattaca,1997,0,1,12532777,36000000,10,PG-13,106,"['Drama', 'Sci-Fi', 'Thriller']",21,92,0,0
+378,georgia,1995,0,1,17479,12000000,8,R,113,"['Action', 'Drama', 'War']",0,92,0,0
+379,geronimo: an american legend,1993,0,1,18635620,35000000,12,PG-13,115,"['Drama', 'History', 'Western']",0,48,0,0
+380,get out,2017,1,4,176040665,4500000,2,R,104,"['Horror', 'Mystery', 'Thriller']",62,98,0,0
+381,ghost,1990,2,5,217631306,22000000,7,PG-13,127,"['Drama', 'Fantasy', 'Romance', 'Thriller']",38,74,0,0
+382,ghost world,2001,0,1,6217849,7000000,7,R,111,"['Comedy', 'Drama']",23,92,0,0
+383,ghosts of mississippi,1996,0,2,13323144,36000000,12,PG-13,130,"['Drama', 'History']",5,43,0,1
+384,girl with a pearl earring,2003,0,3,11670971,12000000,12,PG-13,100,"['Biography', 'Drama', 'Romance']",6,72,0,0
+385,"girl, interrupted",1999,1,1,28912646,40000000,12,R,127,"['Biography', 'Drama']",25,54,1,1
+386,gladiator,2000,5,12,187705427,103000000,5,R,155,"['Action', 'Adventure', 'Drama']",28,77,0,0
+387,glen campbell...i'll be me,2014,0,1,365422,,10,PG,116,"['Biography', 'Documentary', 'Family', 'Music']",0,100,0,0
+388,glengarry glen ross,1992,0,1,10725228,12500000,10,R,100,"['Crime', 'Drama', 'Mystery']",38,95,0,0
+389,glory,1989,3,5,26979166,18000000,12,R,122,"['Biography', 'Drama', 'History', 'War']",29,93,1,1
+390,god of love,2010,1,1,43922,,2,R,112,"['Drama', 'Music', 'Romance']",6,92,0,0
+391,gods and monsters,1998,1,3,6451628,10000000,11,R,105,"['Biography', 'Drama']",3,92,1,1
+392,gone baby gone,2007,0,1,20292962,19000000,10,R,114,"['Crime', 'Drama', 'Mystery', 'Thriller']",13,94,0,0
+393,gone girl,2014,0,1,167767189,61000000,10,R,149,"['Drama', 'Mystery', 'Thriller']",27,87,0,0
+394,good fellas,1990,1,6,46836214,,9,R,146,"['Biography', 'Crime', 'Drama']",73,96,0,0
+395,"good morning, vietnam",1987,0,1,123922370,"[2200000, 41158757]",12,R,121,"['Biography', 'Comedy', 'Drama', 'War']",18,90,0,0
+396,"good night, and good luck.",2005,0,6,31558003,7000000,9,PG,93,"['Biography', 'Drama', 'History']",14,93,0,1
+397,good will hunting,1997,2,9,138433435,10000000,12,R,126,"['Drama', 'Romance']",22,97,0,0
+398,gorillas in the mist,1988,0,5,24720479,,9,,129,"['Biography', 'Drama']",0,92,1,0
+399,gosford park,2001,1,7,41308615,19800000,12,R,131,"['Comedy', 'Drama', 'Mystery']",22,86,0,0
+400,graffiti,1985,0,1,4948,,8,PG,82,"['Drama', 'Music']",19,50,0,0
+401,grand canyon,1991,0,1,33243020,,12,R,134,"['Crime', 'Drama']",20,77,0,0
+402,gravity,2013,7,10,19454845,110000000,1,PG-13,132,"['Drama', 'Romance', 'Sci-Fi']",32,96,0,0
+403,green book,2018,3,5,85080171,23000000,11,PG-13,130,"['Biography', 'Comedy', 'Drama', 'Music']",10,78,0,1
+404,green card,1990,0,1,29888235,,12,PG-13,107,"['Comedy', 'Drama', 'Romance']",2,60,0,0
+405,guard dog,2004,0,1,484271,,9,NR,90,"['Drama', 'Thriller']",10,92,0,0
+406,guardians of the galaxy,2014,0,2,333176600,170000000,7,PG-13,121,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",0,91,0,0
+407,guardians of the galaxy vol. 2,2017,0,1,389813101,200000000,4,PG-13,136,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",109,92,0,0
+408,hacksaw ridge,2016,2,6,67209615,40000000,11,R,139,"['Biography', 'Drama', 'History', 'War']",31,85,1,1
+409,"hail, caesar!",2016,0,1,30498085,22000000,2,PG-13,106,"['Comedy', 'Drama', 'Music', 'Mystery']",36,85,0,0
+410,hair love,2019,1,1,330661,,1,G,,"['Animation', 'Comedy', 'Drama', 'Family', 'Short']",3,95,0,0
+411,half nelson,2006,0,1,2697938,700000,8,R,106,['Drama'],0,90,0,0
+412,hamlet,1990,0,6,4708156,18000000,12,PG-13,242,['Drama'],47,76,0,0
+413,hannah and her sisters,1986,3,7,40084041,,2,PG-13,107,"['Comedy', 'Drama']",15,91,0,0
+414,happy feet,2006,1,1,198000317,100000000,11,PG,108,"['Adventure', 'Animation', 'Comedy', 'Family', 'Music', 'Musical', 'Romance']",28,76,0,0
+415,happy new year,1987,0,1,54544638,56000000,12,PG-13,118,"['Comedy', 'Romance']",2,92,1,0
+416,happy-go-lucky,2008,0,1,3512016,,4,R,118,"['Comedy', 'Drama', 'Romance']",6,92,0,0
+417,harlem nights,1989,0,1,60864870,30000000,11,R,116,"['Comedy', 'Crime', 'Drama']",7,21,0,0
+418,harriet,2019,0,2,43082155,17000000,11,PG-13,125,"['Action', 'Biography', 'Drama', 'History']",18,92,0,1
+419,harry and the hendersons,1987,1,1,29760613,,6,PG,110,"['Comedy', 'Family', 'Fantasy']",7,43,0,0
+420,harry potter and the deathly hallows part 1,2010,0,2,296347721,"[2200000, 41158757]",11,PG-13,146,"['Adventure', 'Family', 'Fantasy', 'Mystery']",52,77,0,0
+421,harry potter and the deathly hallows part 2,2011,0,3,381409310,"[2200000, 41158757]",11,PG-13,130,"['Adventure', 'Drama', 'Fantasy', 'Mystery']",52,96,0,0
+422,harry potter and the goblet of fire,2005,0,1,290417905,150000000,11,PG-13,157,"['Adventure', 'Family', 'Fantasy', 'Mystery']",30,88,0,0
+423,harry potter and the half-blood prince,2009,0,1,302305431,250000000,7,PG,153,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery']",20,83,1,0
+424,harry potter and the prisoner of azkaban,2004,0,2,249975996,130000000,5,PG,142,"['Adventure', 'Family', 'Fantasy', 'Mystery']",18,90,1,0
+425,harry potter and the sorcerer's stone,2001,0,3,318087620,125000000,11,PG,152,"['Adventure', 'Family', 'Fantasy']",13,81,1,0
+426,havana,1990,0,1,9243140,40000000,12,R,144,"['Drama', 'Romance', 'War']",2,28,0,0
+427,head over heels,2012,0,1,10424470,14000000,2,PG-13,86,"['Comedy', 'Mystery', 'Romance']",0,92,0,0
+428,heartbreak ridge,1986,0,1,42724017,,12,R,130,"['Drama', 'War']",12,80,0,0
+429,heavenly creatures,1994,0,1,3049135,5000000,11,R,99,"['Biography', 'Crime', 'Drama', 'Thriller']",10,92,0,1
+430,hell or high water,2016,0,4,27007844,12000000,8,R,102,"['Action', 'Crime', 'Drama', 'Thriller', 'Western']",0,97,0,0
+431,hellboy ii: the golden army,2008,0,1,75986503,85000000,7,PG-13,,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",28,86,0,0
+432,helmer & son,2006,0,1,5275505,,12,NR,100,"['Comedy', 'Drama']",10,81,0,0
+433,henry,2012,0,1,56117548,120000000,8,PG-13,100,"['Action', 'Adventure', 'Sci-Fi']",7,92,0,0
+434,henry & june,1990,0,1,11567449,,10,NC17,136,"['Biography', 'Drama']",3,62,0,1
+435,henry v,1989,1,3,10161099,9000000,11,PG-13,137,"['Action', 'Biography', 'Drama', 'History', 'Romance', 'War']",28,100,1,0
+436,her,2013,1,5,25568251,23000000,12,R,126,"['Drama', 'Romance', 'Sci-Fi']",11,95,0,0
+437,hercules,1997,0,1,99112101,85000000,6,G,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",65,84,1,0
+438,hereafter,2010,0,1,32746941,50000000,10,PG-13,129,"['Drama', 'Fantasy', 'Romance']",4,47,0,0
+439,hidden figures,2016,0,3,169607287,25000000,12,PG,127,"['Biography', 'Drama', 'History']",17,93,0,1
+440,hilary and jackie,1998,0,2,4912892,,12,R,121,"['Biography', 'Drama', 'Music']",0,88,0,0
+441,hitchcock,2012,0,1,6008677,,11,PG-13,98,"['Biography', 'Drama', 'Romance']",15,92,0,1
+442,hoffa,1992,0,2,24276506,35000000,12,R,140,"['Biography', 'Crime', 'Drama']",29,52,0,1
+443,hollow man,2000,0,1,73209340,95000000,8,R,112,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",17,27,0,0
+444,home alone,1990,0,2,285761243,18000000,11,PG,103,"['Comedy', 'Family']",131,65,0,0
+445,hook,1991,0,5,119654823,70000000,12,PG,142,"['Adventure', 'Comedy', 'Family', 'Fantasy']",46,28,1,0
+446,hoop dreams,1994,0,1,7830611,700000,10,PG-13,170,"['Documentary', 'Drama', 'Sport']",0,92,0,0
+447,hoosiers,1986,0,2,28607524,,11,PG,114,"['Drama', 'Sport']",5,89,0,1
+448,hope and glory,1987,0,5,10021120,,10,PG-13,113,"['Comedy', 'Drama', 'Romance']",1,95,0,0
+449,hotel rwanda,2004,0,3,23530892,17500000,12,PG-13,121,"['Biography', 'Drama', 'History', 'War']",23,91,0,1
+450,house of flying daggers,2004,0,1,11050094,12000000,7,PG-13,119,"['Action', 'Adventure', 'Drama', 'Romance']",7,88,0,0
+451,house of sand and fog,2003,0,3,13040288,16500000,12,R,126,"['Crime', 'Drama']",4,74,1,0
+452,how to train your dragon,2010,0,2,217581231,165000000,3,PG,98,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",0,99,1,0
+453,how to train your dragon 2,2014,0,1,177002924,145000000,6,PG,102,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",56,91,1,0
+454,how to train your dragon: the hidden world,2019,0,1,160799505,129000000,1,PG,104,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",23,91,1,0
+455,howards end,1992,3,9,26126837,8000000,3,PG,142,"['Drama', 'Romance']",10,94,1,0
+456,howl's moving castle,2005,0,1,5576743,,11,PG,119,"['Adventure', 'Animation', 'Family', 'Fantasy']",20,87,0,0
+457,hugo,2011,5,11,73864507,180000000,11,PG,126,"['Drama', 'Family', 'Fantasy', 'Mystery']",19,93,0,0
+458,husbands and wives,1992,0,2,10555619,,9,R,108,"['Comedy', 'Drama', 'Romance']",7,93,0,0
+459,hustle & flow,2005,1,2,22202809,2800000,7,R,116,"['Crime', 'Drama', 'Music']",9,82,0,0
+460,i am love,2010,0,1,5005465,,3,R,,"['Drama', 'Romance']",0,82,0,0
+461,i am sam,2001,0,1,40311852,22000000,12,PG-13,132,['Drama'],10,35,0,0
+462,i lost my body,2019,0,1,1136431,,11,NR,81,"['Animation', 'Drama', 'Fantasy', 'Romance']",4,96,1,0
+463,i'm not there,2007,0,1,4017609,"[2200000, 41158757]",9,R,135,"['Biography', 'Drama', 'Music']",8,77,0,1
+464,"i, robot",2004,0,1,144801023,120000000,7,PG-13,115,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",0,56,1,0
+465,"i, tonya",2017,1,3,30014539,11000000,12,R,119,"['Biography', 'Comedy', 'Drama', 'Sport']",27,90,0,1
+466,ice age,2002,0,1,176387405,59000000,3,PG,81,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",0,77,0,0
+467,ida,2014,0,1,3827060,2600000,10,PG-13,82,['Drama'],5,96,0,0
+468,if beale street could talk,2018,1,3,14915773,12000000,2,R,119,"['Drama', 'Romance']",7,95,1,0
+469,il divo,2009,0,1,240159,,5,NR,110,"['Biography', 'Drama']",5,92,0,0
+470,in & out,1997,0,1,63856929,35000000,9,PG-13,90,"['Comedy', 'Romance']",10,71,0,0
+471,in america,2003,0,3,15539656,,10,PG-13,105,['Drama'],4,89,0,0
+472,in bruges,2008,0,1,7800824,15000000,2,R,107,"['Comedy', 'Crime', 'Drama', 'Thriller']",44,84,0,0
+473,in the bedroom,2001,0,5,35930604,1700000,11,R,131,"['Crime', 'Drama']",7,93,1,0
+474,in the line of fire,1993,0,3,102314823,40000000,7,R,128,"['Action', 'Crime', 'Drama', 'Thriller']",25,96,0,0
+475,in the loop,2009,0,1,2388804,,4,NR,106,['Comedy'],35,94,0,0
+476,in the name of the father,1993,0,7,25096862,,12,R,133,"['Biography', 'Drama']",10,92,1,0
+477,in the valley of elah,2007,0,1,6777741,23000000,9,R,121,"['Crime', 'Drama', 'Mystery']",9,73,0,1
+478,inception,2010,4,8,292576195,160000000,7,PG-13,148,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",54,87,0,0
+479,incredibles 2,2018,0,1,608581744,200000000,6,PG,118,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",57,92,0,0
+480,independence day,1996,1,2,306169268,75000000,6,PG-13,145,"['Action', 'Adventure', 'Sci-Fi']",52,66,0,0
+481,indiana jones and the last crusade,1989,1,3,197171806,48000000,5,PG-13,127,"['Action', 'Adventure']",62,87,0,0
+482,indochine,1992,0,1,5603158,,12,PG-13,159,"['Drama', 'Romance', 'War']",9,72,0,0
+483,inglourious basterds,2009,1,8,120540719,70000000,8,R,153,"['Adventure', 'Drama', 'War']",71,89,0,0
+484,inherent vice,2014,0,2,8110975,20000000,12,R,148,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Romance']",13,74,1,0
+485,inja (dog),2002,0,1,82051601,135000000,6,PG-13,112,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",2,77,0,0
+486,innerspace,1987,1,1,25893810,,7,PG,,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Thriller']",33,82,0,0
+487,inside llewyn davis,2013,0,2,13235319,11000000,11,R,104,"['Comedy', 'Drama', 'Music']",17,92,0,0
+488,inside out,2015,1,2,356461711,175000000,6,PG,95,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",69,98,0,0
+489,interstellar,2014,1,5,188020017,165000000,11,PG-13,169,"['Adventure', 'Drama', 'Sci-Fi', 'Thriller']",60,72,0,0
+490,interview with the vampire,1994,0,2,105264608,60000000,11,R,123,"['Drama', 'Horror']",12,63,1,0
+491,into the wild,2007,0,2,18354356,20000000,9,R,148,"['Adventure', 'Biography', 'Drama']",22,83,1,1
+492,into the woods,2014,0,3,128002372,50000000,12,PG,125,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Musical']",31,71,1,0
+493,invictus,2009,0,2,37491364,60000000,12,PG-13,134,"['Biography', 'Drama', 'History', 'Sport']",8,92,1,1
+494,iris,2001,1,3,957465,5500000,11,R,99,"['Drama', 'Thriller']",0,79,0,1
+495,iron man,2008,0,2,318604126,140000000,4,PG-13,126,"['Action', 'Adventure', 'Sci-Fi']",0,94,1,0
+496,iron man 2,2010,0,1,312433331,200000000,4,PG-13,124,"['Action', 'Adventure', 'Sci-Fi']",72,73,1,0
+497,iron man 3,2013,0,1,409013994,200000000,4,PG-13,130,"['Action', 'Adventure', 'Sci-Fi']",98,79,1,0
+498,ironweed,1987,0,2,7393346,,12,R,143,['Drama'],0,58,1,0
+499,isle of dogs,2018,0,2,32015231,,3,PG-13,101,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi']",21,90,0,0
+500,jackass presents: bad grandpa,2013,0,1,102003019,15000000,10,R,92,['Comedy'],4,61,0,0
+501,jackie,2016,0,3,13960394,9000000,12,R,100,"['Biography', 'Drama', 'History']",6,88,0,0
+502,jackie brown,1997,0,1,39673162,12000000,12,R,154,"['Crime', 'Drama', 'Thriller']",0,87,1,0
+503,jagged edge,1985,0,1,40491165,,10,R,108,"['Drama', 'Mystery', 'Thriller']",7,81,0,0
+504,james and the giant peach,1996,0,1,28946127,,4,PG,79,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Musical']",50,91,1,0
+505,jane eyre,2011,0,1,11242660,,3,PG-13,,"['Drama', 'Romance']",4,84,1,0
+506,jerry maguire,1996,1,5,153952592,50000000,12,R,139,"['Comedy', 'Drama', 'Romance', 'Sport']",23,83,0,0
+507,jfk,1991,2,8,70405498,40000000,12,R,189,"['Drama', 'History', 'Thriller']",10,84,1,1
+508,jim: the james foley story,2016,0,1,8236,,9,NR,111,"['Biography', 'Documentary']",0,91,0,0
+509,jimmy neutron: boy genius,2001,0,1,80936232,30000000,12,G,82,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",51,74,0,0
+510,jojo rabbit,2019,1,6,33370906,14000000,10,PG-13,108,"['Comedy', 'Drama', 'War']",43,80,1,0
+511,joker,2019,2,11,335451311,55000000,10,R,122,"['Crime', 'Drama', 'Thriller']",58,92,1,0
+512,jolly roger,1998,0,1,300204,,10,R,95,['Family'],4,23,0,0
+513,joy,2015,0,1,56451232,60000000,12,PG-13,124,"['Biography', 'Drama']",7,60,0,1
+514,judy,2019,1,2,24313888,,9,PG-13,118,"['Biography', 'Drama', 'Romance']",1,92,1,1
+515,julie & julia,2009,0,1,94125426,40000000,8,PG-13,123,"['Biography', 'Drama', 'Romance']",7,77,0,1
+516,junebug,2005,0,1,143495265,7500000,12,PG-13,96,"['Comedy', 'Drama']",8,86,0,0
+517,junior,1994,0,1,36763355,60000000,11,PG-13,109,"['Comedy', 'Romance', 'Sci-Fi']",3,36,0,0
+518,juno,2007,1,4,143495265,7500000,12,PG-13,96,"['Comedy', 'Drama']",23,94,0,0
+519,jurassic park,1993,3,3,402828120,63000000,6,PG-13,127,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",64,91,0,0
+520,kate & leopold,2001,0,1,47121859,,12,PG-13,118,"['Comedy', 'Fantasy', 'Romance']",1,50,0,0
+521,kavi,2009,0,1,41939,,6,NR,89,"['Comedy', 'Drama']",0,71,0,0
+522,killing joe,1999,0,1,3775000,,7,R,76,"['Action', 'Animation', 'Crime', 'Drama', 'Thriller']",19,92,1,0
+523,king kong,2005,3,4,218080025,207000000,12,PG-13,187,"['Action', 'Adventure', 'Drama', 'Romance']",18,84,1,0
+524,kinsey,2004,0,1,10254979,11000000,11,R,118,"['Biography', 'Drama', 'Romance']",3,90,0,1
+525,kiss of the spider woman,1985,1,4,17005229,,7,R,,['Drama'],3,86,0,0
+526,kitbull,2019,0,1,330661,,1,PG,,"['Animation', 'Drama', 'Family', 'Short']",3,92,0,0
+527,klaus,2019,0,1,18730891,,2,PG-13,111,"['Drama', 'Romance']",26,94,0,0
+528,knives out,2019,0,1,165363234,40000000,11,PG-13,130,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",0,92,0,0
+529,kong: skull island,2017,0,1,168052812,185000000,3,PG-13,118,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",57,92,1,0
+530,kubo and the two strings,2016,0,2,48023088,60000000,8,PG,101,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",44,97,0,0
+531,kundun,1997,0,4,5684789,28000000,12,PG-13,134,"['Biography', 'Drama', 'History', 'War']",0,75,0,1
+532,kung fu panda,2008,0,1,215434591,130000000,6,PG,92,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",71,87,0,0
+533,kung fu panda 2,2011,0,1,165249063,150000000,5,PG,90,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",92,81,1,0
+534,l.a. confidential,1997,2,9,64616940,35000000,9,R,138,"['Crime', 'Drama', 'Mystery', 'Thriller']",41,99,1,0
+535,la la land,2016,6,14,151101803,30000000,12,PG-13,128,"['Comedy', 'Drama', 'Music', 'Musical', 'Romance']",26,91,0,0
+536,la luna,2011,0,1,,,9,G,142,['Drama'],1,88,0,0
+537,la salla,1996,0,1,27298285,5000000,11,R,117,"['Biography', 'Drama']",0,66,0,0
+538,la vie en rose,2007,2,3,10301706,25000000,2,PG-13,140,"['Biography', 'Drama', 'Music', 'Romance']",5,74,0,1
+539,lady bird,2017,0,5,48958273,10000000,11,R,94,"['Comedy', 'Drama']",14,92,0,0
+540,ladyhawke,1985,0,2,18432000,20000000,4,PG-13,121,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",22,65,0,0
+541,lars and the real girl,2007,0,1,5972884,12000000,10,PG-13,106,"['Comedy', 'Drama', 'Romance']",3,81,0,0
+542,late afternoon,2018,0,1,515144,,8,NR,105,['Drama'],4,71,0,0
+543,lavatory - lovestory,2008,0,1,17020,,2,NR,81,"['Comedy', 'Romance']",0,77,0,0
+544,leaving las vegas,1995,1,4,32029928,4000000,10,R,111,"['Drama', 'Romance']",14,90,1,0
+545,legend,1986,0,1,1872994,25000000,9,R,132,"['Biography', 'Crime', 'Drama', 'Thriller']",15,38,0,1
+546,legends of the fall,1994,1,3,66638883,30000000,12,R,133,"['Drama', 'Romance', 'War', 'Western']",19,58,0,0
+547,lemony snicket's a series of unfortunate events,2004,1,4,118634549,140000000,12,PG,108,"['Adventure', 'Comedy', 'Family', 'Fantasy']",35,72,1,0
+548,les misérables,2012,3,8,148809770,61000000,12,PG-13,158,"['Drama', 'History', 'Musical', 'Romance', 'War']",37,69,1,0
+549,lethal weapon,1987,0,1,65207127,15000000,3,R,109,"['Action', 'Crime', 'Thriller']",18,80,0,0
+550,lethal weapon 2,1989,0,1,147253986,,7,R,114,"['Action', 'Crime', 'Thriller']",27,92,1,0
+551,letters from iwo jima,2006,1,4,13756082,19000000,12,R,141,"['Action', 'Adventure', 'Drama', 'History', 'War']",14,91,1,0
+552,life,1999,0,1,30234022,58000000,3,R,104,"['Horror', 'Sci-Fi', 'Thriller']",8,50,0,0
+553,life is beautiful,1998,2,6,57563264,,10,PG-13,116,"['Comedy', 'Drama', 'Romance', 'War']",9,80,0,0
+554,life of pi,2012,4,11,124987023,120000000,11,PG,127,"['Adventure', 'Drama', 'Fantasy']",24,87,1,0
+555,lifted,2006,0,1,24801212,7000000,4,PG-13,101,['Drama'],3,89,0,0
+556,lilo & stitch,2002,0,1,145794338,80000000,6,PG,85,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",0,86,0,0
+557,lincoln,2012,2,12,182207973,65000000,11,PG-13,150,"['Biography', 'Drama', 'History', 'War']",33,89,1,1
+558,lion,2016,0,6,51738905,12000000,11,PG-13,118,"['Biography', 'Drama']",0,84,0,1
+559,little children,2006,0,3,5463019,26000000,10,R,137,"['Comedy', 'Drama', 'Romance']",6,80,1,0
+560,little dorrit,1988,0,2,1025228,,10,G,357,"['Drama', 'Romance']",12,92,1,0
+561,little miss sunshine,2006,2,4,59891098,8000000,7,R,101,"['Comedy', 'Drama']",28,91,0,0
+562,little shop of horrors,1986,0,2,38982260,30000000,12,PG-13,94,"['Comedy', 'Horror', 'Musical', 'Romance', 'Sci-Fi']",44,90,1,0
+563,little terrorist,2004,0,1,350515,,1,PG,110,['Comedy'],3,67,0,0
+564,little voice,1998,0,1,4611784,6000000,12,R,97,"['Comedy', 'Drama', 'Music', 'Romance']",14,79,1,0
+565,little women,1994,1,9,108101214,40000000,12,PG,135,"['Drama', 'Romance']",8,92,0,0
+566,logan,2017,0,1,226277068,97000000,3,R,137,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",68,92,0,0
+567,logorama,2009,1,1,47643,,1,NR,105,"['Comedy', 'Drama']",8,85,0,0
+568,lone star,1996,0,1,12408986,5000000,6,R,135,"['Drama', 'Mystery']",9,94,0,0
+569,lone survivor,2013,0,2,125095601,40000000,12,R,121,"['Action', 'Biography', 'Drama', 'War']",16,75,1,1
+570,longtime companion,1990,0,1,4609953,,5,R,96,"['Drama', 'Romance']",0,89,0,0
+571,lorenzo,2004,0,1,7286388,,1,PG-13,129,['Drama'],2,20,0,1
+572,lorenzo's oil,1992,0,2,7286388,,1,PG-13,129,['Drama'],0,92,0,1
+573,lost in translation,2003,1,4,44585453,4000000,9,R,102,"['Comedy', 'Drama']",11,95,0,0
+574,lou,2017,0,1,12875,,5,G,113,"['Biography', 'Drama', 'History', 'Romance']",0,75,0,0
+575,love field,1992,0,1,1014726,,2,PG-13,105,['Drama'],25,40,0,0
+576,love struck,1986,0,1,528002,,12,NR,90,"['Comedy', 'Drama', 'Romance']",0,57,0,0
+577,loving,2016,0,1,7751969,9000000,11,PG-13,123,"['Biography', 'Drama', 'Romance']",0,89,1,1
+578,loving vincent,2017,0,1,6735118,5500000,9,PG-13,94,"['Animation', 'Biography', 'Crime', 'Drama', 'Family', 'Mystery']",12,85,0,0
+579,luxo jr.,1986,0,1,47906,,8,G,,"['Animation', 'Short']",0,80,0,0
+580,mad max: fury road,2015,6,10,154058340,150000000,5,R,,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",75,97,0,0
+581,madame bovary,1991,0,1,44235,,6,R,118,"['Drama', 'Romance']",15,73,0,1
+582,maestro,2006,0,1,1086894,,7,NR,100,"['Drama', 'Music']",4,80,0,0
+583,magnolia,1999,0,3,22455976,37000000,12,R,188,['Drama'],10,83,0,0
+584,making waves,1987,0,1,19367,,6,NR,92,"['Drama', 'Romance']",4,97,0,0
+585,malcolm x,1992,0,2,48169910,35000000,11,PG-13,202,"['Biography', 'Drama', 'History']",12,88,0,1
+586,maleficent,2014,0,1,241410378,180000000,5,PG,97,"['Action', 'Adventure', 'Family', 'Fantasy', 'Romance']",48,54,1,0
+587,maleficent: mistress of evil,2019,0,1,113929605,185000000,10,PG,119,"['Adventure', 'Family', 'Fantasy']",18,92,1,0
+588,malèna,2000,0,2,17742948,,9,PG-13,103,"['Drama', 'Romance']",14,54,0,0
+589,manchester by the sea,2016,2,6,47695371,9000000,11,R,137,['Drama'],16,96,0,0
+590,mandela: long walk to freedom,2013,0,1,8323085,35000000,11,PG-13,141,"['Biography', 'Drama', 'History']",0,92,0,1
+591,manipulation,1991,1,1,4598506,,4,R,107,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,73,0,0
+592,mannequin,1987,0,1,42721196,,2,PG,90,"['Comedy', 'Fantasy', 'Romance']",0,21,0,0
+593,margin call,2011,0,1,5354039,3500000,9,R,107,"['Drama', 'Thriller']",24,87,0,1
+594,marguerite,2018,0,1,506677,,9,R,129,"['Comedy', 'Drama', 'Music']",3,95,0,0
+595,maria full of grace,2004,0,1,6529624,3200000,7,R,101,"['Crime', 'Drama']",0,97,0,0
+596,marie antoinette,2006,1,1,15962471,40000000,5,PG-13,123,"['Biography', 'Drama', 'History', 'Romance']",9,57,0,1
+597,marriage story,2019,1,6,333686,8600000,11,R,137,"['Comedy', 'Drama', 'Romance']",23,95,0,0
+598,married to the mob,1988,0,1,21486757,,8,R,104,"['Comedy', 'Crime', 'Romance']",14,90,0,0
+599,marshall,2017,0,1,10051659,12000000,10,PG-13,118,"['Biography', 'Crime', 'Drama', 'History']",4,80,0,1
+600,marvel's the avengers,2012,0,1,623357910,220000000,4,PG-13,143,"['Action', 'Adventure', 'Sci-Fi']",1,92,1,0
+601,marvin's room,1996,0,1,12803305,23000000,12,PG-13,98,['Drama'],7,84,1,0
+602,mary poppins returns,2018,0,4,171958438,130000000,12,PG,130,"['Comedy', 'Family', 'Fantasy', 'Musical']",41,79,1,0
+603,mary queen of scots,2018,0,2,16468499,25000000,12,R,124,"['Biography', 'Drama', 'History']",7,62,0,1
+604,mary shelley's frankenstein,1994,0,1,22006296,45000000,11,R,123,"['Drama', 'Horror', 'Romance', 'Sci-Fi']",16,38,1,0
+605,mask,1985,1,1,119938730,23000000,7,PG-13,101,"['Action', 'Comedy', 'Crime', 'Fantasy']",37,93,0,1
+606,master and commander: the far side of the world,2003,2,10,93927920,150000000,11,PG-13,138,"['Action', 'Adventure', 'Drama', 'History', 'War']",35,85,1,0
+607,match point,2005,0,1,23151529,15000000,5,R,124,"['Drama', 'Romance', 'Thriller']",10,77,0,0
+608,matewan,1987,0,1,1680358,,8,PG-13,135,"['Drama', 'History']",17,94,0,1
+609,maurice,1987,0,1,2484230,2600000,9,R,140,"['Drama', 'Romance']",2,88,1,0
+610,maverick,1994,0,1,101631272,,5,PG,127,"['Action', 'Adventure', 'Comedy', 'Thriller', 'Western']",24,66,0,0
+611,meet the parents,2000,0,1,166244045,55000000,10,PG-13,108,"['Comedy', 'Romance']",39,84,0,0
+612,memento,2001,0,2,25544867,9000000,3,R,113,"['Mystery', 'Thriller']",14,93,1,0
+613,memoirs of a geisha,2005,3,6,57490508,85000000,12,PG-13,145,"['Drama', 'Romance']",22,35,1,0
+614,memorable,2019,0,1,330661,,1,,,"['Animation', 'Drama', 'Family', 'Short']",0,92,0,0
+615,men in black,1997,1,3,250690539,90000000,7,PG-13,98,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",48,92,1,0
+616,metropolitan,1990,0,1,2960492,230000,8,PG-13,98,"['Comedy', 'Drama', 'Romance']",0,93,0,0
+617,michael clayton,2007,1,7,49033882,21500000,9,R,119,"['Crime', 'Drama', 'Mystery', 'Thriller']",15,91,0,0
+618,michael collins,1996,0,2,11092559,25000000,10,R,133,"['Biography', 'Drama', 'Thriller', 'War']",12,77,0,1
+619,midnight in paris,2011,1,4,56817045,17000000,5,PG-13,96,"['Comedy', 'Fantasy', 'Romance']",18,93,0,0
+620,mighty aphrodite,1995,1,2,6468498,,10,R,95,"['Comedy', 'Fantasy', 'Romance']",4,77,0,0
+621,mighty joe young,1998,0,1,50632037,90000000,12,PG,114,"['Action', 'Adventure', 'Family', 'Fantasy', 'Thriller']",12,55,1,0
+622,milk,2008,2,8,31841299,20000000,11,R,128,"['Biography', 'Drama']",11,93,0,1
+623,million dollar baby,2004,4,7,100492203,30000000,12,PG-13,132,"['Drama', 'Sport']",9,91,1,0
+624,minority report,2002,0,1,132072926,102000000,6,PG-13,145,"['Action', 'Crime', 'Mystery', 'Sci-Fi', 'Thriller']",36,90,0,0
+625,miracle fish,2009,0,1,,,12,PG,,['Drama'],19,92,0,0
+626,mirai,2018,0,1,812794,,7,PG,98,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",13,91,0,0
+627,mirror mirror,2012,0,1,64935167,85000000,3,PG,106,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",32,50,1,0
+628,misery,1990,1,1,61276872,,11,R,107,"['Drama', 'Thriller']",48,90,1,0
+629,missing link,2019,0,1,16649539,,4,PG,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",20,89,0,0
+630,mississippi burning,1988,1,7,34603943,,12,R,128,"['Crime', 'Drama', 'History', 'Mystery', 'Thriller']",14,83,0,1
+631,moana,2016,0,2,248757044,150000000,11,PG,107,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",49,95,0,0
+632,molly's game,2017,0,1,28780744,"[2200000, 41158757]",12,R,140,"['Biography', 'Crime', 'Drama']",20,82,0,1
+633,mona lisa,1986,0,1,5794184,,6,R,104,"['Crime', 'Drama', 'Romance']",3,97,0,0
+634,moneyball,2011,0,6,75605492,50000000,9,PG-13,133,"['Biography', 'Drama', 'Sport']",18,94,0,1
+635,monster,2003,1,1,34469210,8000000,12,R,109,"['Biography', 'Crime', 'Drama', 'Thriller']",18,81,0,1
+636,monster house,2006,0,1,73661010,75000000,7,PG,91,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Mystery']",20,75,0,0
+637,monster's ball,2001,1,2,31273922,4000000,12,R,111,"['Drama', 'Romance']",1,85,0,0
+638,"monsters, inc.",2001,1,4,289916256,115000000,11,G,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",74,96,0,0
+639,moonlight,2016,3,8,27854932,4000000,10,R,111,['Drama'],16,98,0,0
+640,moonrise kingdom,2012,0,1,45512466,16000000,5,PG-13,94,"['Comedy', 'Drama', 'Romance']",17,93,0,0
+641,moonstruck,1987,3,6,80640528,,12,PG,102,"['Comedy', 'Drama', 'Romance']",17,93,0,0
+642,more,1998,0,1,129683,,1,NR,115,"['Crime', 'Drama']",3,92,0,0
+643,most (the bridge),2003,0,1,50750000,27000000,6,NR,175,"['Drama', 'History', 'War']",4,92,0,0
+644,mother,2018,0,1,17800004,30000000,9,R,121,"['Drama', 'Horror', 'Mystery']",36,69,0,0
+645,moulin rouge,2001,2,8,57386607,50000000,5,PG-13,127,"['Drama', 'Musical', 'Romance']",29,76,0,1
+646,mr. & mrs. bridge,1990,0,1,7698010,,11,PG-13,126,['Drama'],0,80,0,0
+647,mr. holland's opus,1995,0,1,82569971,"[2200000, 41158757]",12,PG,143,"['Drama', 'Music']",18,75,0,0
+648,mr. saturday night,1992,0,1,13351357,,9,R,119,"['Comedy', 'Drama']",11,58,0,0
+649,mr. turner,2014,0,4,3958500,14000000,10,R,150,"['Biography', 'Drama', 'History']",6,97,0,1
+650,mrs. brown,1997,0,2,9229808,,7,PG,101,"['Biography', 'Drama', 'History', 'Romance']",11,92,0,1
+651,mrs. doubtfire,1993,1,1,219195243,25000000,11,PG-13,125,"['Comedy', 'Drama', 'Family']",32,71,1,0
+652,mrs. henderson presents,2005,0,2,11036366,20000000,11,R,103,"['Comedy', 'Drama', 'Music', 'War']",8,67,0,0
+653,mt. head,2002,0,1,62658220,72000000,11,R,125,"['Action', 'Biography', 'Drama', 'War']",12,92,1,0
+654,mudbound,2017,0,4,117344,10000000,11,R,134,"['Drama', 'War']",7,97,1,0
+655,mulan,1998,0,1,"[2200000, 41158757]",90000000,8,PG-13,115,"['Action', 'Adventure', 'Drama', 'Family']",6,86,1,0
+656,mulholland drive,2001,0,1,7220243,15000000,10,R,147,"['Drama', 'Mystery', 'Thriller']",37,83,0,0
+657,munich,2005,0,5,47403685,70000000,12,R,164,"['Action', 'Drama', 'History', 'Thriller']",0,78,1,1
+658,murphy's romance,1985,0,2,30867525,,12,PG-13,107,"['Comedy', 'Drama', 'Romance']",0,73,1,0
+659,music box,1989,0,1,6263883,,12,PG-13,124,"['Crime', 'Drama', 'Thriller']",5,72,0,0
+660,music of the heart,1999,0,2,14859394,27000000,10,PG,124,"['Drama', 'Music']",7,63,0,1
+661,my beautiful laundrette,1986,0,1,2451545,400000,3,R,97,"['Comedy', 'Drama', 'Romance']",3,97,0,0
+662,my best friend's wedding,1997,0,1,127120029,38000000,6,PG-13,105,"['Comedy', 'Drama', 'Romance']",15,73,0,0
+663,my big fat greek wedding,2002,0,1,241438208,5000000,4,PG,95,"['Comedy', 'Drama', 'Romance']",23,76,0,0
+664,my cousin vinny,1992,1,1,52929168,11000000,3,R,,"['Comedy', 'Crime']",28,86,0,0
+665,"my family, mi familia",1995,0,1,11079373,,5,R,128,['Drama'],0,85,0,0
+666,my left foot,1989,2,5,14743391,,11,R,103,"['Biography', 'Drama']",3,98,0,1
+667,my life as a dog,1987,0,2,8345266,,5,PG-13,101,"['Comedy', 'Drama']",0,100,1,0
+668,my life as a zucchini,2016,0,1,309766,,10,PG-13,66,"['Animation', 'Comedy', 'Drama', 'Family']",10,99,0,0
+669,my week with marilyn,2011,0,2,14600347,10000000,11,R,99,"['Biography', 'Drama']",5,83,1,1
+670,mystic river,2003,2,6,90135191,25000000,10,R,138,"['Crime', 'Drama', 'Mystery', 'Thriller']",13,88,0,0
+671,nebraska,2013,0,6,17654912,12000000,11,R,115,"['Adventure', 'Comedy', 'Drama']",19,91,0,0
+672,nefta football club,2019,0,1,330661,,1,NR,,"['Comedy', 'Drama', 'Short']",4,92,0,0
+673,nell,1994,0,1,33683817,,12,PG-13,112,['Drama'],8,55,1,0
+674,never look away,2018,0,1,1304042,,10,R,189,"['Biography', 'Drama', 'Romance', 'Thriller', 'War']",6,76,0,0
+675,new boy,2008,0,1,7963718,,4,PG-13,97,"['Comedy', 'Crime', 'Romance']",1,88,1,0
+676,nibbles,2003,0,1,,,12,PG-13,182,"['Adventure', 'Drama', 'Romance', 'War']",40,75,0,0
+677,nightcrawler,2014,0,1,32381217,8500000,10,R,117,"['Crime', 'Drama', 'Thriller']",25,95,0,0
+678,nine,2009,0,4,19676965,80000000,1,PG-13,118,"['Drama', 'Musical', 'Romance']",60,39,0,0
+679,nixon,1995,0,4,13681765,44000000,12,R,192,"['Biography', 'Drama', 'History']",0,74,0,1
+680,no country for old men,2007,4,8,74283625,25000000,11,R,122,"['Crime', 'Drama', 'Thriller']",37,93,0,0
+681,nobody's fool,1994,0,2,31713110,19000000,10,R,110,"['Comedy', 'Drama', 'Romance']",10,91,1,0
+682,nocturnal animals,2016,0,1,10663357,22500000,11,R,116,"['Drama', 'Thriller']",17,74,0,0
+683,norbit,2007,0,1,95673607,60000000,2,PG-13,103,"['Comedy', 'Romance']",27,9,0,0
+684,north country,2005,0,2,18337722,35000000,10,R,126,['Drama'],4,69,0,1
+685,notes on a scandal,2006,0,4,17510118,27500000,12,R,92,"['Crime', 'Drama', 'Romance', 'Thriller']",30,87,1,0
+686,"o brother, where art thou?",2000,0,2,45512588,26000000,8,PG-13,107,"['Adventure', 'Comedy', 'Crime', 'Music']",32,77,0,0
+687,omnibus,1992,1,1,217201,,10,R,150,"['Crime', 'Documentary']",1,92,0,0
+688,on hope,1994,0,1,104732,,2,PG-13,100,"['Drama', 'Romance']",52,92,0,0
+689,once,2007,1,1,9439923,150000,3,R,86,"['Drama', 'Music', 'Romance']",11,97,0,0
+690,once upon a time...in hollywood,2019,2,10,,"[2200000, 41158757]",,,,,67,92,0,0
+691,one fine day,1996,0,1,,,,PG,,,4,50,0,0
+692,one true thing,1998,0,1,"[2200000, 41158757]",30000000,,,,,2,92,1,0
+693,orlando,1993,0,2,142502728,90000000,7,R,161,"['Comedy', 'Drama']",6,84,1,0
+694,oscar and lucinda,1997,0,1,1897404,12500000,1,R,132,"['Drama', 'Romance']",9,66,1,0
+695,otello,1986,0,1,2844379,,12,R,123,"['Drama', 'Romance']",2,50,1,0
+696,our time is up,2005,0,1,106986,,11,NR,95,['Documentary'],26,63,1,0
+697,out of africa,1985,7,11,87071205,31000000,12,PG,161,"['Biography', 'Drama', 'Romance']",3,58,0,1
+698,out of sight,1998,0,2,37562568,48000000,6,R,123,"['Comedy', 'Crime', 'Drama', 'Romance', 'Thriller']",15,93,1,0
+699,pain and glory,2019,0,1,4567338,,3,R,113,['Drama'],0,96,0,0
+700,pan's labyrinth,2006,3,5,37634615,19000000,10,R,118,"['Drama', 'Fantasy', 'War']",38,95,0,0
+701,paperman,2012,1,1,13514,,4,R,110,"['Comedy', 'Drama']",8,92,0,0
+702,paranorman,2012,0,1,56003051,60000000,8,PG,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Mystery']",57,88,0,0
+703,parasite,2019,3,5,53369749,11400000,5,R,132,"['Comedy', 'Drama', 'Thriller']",41,92,0,0
+704,parenthood,1989,0,2,100047830,,8,PG-13,124,"['Comedy', 'Drama']",14,91,0,0
+705,paris 36,2009,0,1,851540,,9,PG-13,,"['Drama', 'Music', 'Musical', 'Romance']",12,63,0,0
+706,partners,1993,0,1,6062898,,4,R,93,"['Comedy', 'Crime']",2,38,1,0
+707,passengers,2016,0,2,100014699,110000000,12,PG-13,116,"['Drama', 'Romance', 'Sci-Fi', 'Thriller']",32,31,0,0
+708,passion fish,1992,0,2,4814619,,12,R,135,['Drama'],0,100,0,0
+709,patch adams,1998,0,1,135026902,90000000,12,PG-13,115,"['Biography', 'Comedy', 'Drama', 'Romance']",9,22,1,1
+710,pearl,2016,0,1,29174648,,11,NR,125,"['Drama', 'Music', 'Romance']",16,67,0,0
+711,pearl harbor,2001,1,4,198542554,140000000,5,PG-13,183,"['Action', 'Drama', 'History', 'Romance', 'War']",16,24,0,1
+712,peggy sue got married,1986,0,3,41382841,18000000,10,PG-13,103,"['Comedy', 'Drama', 'Fantasy', 'Romance']",0,86,0,0
+713,pelle the conqueror,1988,0,1,2063688,,12,PG-13,157,['Drama'],7,88,0,0
+714,persepolis,2007,0,1,4445756,7300000,6,PG-13,96,"['Animation', 'Biography', 'Drama', 'Family', 'History', 'War']",0,96,1,0
+715,phantom thread,2017,1,6,21198205,35000000,12,R,130,"['Drama', 'Romance']",8,91,0,0
+716,philadelphia,1993,2,5,77446440,26000000,12,PG-13,125,['Drama'],11,80,0,1
+717,philomena,2013,0,4,37709979,12000000,11,PG-13,98,"['Biography', 'Comedy', 'Drama']",18,90,0,1
+718,pieces of april,2003,0,1,2528664,300000,10,PG-13,80,"['Comedy', 'Drama']",7,84,0,0
+719,piper,2016,1,1,5546500,,7,G,119,"['Horror', 'Mystery', 'Thriller']",1,90,0,0
+720,pirates,1986,0,1,7563728,40000000,9,PG-13,105,"['Comedy', 'Crime', 'Drama', 'Thriller']",19,30,0,0
+721,pirates of the caribbean: at world's end,2007,0,2,309420425,300000000,5,PG-13,169,"['Action', 'Adventure', 'Fantasy']",42,44,1,0
+722,pirates of the caribbean: dead man's chest,2006,1,4,423315812,225000000,7,PG-13,151,"['Action', 'Adventure', 'Fantasy']",26,53,1,0
+723,pirates of the caribbean: the curse of the black pearl,2003,0,5,305413918,140000000,7,PG-13,143,"['Action', 'Adventure', 'Fantasy']",38,79,0,0
+724,platoon,1986,4,8,138530565,6000000,12,R,,"['Drama', 'War']",30,88,0,0
+725,pleasantville,1998,0,3,40584421,60000000,10,PG-13,124,"['Comedy', 'Drama', 'Fantasy']",17,85,0,0
+726,pocahontas,1995,2,2,141579773,55000000,6,G,81,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical', 'Romance']",39,55,1,1
+727,poetic justice,1993,0,1,27515786,14000000,7,R,109,"['Drama', 'Romance']",7,34,0,0
+728,pollock,2000,1,2,8598593,6000000,12,R,122,"['Biography', 'Drama']",0,81,1,0
+729,poltergeist ii: the other side,1986,0,1,40996665,,5,PG-13,91,['Horror'],4,37,0,0
+730,poseidon,2006,0,1,60674817,160000000,5,PG-13,98,"['Action', 'Adventure', 'Thriller']",0,33,0,0
+731,possessions,2013,0,1,22862,,7,,68,"['Animation', 'Fantasy', 'Sci-Fi']",5,92,0,0
+732,postcards from the edge,1990,0,2,39071603,,9,,101,"['Comedy', 'Drama']",2,92,0,0
+733,precious: based on the novel 'push' by sapphire,2009,2,6,47566524,10000000,11,R,110,['Drama'],14,92,0,0
+734,predator,1987,0,1,59735548,15000000,6,R,107,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",0,81,0,0
+735,presto,2008,0,1,53315285,,10,R,147,"['Crime', 'Drama', 'Thriller']",7,92,0,0
+736,pretty woman,1990,0,1,178406268,14000000,3,R,119,"['Comedy', 'Romance']",0,63,0,0
+737,pride & prejudice,2005,0,4,38405088,28000000,9,PG,129,"['Drama', 'Romance']",11,86,0,0
+738,primal fear,1996,0,1,56116183,,4,R,129,"['Crime', 'Drama', 'Mystery', 'Thriller']",20,75,0,0
+739,primary colors,1998,0,2,39001187,65000000,3,R,143,"['Comedy', 'Drama']",4,92,0,0
+740,prisoners,2013,0,1,61002302,46000000,9,R,153,"['Crime', 'Drama', 'Mystery', 'Thriller']",16,81,0,0
+741,prizzi's honor,1985,1,8,26657534,,6,R,130,"['Comedy', 'Crime', 'Drama', 'Romance']",2,86,0,0
+742,prologue,2015,0,1,,,10,NR,104,"['Comedy', 'Musical', 'Romance']",11,57,0,0
+743,prometheus,2012,0,1,126477084,130000000,5,R,124,"['Adventure', 'Mystery', 'Sci-Fi']",55,73,0,0
+744,pulp fiction,1994,1,7,107928762,8000000,10,R,154,"['Crime', 'Drama']",69,92,0,0
+745,puss in boots,2011,0,1,149260504,130000000,10,PG,90,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Mystery']",46,86,0,0
+746,queen margot,1994,0,1,1304237,,12,R,159,"['Biography', 'Drama', 'History', 'Romance']",8,81,0,1
+747,quest,1996,1,1,21686547,,4,PG-13,95,"['Action', 'Adventure', 'Drama', 'Thriller']",6,14,0,0
+748,quest for camelot,1998,0,1,22510798,40000000,5,G,86,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']",34,35,0,0
+749,quiero ser (i want to be...),2000,1,1,97473,,5,NR,98,"['Comedy', 'Drama', 'Romance']",3,50,0,0
+750,quills,2000,0,3,7065332,13500000,11,R,124,"['Biography', 'Drama']",9,75,0,0
+751,quiz show,1994,0,4,24822619,,9,PG-13,133,"['Biography', 'Drama', 'History']",20,96,0,1
+752,rabbit hole,2010,0,1,2229058,5000000,12,PG-13,91,['Drama'],0,86,0,0
+753,rachel getting married,2008,0,1,12796841,12000000,10,R,113,"['Drama', 'Romance']",10,84,0,0
+754,racing extinction,2015,0,1,,,9,NR,90,"['Documentary', 'News']",5,81,0,0
+755,radio days,1987,0,2,14792779,16000000,1,PG,88,['Comedy'],15,90,0,0
+756,rain man,1988,4,8,172825435,25000000,12,R,133,['Drama'],9,89,0,0
+757,rainbow war,1985,0,1,38590458,50000000,2,R,101,"['Action', 'Adventure', 'Thriller']",1,92,0,0
+758,raju,2011,0,1,,,9,NR,98,['Drama'],35,75,0,0
+759,ralph breaks the internet,2018,0,1,201091711,175000000,11,PG,112,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",50,88,0,0
+760,rambling rose,1991,0,2,6266621,7500000,9,R,112,['Drama'],12,100,0,0
+761,rambo: first blood part ii,1985,0,1,150415432,44000000,5,R,96,"['Action', 'Adventure', 'Thriller']",8,36,0,0
+762,ran,1985,1,4,4135750,11500000,9,R,162,"['Action', 'Drama', 'War']",35,97,0,0
+763,rango,2011,1,1,123477607,135000000,3,PG,107,"['Adventure', 'Animation', 'Comedy', 'Family', 'Western']",66,88,0,0
+764,ratatouille,2007,1,5,206445654,150000000,6,G,111,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",53,96,0,0
+765,ray,2004,2,6,75331600,40000000,10,PG-13,152,"['Biography', 'Drama', 'Music']",7,80,0,1
+766,rbg,2018,0,1,14017361,,5,PG,98,"['Biography', 'Documentary']",2,94,0,0
+767,ready player one,2018,0,1,137690172,175000000,3,PG-13,140,"['Action', 'Adventure', 'Sci-Fi']",56,72,0,0
+768,real steel,2011,0,1,85468508,110000000,10,PG-13,127,"['Action', 'Drama', 'Sci-Fi', 'Sport']",40,60,0,0
+769,"reci, reci, reci... (words, words, words)",1992,0,1,18450127,40000000,2,PG-13,91,"['Comedy', 'Drama']",1,25,0,0
+770,red,1994,0,3,90380162,58000000,10,PG-13,111,"['Action', 'Comedy', 'Crime', 'Thriller']",47,100,0,0
+771,redux riding hood,1997,0,1,37662162,42000000,3,PG-13,100,"['Fantasy', 'Horror', 'Mystery', 'Romance', 'Thriller']",24,10,0,0
+772,rejected,2000,0,1,17044981,7000000,7,R,107,['Horror'],13,92,0,0
+773,remo williams: the adventure begins,1985,0,1,14393902,,10,PG-13,121,"['Action', 'Adventure', 'Comedy', 'Crime', 'Romance', 'Thriller']",2,41,0,0
+774,requiem for a dream,2000,0,1,3635482,4500000,10,R,102,['Drama'],21,79,0,0
+775,restoration,1995,2,2,4005941,19000000,12,R,117,"['Biography', 'Drama', 'History', 'Romance']",0,70,0,0
+776,return to oz,1985,0,1,11137801,27000000,6,PG,113,"['Adventure', 'Family', 'Fantasy', 'Horror', 'Mystery']",39,53,0,0
+777,reversal of fortune,1990,1,3,15445131,,10,R,111,"['Biography', 'Drama', 'Mystery']",8,92,0,1
+778,revolutionary road,2008,0,3,22911480,35000000,12,R,119,"['Drama', 'Romance']",8,67,0,0
+779,richard iii,1995,0,2,2684904,9200000,12,R,110,"['Drama', 'Sci-Fi', 'War']",19,94,0,0
+780,richard jewell,2019,0,1,22345542,45000000,12,R,131,"['Biography', 'Crime', 'Drama']",12,76,0,1
+781,rio,2011,0,1,143619809,90000000,4,PG,96,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Musical']",58,72,0,0
+782,rise of the planet of the apes,2011,0,1,176760185,93000000,8,PG-13,105,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",67,92,0,0
+783,road to perdition,2002,1,6,104454762,80000000,7,R,117,"['Crime', 'Drama', 'Thriller']",18,81,0,0
+784,rob roy,1995,0,1,31596911,28000000,4,R,139,"['Adventure', 'Biography', 'Drama', 'History']",16,73,0,0
+785,robin hood: prince of thieves,1991,0,1,165493908,48000000,6,PG-13,143,"['Action', 'Adventure', 'Drama', 'Romance']",40,52,0,0
+786,robocop,1987,1,3,58607007,100000000,1,PG-13,117,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",34,90,0,0
+787,rocketman,2019,1,1,96368160,40000000,5,R,121,"['Biography', 'Drama', 'Music', 'Musical']",33,89,0,1
+788,rogue one: a star wars story,2016,0,2,532177324,200000000,12,PG-13,133,"['Action', 'Adventure', 'Sci-Fi']",72,84,0,0
+789,roma,2018,2,9,1140769,15000000,11,R,135,['Drama'],12,92,0,0
+790,"roman j. israel, esq.",2017,0,1,11962778,22000000,11,PG-13,122,"['Crime', 'Drama', 'Thriller']",2,92,0,0
+791,room,2015,1,4,14677654,13000000,10,R,118,"['Drama', 'Thriller']",21,93,0,0
+792,room on the broom,2013,0,1,23578,,12,G,,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Short']",4,82,0,0
+793,roommates,1995,0,1,12096881,,3,PG,108,"['Comedy', 'Drama']",9,29,0,0
+794,runaway brain,1995,0,1,152257509,70000000,7,PG,116,"['Comedy', 'Romance']",9,92,0,0
+795,runaway train,1985,0,3,81562942,100000000,11,PG-13,98,"['Action', 'Thriller']",12,85,0,0
+796,running on empty,1988,0,2,2835116,,9,PG-13,116,"['Crime', 'Drama', 'Music', 'Romance']",4,85,0,1
+797,ryan,2004,1,1,217049603,70000000,7,R,169,"['Drama', 'War']",42,92,0,0
+798,sabrina,1995,0,2,53672080,58000000,12,PG,127,"['Comedy', 'Drama', 'Romance']",8,65,0,0
+799,salt,2010,0,1,118311368,110000000,7,PG-13,100,"['Action', 'Mystery', 'Thriller']",19,62,0,0
+800,salvador,1986,0,2,1500000,4500000,3,R,122,"['Drama', 'History', 'Thriller', 'War']",11,88,0,1
+801,saria,2019,0,1,330661,,1,R,,"['Drama', 'Short']",0,90,0,0
+802,saving mr. banks,2013,0,1,83301580,35000000,11,PG-13,125,"['Biography', 'Comedy', 'Drama']",35,92,0,1
+803,saving private ryan,1998,5,11,217049603,70000000,7,R,169,"['Drama', 'War']",42,93,0,1
+804,scent of a woman,1992,1,4,63095253,,12,R,156,['Drama'],20,88,0,0
+805,schindler's list,1993,7,12,96898818,22000000,12,R,195,"['Biography', 'Drama', 'History']",45,97,0,1
+806,scrooged,1988,0,1,60328558,32000000,11,PG-13,101,"['Comedy', 'Drama', 'Fantasy', 'Romance']",33,71,0,0
+807,seabiscuit,2003,0,7,120277854,87000000,7,PG-13,140,"['Drama', 'History', 'Sport']",0,78,0,1
+808,searching for bobby fischer,1993,0,1,7266383,,8,PG,109,"['Biography', 'Drama']",5,100,0,0
+809,secrets & lies,1996,0,5,13417292,4500000,9,R,136,"['Comedy', 'Drama']",6,95,0,0
+810,selma,2014,1,2,52076908,20000000,12,PG-13,128,"['Biography', 'Drama', 'History']",8,99,0,1
+811,sense and sensibility,1995,1,7,43182776,16500000,12,PG,136,"['Drama', 'Romance']",14,98,0,0
+812,session man,1991,1,1,3659413,,8,PG-13,130,"['Drama', 'History']",3,40,0,0
+813,seven,1995,0,1,100125643,33000000,9,R,127,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,81,0,0
+814,"sex, lies, and videotape",1989,0,1,24741667,1200000,8,,100,['Drama'],6,92,0,0
+815,sexy beast,2001,0,1,6946056,4300000,1,R,89,"['Crime', 'Drama', 'Thriller']",19,87,0,0
+816,shadow of the vampire,2000,0,2,8293784,8000000,12,R,92,"['Drama', 'Horror']",16,82,0,1
+817,shadowlands,1993,0,2,25842377,22000000,12,PG,131,"['Biography', 'Drama', 'Romance']",6,97,0,1
+818,shakespeare in love,1998,7,13,100317794,25000000,12,R,123,"['Comedy', 'Drama', 'History', 'Romance']",19,92,0,0
+819,shanghai triad,1995,0,1,2086101,,12,R,108,"['Crime', 'Drama', 'History', 'Romance', 'Thriller']",4,88,0,0
+820,shark tale,2004,0,1,160861908,75000000,9,PG,90,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",5,36,0,0
+821,shaun the sheep movie,2015,0,1,19375982,,2,PG,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",47,99,0,0
+822,sherlock holmes,2009,0,2,209028679,90000000,1,PG-13,128,"['Action', 'Adventure', 'Mystery']",53,69,0,0
+823,shine,1996,1,7,35892330,5500000,11,PG-13,105,"['Biography', 'Drama', 'Music', 'Romance']",3,91,0,0
+824,shirley valentine,1989,0,2,6056912,,9,R,108,"['Comedy', 'Drama', 'Romance']",2,73,0,0
+825,shok,2015,0,1,26979166,,12,NR,122,"['Biography', 'Drama', 'History', 'War']",26,81,0,0
+826,short cuts,1993,0,1,6110979,,10,R,188,"['Comedy', 'Drama']",17,95,0,0
+827,shrek,2001,1,2,267665011,60000000,5,PG,90,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",68,88,0,0
+828,shrek 2,2004,0,2,441226247,150000000,5,PG,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",46,89,0,0
+829,sicario,2015,0,3,46889293,30000000,9,R,121,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",23,92,0,0
+830,sideways,2004,1,5,71503593,16000000,10,R,127,"['Comedy', 'Drama', 'Romance']",34,97,0,0
+831,silence,2016,0,1,7100177,46500000,12,R,161,"['Drama', 'History']",0,83,0,0
+832,silent nights,2016,0,1,14567,,11,R,94,"['Comedy', 'Horror', 'Mystery', 'Thriller']",0,64,0,0
+833,silver linings playbook,2012,1,8,132092958,21000000,11,R,122,"['Comedy', 'Drama', 'Romance']",34,92,0,0
+834,silverado,1985,0,2,32192570,26000000,7,PG-13,133,"['Action', 'Crime', 'Drama', 'Romance', 'Western']",23,76,0,0
+835,sing,2016,1,1,270395425,75000000,12,PG,108,"['Animation', 'Comedy', 'Family', 'Musical']",45,72,0,0
+836,sister,2019,0,1,154659,,4,NR,97,"['Crime', 'Drama']",0,92,0,0
+837,six degrees of separation,1993,0,1,6405918,,12,R,112,"['Comedy', 'Drama', 'Mystery']",0,92,0,0
+838,six shooter,2005,1,1,98966,,6,R,100,"['Action', 'Adventure', 'Drama', 'History', 'Western']",4,92,0,0
+839,skin,2018,1,1,145426,,7,R,118,"['Biography', 'Crime', 'Drama', 'Romance']",3,77,0,1
+840,skyfall,2012,2,5,304360277,200000000,10,PG-13,143,"['Action', 'Adventure', 'Thriller']",96,92,0,0
+841,sleepers,1996,0,1,53315285,44000000,10,R,147,"['Crime', 'Drama', 'Thriller']",18,73,0,0
+842,sleepless in seattle,1993,0,2,126808165,21000000,6,PG,105,"['Comedy', 'Drama', 'Romance']",5,74,0,0
+843,sleepy hollow,1999,1,3,101071502,100000000,11,R,105,"['Fantasy', 'Horror', 'Mystery']",37,68,0,0
+844,sling blade,1996,1,2,24444121,1000000,11,R,135,['Drama'],32,96,0,0
+845,slumdog millionaire,2008,8,10,141319928,15000000,11,R,,"['Drama', 'Romance']",18,91,0,0
+846,snow falling on cedars,1999,0,1,14417593,35000000,12,PG-13,127,"['Drama', 'Mystery', 'Romance', 'Thriller']",6,39,0,0
+847,snow white and the huntsman,2012,0,2,155332381,170000000,5,PG-13,127,"['Action', 'Adventure', 'Drama', 'Fantasy']",51,49,0,0
+848,solo: a star wars story,2018,0,1,213767512,275000000,5,PG-13,135,"['Action', 'Adventure', 'Sci-Fi']",44,70,0,0
+849,something's gotta give,2003,0,1,124728738,80000000,12,PG-13,128,"['Comedy', 'Drama', 'Romance']",0,72,0,0
+850,song of the sea,2014,0,1,857522,,12,PG,93,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",31,99,0,0
+851,"south park: bigger, longer & uncut",1999,0,1,52037603,21000000,6,R,81,"['Animation', 'Comedy', 'Fantasy', 'Musical']",67,80,0,0
+852,space cowboys,2000,0,1,90464773,65000000,8,PG-13,130,"['Action', 'Adventure', 'Thriller']",16,78,0,0
+853,spectre,2015,1,1,200074609,245000000,10,PG-13,148,"['Action', 'Adventure', 'Thriller']",96,63,0,0
+854,speed,1994,2,3,121248145,30000000,6,R,116,"['Action', 'Adventure', 'Thriller']",47,94,0,0
+855,spider-man,2002,0,2,407022860,139000000,5,PG-13,121,"['Action', 'Adventure', 'Sci-Fi']",38,90,0,0
+856,spider-man 2,2004,1,3,373585825,200000000,6,PG-13,127,"['Action', 'Adventure', 'Sci-Fi']",32,93,0,0
+857,spider-man: into the spider-verse,2018,1,1,190241310,90000000,12,PG,117,"['Action', 'Adventure', 'Animation', 'Family', 'Sci-Fi']",74,92,0,0
+858,spirit: stallion of the cimarron,2002,0,1,73280117,80000000,5,G,83,"['Adventure', 'Animation', 'Drama', 'Family', 'Western']",21,70,0,0
+859,spirited away,2002,1,1,13750644,,7,PG,125,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Mystery']",37,97,0,0
+860,spotlight,2015,2,6,45055776,20000000,11,R,129,"['Biography', 'Crime', 'Drama']",26,97,0,1
+861,squash,2003,0,1,1851761,,10,PG,115,"['Drama', 'Romance']",24,29,0,0
+862,stand and deliver,1988,0,1,13994920,,3,PG,103,"['Biography', 'Drama']",19,73,0,1
+863,stand by me,1986,0,1,52287414,8000000,8,,89,"['Adventure', 'Drama']",25,92,0,0
+864,star trek,2009,1,4,257730019,150000000,5,PG-13,127,"['Action', 'Adventure', 'Sci-Fi']",107,94,0,0
+865,star trek beyond,2016,0,1,158848340,185000000,7,PG-13,122,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",59,86,0,0
+866,star trek into darkness,2013,0,1,228778661,190000000,5,PG-13,132,"['Action', 'Adventure', 'Sci-Fi']",87,84,0,0
+867,star trek iv: the voyage home,1986,0,4,109713132,24000000,11,PG,119,"['Adventure', 'Comedy', 'Sci-Fi']",42,83,0,0
+868,star trek vi the undiscovered country,1991,0,2,74888996,"[2200000, 41158757]",12,PG,110,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",52,82,0,0
+869,star trek: first contact,1996,0,1,92027888,46000000,11,PG-13,111,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",61,93,0,0
+870,star wars episode i: the phantom menace,1999,0,3,474544677,115000000,5,PG,136,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",41,53,0,0
+871,star wars episode ii attack of the clones,2002,0,1,310676740,115000000,5,PG,142,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",40,65,0,0
+872,star wars: episode iii revenge of the sith,2005,0,1,380270577,113000000,5,PG-13,140,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",59,80,0,0
+873,star wars: the force awakens,2015,0,5,936662225,245000000,12,PG-13,138,"['Action', 'Adventure', 'Sci-Fi']",66,93,0,0
+874,star wars: the last jedi,2017,0,4,620181382,317000000,12,PG-13,152,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",89,90,0,0
+875,star wars: the rise of skywalker,2019,0,3,515202542,275000000,12,PG-13,142,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",58,51,0,0
+876,starship troopers,1997,0,1,54814377,105000000,11,R,129,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",41,64,0,0
+877,steel magnolias,1989,0,1,84614512,,11,PG,117,"['Comedy', 'Drama', 'Romance']",15,68,0,0
+878,steve jobs,2015,0,2,17766658,30000000,10,R,122,"['Biography', 'Drama']",16,86,0,1
+879,still alice,2014,1,1,18754371,5000000,1,PG-13,101,['Drama'],6,85,0,0
+880,straight outta compton,2015,0,1,161197785,28000000,8,R,147,"['Biography', 'Drama', 'History', 'Music']",42,88,0,1
+881,strange invaders,2001,0,1,1362303,,9,PG,94,"['Horror', 'Mystery', 'Sci-Fi']",4,63,0,0
+882,street smart,1987,0,1,1119112,,3,R,97,"['Crime', 'Drama', 'Thriller']",0,64,0,0
+883,strings,1991,0,1,,,7,R,90,"['Comedy', 'Romance']",1,92,0,0
+884,stuart little,1999,0,1,140035367,133000000,12,PG,84,"['Adventure', 'Comedy', 'Family', 'Fantasy']",23,67,0,0
+885,suicide squad,2016,1,1,325100054,175000000,8,PG-13,123,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",78,27,0,0
+886,sully,2016,0,1,125070033,60000000,9,PG-13,96,"['Biography', 'Drama']",11,85,0,1
+887,sunset,1988,0,1,164906,,9,R,142,"['Drama', 'Mystery']",8,23,0,0
+888,superman returns,2006,0,1,200081192,270000000,6,PG-13,154,"['Action', 'Sci-Fi']",24,75,0,0
+889,surf's up,2007,0,1,58867694,100000000,6,PG,85,"['Animation', 'Comedy', 'Family', 'Sport']",21,79,0,0
+890,swan song,1992,0,1,1711,,10,NR,110,"['Drama', 'Music']",0,92,0,0
+891,sweeney todd the demon barber of fleet street,2007,1,3,52898073,50000000,12,R,116,"['Drama', 'Horror', 'Musical', 'Thriller']",21,85,0,0
+892,sweet and lowdown,1999,0,2,4197015,,12,PG-13,95,"['Comedy', 'Drama', 'Music']",0,77,0,0
+893,sweet dreams,1985,0,1,9085049,,10,PG-13,115,"['Biography', 'Drama', 'Music', 'Musical']",0,90,0,1
+894,sweethearts?,1997,0,1,4678042,,3,R,87,"['Comedy', 'Drama', 'Romance']",4,67,0,0
+895,syriana,2005,1,2,50824620,50000000,11,R,128,"['Drama', 'Thriller']",18,73,0,1
+896,syrup,1994,0,1,663,,6,R,90,"['Comedy', 'Drama', 'Romance']",0,60,0,0
+897,talk to her,2002,1,2,9357911,,3,R,112,"['Drama', 'Mystery', 'Romance']",12,92,0,0
+898,tangled,2010,0,1,200821936,260000000,11,PG,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",89,89,0,0
+899,tarzan,1999,1,1,126643061,180000000,6,PG-13,110,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",18,89,0,0
+900,ted,2012,0,1,218815487,50000000,6,R,106,['Comedy'],35,69,0,0
+901,tequila sunrise,1988,0,1,41292551,,12,R,115,"['Crime', 'Drama', 'Romance', 'Thriller']",10,40,0,0
+902,terminator 2: judgment day,1991,4,6,205881154,102000000,7,R,137,"['Action', 'Sci-Fi']",81,93,0,0
+903,that thing you do!,1996,0,1,25857416,2500000,10,PG,108,"['Comedy', 'Drama', 'Music']",24,93,0,0
+904,that's life,1986,0,1,4079895,,9,PG-13,102,"['Comedy', 'Drama']",8,50,0,0
+905,the 100-year-old man who climbed out the window and disappeared,2015,0,1,944193,,12,R,114,"['Adventure', 'Comedy']",18,68,0,0
+906,the abyss,1989,1,4,54461047,70000000,8,PG-13,171,"['Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",23,89,0,0
+907,the accidental tourist,1988,1,4,32632093,,12,PG,121,"['Drama', 'Romance']",5,81,0,0
+908,the accountant,2001,1,1,86260045,44000000,10,R,128,"['Action', 'Crime', 'Drama', 'Thriller']",52,92,0,0
+909,the accused,1988,1,1,32078318,,10,R,111,"['Crime', 'Drama']",4,91,0,1
+910,the addams family,1991,0,1,100044905,24000000,10,PG,86,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",59,64,0,0
+911,the adventures of baron munchausen,1989,0,4,8083123,46630000,3,PG,126,"['Adventure', 'Comedy', 'Fantasy']",25,92,0,0
+912,"the adventures of priscilla, queen of the desert",1994,1,1,11220670,,8,R,104,"['Comedy', 'Music']",15,95,0,0
+913,the adventures of tintin,2011,0,1,77591831,130000000,10,PG,107,"['Action', 'Adventure', 'Animation', 'Family', 'Mystery']",36,74,0,0
+914,the affair of the necklace,2001,0,1,471210,,11,R,118,"['Drama', 'History', 'Romance']",3,15,0,0
+915,the age of innocence,1993,1,5,32255440,34000000,9,PG,139,"['Drama', 'Romance']",18,92,0,0
+916,the american president,1995,0,1,60079496,62000000,11,PG-13,114,"['Comedy', 'Drama', 'Romance']",20,91,0,0
+917,the apostle,1997,0,1,19868354,5000000,12,PG-13,134,['Drama'],12,90,0,0
+918,the artist,2011,5,10,44671682,15000000,10,PG-13,100,"['Comedy', 'Drama', 'Romance']",21,95,0,0
+919,the assassination of jesse james by the coward robert ford,2007,0,2,3909149,30000000,9,R,160,"['Biography', 'Crime', 'Drama', 'History', 'Western']",25,77,0,1
+920,the aviator,2004,5,11,102610330,110000000,12,PG-13,170,"['Biography', 'Drama']",19,86,0,1
+921,the ballad of buster scruggs,2018,0,3,,,11,R,133,"['Comedy', 'Drama', 'Musical', 'Mystery', 'Romance', 'Western']",30,90,0,0
+922,the barbarian invasions,2003,0,1,8544975,,5,R,99,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Romance']",0,82,0,0
+923,the bear,1989,0,1,31753898,,10,PG,96,"['Adventure', 'Drama', 'Family']",6,93,0,0
+924,the big short,2015,1,5,70259870,28000000,1,R,130,"['Biography', 'Comedy', 'Drama', 'History']",51,88,0,1
+925,the big sick,2017,0,1,42873127,5000000,6,R,,"['Comedy', 'Drama', 'Romance']",10,92,0,1
+926,the big story,1994,0,1,66809693,70000000,12,PG-13,125,"['Adventure', 'Drama', 'Fantasy', 'Romance']",11,25,0,0
+927,the birdcage,1996,0,1,124060553,,3,R,117,['Comedy'],16,80,0,0
+928,the black dahlia,2006,0,1,22545080,50000000,9,R,121,"['Crime', 'Drama', 'Mystery', 'Thriller']",11,32,0,1
+929,the blind side,2009,1,2,255959475,29000000,11,PG-13,129,"['Biography', 'Drama', 'Sport']",20,66,0,1
+930,the bodyguard,1992,0,2,122006740,25000000,11,R,129,"['Action', 'Drama', 'Music', 'Romance', 'Thriller']",11,33,0,0
+931,the book thief,2013,0,1,21488481,19000000,11,PG-13,131,"['Drama', 'War']",25,47,0,0
+932,the boss baby,2017,0,1,175003033,125000000,3,PG,97,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",26,53,0,0
+933,the bourne ultimatum,2007,3,3,227471070,110000000,8,PG-13,115,"['Action', 'Mystery', 'Thriller']",9,92,0,0
+934,the boxtrolls,2014,0,1,50837305,60000000,9,PG,96,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",27,77,0,0
+935,the breadwinner,2017,0,1,313215,,11,PG-13,94,"['Animation', 'Drama', 'Family', 'War']",15,92,0,0
+936,the bridges of madison county,1995,0,1,71516617,24000000,6,PG-13,135,"['Drama', 'Romance']",1,90,0,0
+937,the canterbury tales,1998,0,1,8368,,2,R,111,"['Comedy', 'Drama', 'History']",0,56,0,0
+938,the cathedral,2002,0,1,85229,,5,PG,165,['Documentary'],0,92,0,0
+939,the cell,2000,0,1,61334059,33000000,8,R,107,"['Horror', 'Sci-Fi', 'Thriller']",9,45,0,0
+940,the childeater,1989,0,1,4422,,10,R,82,['Horror'],3,53,0,0
+941,the chorus (les choristes),2004,0,1,3635164,,3,PG-13,97,"['Drama', 'Music']",13,69,0,0
+942,"the chronicles of narnia: the lion, the witch and the wardrobe",2005,1,3,291710957,180000000,12,PG,143,"['Adventure', 'Family', 'Fantasy']",28,76,0,0
+943,the cider house rules,1999,2,7,57545092,24000000,12,PG-13,126,"['Drama', 'Romance']",9,71,0,0
+944,the clan of the cave bear,1986,0,1,1953732,15000000,1,R,98,"['Adventure', 'Drama', 'Fantasy']",0,10,0,0
+945,the client,1994,0,1,92115211,45000000,7,PG-13,119,"['Crime', 'Drama', 'Mystery', 'Thriller']",6,78,0,0
+946,the color of money,1986,1,4,52293982,10000000,10,R,119,"['Drama', 'Sport']",5,89,0,0
+947,the color purple,1985,0,11,98467863,15000000,12,PG-13,154,['Drama'],12,81,0,0
+948,the commitments,1991,0,1,14919570,,8,R,118,"['Comedy', 'Drama', 'Music']",12,89,0,0
+949,the confession,2010,0,1,1859604,,4,NR,108,"['Drama', 'Mystery', 'Thriller']",14,81,0,0
+950,the constant gardener,2005,1,4,33579797,25000000,8,R,129,"['Drama', 'Mystery', 'Romance', 'Thriller']",9,83,0,0
+951,the contender,2000,0,2,17872723,20000000,10,R,126,"['Drama', 'Thriller']",3,76,0,0
+952,the cooler,2003,0,1,8291572,4000000,11,R,101,"['Drama', 'Romance']",4,77,0,0
+953,the cow,1989,0,1,42684,,3,R,,"['Animation', 'Drama', 'Short']",0,93,0,0
+954,the croods,2013,0,1,187168425,135000000,3,PG,98,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",28,71,0,0
+955,the crucible,1996,0,2,7343114,,11,PG-13,124,"['Drama', 'History']",28,68,0,1
+956,the crush,2010,0,1,13609396,,4,,89,"['Drama', 'Thriller']",1,92,0,0
+957,the crying game,1992,1,6,62548947,4000000,11,R,112,"['Crime', 'Drama', 'Romance', 'Thriller']",24,94,0,0
+958,the curious case of benjamin button,2008,3,13,127509326,150000000,12,PG-13,166,"['Drama', 'Fantasy', 'Romance']",25,72,0,0
+959,the danish girl,2015,1,4,11114018,,11,R,119,"['Biography', 'Drama', 'Romance']",5,67,0,1
+960,the dark knight,2008,2,8,535234033,185000000,7,PG-13,152,"['Action', 'Crime', 'Drama', 'Thriller']",93,94,0,0
+961,the dead,1987,0,2,4370078,,12,PG,83,['Drama'],8,93,0,0
+962,the departed,2006,4,5,132384315,90000000,10,R,151,"['Crime', 'Drama', 'Thriller']",50,91,0,0
+963,the descendants,2011,1,5,82584160,20000000,11,R,115,"['Comedy', 'Drama']",49,88,0,0
+964,the devil wears prada,2006,0,2,124740460,35000000,6,PG-13,109,"['Comedy', 'Drama']",47,75,0,0
+965,the disaster artist,2017,0,1,21120616,10000000,1,R,104,"['Biography', 'Comedy', 'Drama']",45,92,0,1
+966,the diving bell and the butterfly,2007,0,4,6003227,,5,PG-13,112,"['Biography', 'Drama']",7,94,0,1
+967,the door,2009,0,1,3000342,,2,R,96,['Horror'],6,63,0,0
+968,the duchess,2008,1,2,13848978,27000000,9,PG-13,110,"['Biography', 'Drama', 'History', 'Romance']",10,62,0,1
+969,the emperor's new groove,2000,0,1,89302687,100000000,12,G,78,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",70,85,0,0
+970,the end,1995,0,1,44917151,,5,R,100,"['Comedy', 'Drama']",5,57,0,0
+971,the end of the affair,1999,0,2,10827816,23000000,12,R,102,"['Drama', 'Romance']",0,67,0,0
+972,the english patient,1996,9,12,78676425,27000000,11,R,162,"['Drama', 'Romance', 'War']",7,85,0,0
+973,the fabulous baker boys,1989,0,4,18428904,,10,R,114,"['Comedy', 'Drama', 'Music', 'Romance']",1,96,0,0
+974,the favourite,2018,1,10,34366783,15000000,11,R,119,"['Biography', 'Comedy', 'Drama', 'History']",19,93,0,1
+975,the field,1990,0,1,1494399,,12,PG-13,107,"['Drama', 'Thriller']",0,43,0,0
+976,the fifth element,1997,0,1,63820180,95000000,5,PG-13,126,"['Action', 'Adventure', 'Sci-Fi']",42,92,0,0
+977,the fighter,2010,2,7,93617009,25000000,11,R,116,"['Biography', 'Drama', 'Sport']",13,91,0,1
+978,the firm,1993,0,2,158348367,42000000,7,R,154,"['Drama', 'Mystery', 'Thriller']",10,75,0,0
+979,the first wives club,1996,0,1,105489203,30000000,9,PG,103,['Comedy'],17,92,0,0
+980,the fisher king,1991,1,5,41895491,24000000,9,R,137,"['Comedy', 'Drama', 'Fantasy']",28,83,0,0
+981,the florida project,2017,0,1,5904366,2000000,10,R,111,['Drama'],18,96,0,0
+982,the fly,1986,1,1,40456565,,8,R,96,"['Drama', 'Horror', 'Sci-Fi']",63,92,0,0
+983,the fugitive,1993,1,7,183875760,44000000,8,PG-13,130,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",42,96,0,0
+984,the full monty,1997,1,4,45950122,3500000,8,R,91,"['Comedy', 'Drama']",10,96,0,0
+985,the ghost and the darkness,1996,1,1,38619405,55000000,10,R,110,"['Adventure', 'Drama', 'Thriller']",18,50,0,1
+986,the girl with the dragon tattoo,2011,1,5,102515793,90000000,12,R,158,"['Crime', 'Drama', 'Mystery', 'Thriller']",20,86,0,0
+987,"the godfather, part iii",1990,0,7,66666062,54000000,12,R,162,"['Crime', 'Drama']",71,69,0,0
+988,the golden compass,2007,1,2,70107728,180000000,12,PG-13,113,"['Adventure', 'Family', 'Fantasy']",7,42,0,0
+989,the good german,2006,0,1,1308696,32000000,12,R,105,"['Drama', 'Mystery', 'Romance', 'Thriller', 'War']",0,34,0,0
+990,the good shepherd,2006,0,1,59952835,,12,R,167,"['Drama', 'History', 'Thriller']",3,55,0,0
+991,the grand budapest hotel,2014,4,9,59301324,25000000,2,R,99,"['Adventure', 'Comedy', 'Crime']",39,92,0,0
+992,the grandmaster,2013,0,2,6594959,,1,PG-13,130,"['Action', 'Biography', 'Drama', 'Romance', 'War']",3,78,0,0
+993,the great gatsby,2013,2,2,144840419,105000000,5,PG-13,143,"['Drama', 'Romance']",19,48,0,0
+994,the greatest showman,2017,0,1,174340174,84000000,12,PG,105,"['Biography', 'Drama', 'Musical']",59,56,0,1
+995,the green mile,1999,0,4,136801374,60000000,12,R,189,"['Crime', 'Drama', 'Fantasy', 'Mystery']",26,92,0,0
+996,the grifters,1990,0,4,13446769,,12,R,110,"['Crime', 'Drama', 'Thriller']",11,91,0,0
+997,the gruffalo,2010,0,1,23722,,12,NR,,"['Animation', 'Family', 'Short']",13,79,0,0
+998,the hateful eight,2015,1,3,54117416,44000000,12,R,168,"['Crime', 'Drama', 'Mystery', 'Thriller', 'Western']",44,75,0,0
+999,the help,2011,1,4,169708112,25000000,8,PG-13,146,['Drama'],35,76,0,1
+1000,the hobbit: an unexpected journey,2012,0,3,303003568,200000000,12,PG-13,169,"['Adventure', 'Family', 'Fantasy']",46,64,0,0
+1001,the hobbit: the battle of the five armies,2014,0,1,255119788,250000000,12,PG-13,144,"['Adventure', 'Fantasy']",62,59,0,0
+1002,the hobbit: the desolation of smaug,2013,0,3,258366855,250000000,12,PG-13,161,"['Adventure', 'Fantasy']",51,74,0,0
+1003,the horse whisperer,1998,0,1,75383563,60000000,5,PG-13,169,"['Drama', 'Romance', 'Western']",7,74,0,0
+1004,the hours,2002,1,9,41675994,25000000,12,PG-13,110,"['Drama', 'Romance']",7,80,0,0
+1005,the hunchback of notre dame,1996,0,1,100138851,100000000,6,G,91,"['Animation', 'Drama', 'Family', 'Musical', 'Romance']",74,71,0,0
+1006,the hunt for red october,1990,1,3,122012643,30000000,3,PG,135,"['Action', 'Adventure', 'Thriller']",35,89,0,0
+1007,the hunting ground,2015,0,1,405917,,2,PG-13,103,['Documentary'],4,92,0,0
+1008,the hurricane,1999,0,1,50699241,50000000,12,R,146,"['Biography', 'Drama', 'Sport']",0,83,0,1
+1009,the hurt locker,2009,6,9,17017811,15000000,10,R,131,"['Drama', 'Thriller', 'War']",17,92,0,1
+1010,the ides of march,2011,0,1,40962534,23000000,10,R,101,"['Drama', 'Thriller']",12,84,0,0
+1011,the illusionist,2006,0,2,39868642,16500000,8,PG-13,110,"['Drama', 'Fantasy', 'History', 'Mystery', 'Romance', 'Thriller']",18,74,0,0
+1012,the imaginarium of doctor parnassus,2009,0,2,7689607,30000000,9,PG-13,123,"['Adventure', 'Comedy', 'Fantasy', 'Mystery']",24,92,0,0
+1013,the imitation game,2014,1,8,91125683,15000000,11,PG-13,114,"['Biography', 'Drama', 'Thriller', 'War']",25,92,0,1
+1014,the impossible,2012,0,1,19019882,40000000,10,PG-13,114,"['Drama', 'History', 'Thriller']",12,81,0,1
+1015,the incredibles,2004,2,4,261441092,92000000,11,PG,115,"['Action', 'Adventure', 'Animation', 'Family']",83,97,0,0
+1016,the insider,1999,0,7,29089912,90000000,11,R,157,"['Biography', 'Drama', 'Thriller']",13,96,0,1
+1017,the invisible woman,2013,0,1,1234254,,12,R,111,"['Biography', 'Drama', 'History', 'Romance']",2,75,0,0
+1018,the irishman,2019,0,10,968853,159000000,11,R,209,"['Biography', 'Crime', 'Drama']",0,96,0,1
+1019,the iron lady,2011,2,2,30017992,14000000,12,PG-13,105,"['Biography', 'Drama']",3,52,0,1
+1020,the janitor,1994,0,1,6400000,,2,R,103,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",3,60,0,0
+1021,the journey of natty gann,1985,0,1,9708373,,9,PG,101,"['Adventure', 'Family']",6,91,0,0
+1022,the judge,2014,0,1,47119388,50000000,10,R,141,"['Crime', 'Drama']",0,48,0,0
+1023,the jungle book,2016,1,1,364001123,175000000,4,PG,106,"['Adventure', 'Drama', 'Family', 'Fantasy']",49,94,0,0
+1024,the karate kid part ii,1986,0,1,115103979,,6,PG,113,"['Action', 'Family', 'Romance', 'Sport']",11,42,0,0
+1025,the kids are all right,2010,0,4,20811365,4000000,7,R,106,"['Comedy', 'Drama', 'Romance']",11,92,0,0
+1026,the king's speech,2010,4,12,138797449,15000000,11,R,118,"['Biography', 'Drama', 'History']",42,94,0,1
+1027,the kite runner,2007,0,1,15800078,20000000,12,PG-13,128,['Drama'],29,65,0,0
+1028,the last emperor,1987,9,9,43984230,25000000,11,PG-13,163,"['Biography', 'Drama', 'History']",9,90,0,1
+1029,the last farm,2005,0,1,1161751,,1,R,130,"['Drama', 'Romance']",1,92,0,0
+1030,the last king of scotland,2006,1,1,17606684,6000000,2,R,123,"['Biography', 'Drama', 'History', 'Thriller']",30,87,0,1
+1031,the last of the mohicans,1992,1,1,75505856,40000000,9,R,112,"['Action', 'Adventure', 'Drama', 'Romance', 'War']",37,93,0,0
+1032,the last samurai,2003,0,4,111127263,140000000,12,R,154,"['Action', 'Drama', 'War']",33,66,0,0
+1033,the last station,2009,0,2,6617867,18000000,9,R,112,"['Biography', 'Drama', 'Romance']",0,71,0,0
+1034,the last temptation of christ,1988,0,1,8373585,7000000,8,R,164,['Drama'],19,81,0,0
+1035,the lego movie,2014,0,1,257760692,60000000,2,PG,100,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",96,96,0,0
+1036,the lighthouse,2019,0,1,10867104,4000000,10,R,109,"['Drama', 'Fantasy', 'Horror', 'Mystery']",0,92,0,1
+1037,the lion king,1994,2,5,543638043,260000000,7,PG,118,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical']",27,93,0,0
+1038,the little matchgirl,2006,0,1,791247,,9,,123,"['Action', 'Comedy', 'Sci-Fi']",4,92,0,0
+1039,the little mermaid,1989,2,3,111543479,,11,G,83,"['Animation', 'Family', 'Fantasy', 'Musical', 'Romance']",7,93,0,0
+1040,the lobster,2016,0,1,9077245,4500000,10,R,119,"['Comedy', 'Drama', 'Romance', 'Sci-Fi', 'Thriller']",17,87,0,0
+1041,the lone ranger,2013,0,2,89302115,215000000,7,PG-13,150,"['Action', 'Adventure', 'Comedy', 'Thriller', 'War', 'Western']",51,31,0,0
+1042,the lord of the rings: the fellowship of the ring,2001,4,13,315544750,93000000,12,PG-13,178,"['Action', 'Adventure', 'Drama', 'Fantasy']",21,91,0,0
+1043,the lord of the rings: the return of the king,2003,11,11,377845905,94000000,12,PG-13,201,"['Adventure', 'Drama', 'Fantasy']",38,93,0,0
+1044,the lord of the rings: the two towers,2002,2,6,342551365,94000000,12,PG-13,179,"['Adventure', 'Drama', 'Fantasy']",37,95,0,0
+1045,the lost thing,2010,1,1,3287315,,10,R,118,['Drama'],2,83,0,0
+1046,the lost world: jurassic park,1997,0,1,229086679,73000000,5,PG-13,129,"['Action', 'Adventure', 'Sci-Fi']",58,92,0,0
+1047,the lovely bones,2009,0,1,44114232,65000000,9,PG-13,135,"['Drama', 'Fantasy', 'Thriller']",14,31,0,0
+1048,the lover,1992,0,1,4899194,,6,R,115,"['Biography', 'Drama', 'Romance']",3,32,0,0
+1049,the madness of king george,1994,1,4,15238689,,12,PG-13,110,"['Biography', 'Comedy', 'Drama', 'History']",16,93,0,1
+1050,the mambo kings,1992,0,1,6742168,,2,R,104,"['Drama', 'Music']",4,81,0,0
+1051,the man who wasn't there,2001,0,1,7504257,,10,R,116,"['Crime', 'Drama']",0,92,0,0
+1052,the martian,2015,0,7,228433663,108000000,9,PG-13,144,"['Adventure', 'Drama', 'Sci-Fi']",43,91,0,0
+1053,the mask,1994,0,1,119938730,23000000,7,PG-13,101,"['Action', 'Comedy', 'Crime', 'Fantasy']",0,77,0,0
+1054,the mask of zorro,1998,0,2,94095523,95000000,7,PG-13,136,"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller', 'Western']",37,82,0,0
+1055,the master,2012,0,3,16377274,37500000,9,R,138,['Drama'],16,85,0,0
+1056,the matrix,1999,4,4,171479930,63000000,3,R,136,"['Action', 'Sci-Fi']",29,88,0,0
+1057,the mermaid,1997,0,1,3232685,,2,R,94,"['Comedy', 'Drama', 'Fantasy', 'Romance']",12,92,0,0
+1058,the messenger,2009,0,2,1109660,6500000,11,R,113,"['Drama', 'Romance', 'War']",0,90,0,0
+1059,the milagro beanfield war,1988,1,1,13825794,,3,R,117,"['Comedy', 'Drama', 'Fantasy']",2,58,0,0
+1060,the mirror has two faces,1996,0,2,41083864,42000000,11,PG-13,126,"['Comedy', 'Drama', 'Romance']",0,55,0,0
+1061,the mission,1986,1,7,17218023,,10,PG,125,"['Adventure', 'Drama', 'History']",7,64,0,1
+1062,the morning after,1986,0,1,25147055,,12,R,103,"['Crime', 'Mystery', 'Romance', 'Thriller']",11,67,0,0
+1063,the motorcycle diaries,2004,1,2,16781387,,5,R,126,"['Adventure', 'Biography', 'Drama']",1,83,0,1
+1064,the mummy,1999,0,1,155385488,80000000,5,PG-13,124,"['Action', 'Adventure', 'Fantasy']",50,60,0,0
+1065,the muppets,2011,1,1,88631237,45000000,11,PG,,"['Adventure', 'Comedy', 'Family', 'Musical']",65,95,0,0
+1066,the neighbors' window,2019,1,1,330661,,1,NR,,"['Drama', 'Short']",4,92,0,0
+1067,the new world,2005,0,1,12712093,30000000,3,PG-13,135,"['Biography', 'Drama', 'History', 'Romance']",0,63,0,1
+1068,the nightmare before christmas,1993,0,1,75082668,,10,PG,76,"['Animation', 'Family', 'Fantasy', 'Musical']",53,95,0,0
+1069,the nutty professor,1996,1,1,128814019,54000000,6,PG-13,95,"['Comedy', 'Romance', 'Sci-Fi']",30,64,0,0
+1070,the official story,1985,0,1,29426,,11,R,112,"['Drama', 'History', 'War']",4,100,0,0
+1071,the old man and the sea,1999,1,1,67740,,10,G,86,"['Adventure', 'Drama']",6,90,0,0
+1072,the paper,1994,0,1,38824341,,3,R,112,"['Comedy', 'Drama']",8,88,0,0
+1073,the passion of the christ,2004,0,3,370782930,30000000,2,R,127,['Drama'],28,49,0,1
+1074,the patriot,2000,0,3,113330342,110000000,6,R,165,"['Action', 'Drama', 'History', 'War']",39,61,0,0
+1075,the people vs. larry flynt,1996,0,2,20300385,,12,R,130,"['Biography', 'Drama']",13,88,0,0
+1076,the perfect storm,2000,0,2,182618434,140000000,6,PG-13,130,"['Action', 'Adventure', 'Drama', 'Thriller']",0,47,0,1
+1077,the phantom of the opera,2004,0,3,51268815,70000000,12,PG-13,143,"['Drama', 'Musical', 'Romance', 'Thriller']",3,33,0,0
+1078,the pianist,2002,3,7,32572577,35000000,1,R,150,"['Biography', 'Drama', 'Music', 'War']",20,95,0,1
+1079,the piano,1993,3,8,40157856,7000000,11,R,121,"['Drama', 'Music', 'Romance']",8,92,0,0
+1080,the pig,2008,0,1,24666,,4,NR,104,"['Comedy', 'Crime', 'Drama', 'Horror', 'Mystery']",5,92,0,0
+1081,the pirates! band of misfits,2012,0,1,31051126,55000000,3,PG,88,"['Adventure', 'Animation', 'Comedy', 'Family']",0,86,0,0
+1082,the player,1992,0,3,21706101,8000000,4,R,124,"['Comedy', 'Crime', 'Drama', 'Thriller']",17,98,0,0
+1083,the polar express,2004,0,3,187224490,165000000,11,G,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",26,56,0,0
+1084,the portrait of a lady,1996,0,2,3692836,,12,PG-13,144,"['Drama', 'Romance']",6,45,0,0
+1085,the post,2017,0,2,81903458,50000000,12,PG-13,116,"['Drama', 'Thriller']",16,88,0,1
+1086,the postman (il postino),1995,1,5,21848932,,6,PG,108,"['Biography', 'Comedy', 'Drama', 'Romance']",20,93,0,0
+1087,the preacher's wife,1996,0,1,48102795,,12,PG,123,"['Comedy', 'Drama', 'Fantasy', 'Romance']",8,92,0,0
+1088,the prestige,2006,0,2,53089891,40000000,10,PG-13,130,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",24,76,0,0
+1089,the prince of egypt,1998,1,2,101413188,70000000,12,PG,99,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Musical']",62,80,0,0
+1090,the prince of tides,1991,0,7,74787599,30000000,12,R,132,"['Drama', 'Romance']",6,69,0,0
+1091,the princess and the frog,2009,0,3,104400899,105000000,11,G,97,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",58,85,0,0
+1092,the princess bride,1987,0,1,30857814,15000000,9,PG,98,"['Adventure', 'Family', 'Fantasy', 'Romance']",50,97,0,0
+1093,the purple rose of cairo,1985,0,1,10631333,,3,PG,82,"['Comedy', 'Fantasy', 'Romance']",11,92,0,0
+1094,the pursuit of happyness,2006,0,1,163566459,55000000,12,PG-13,117,"['Biography', 'Drama']",14,67,0,1
+1095,the queen,2006,1,6,56441711,15000000,9,PG-13,103,"['Biography', 'Drama', 'History']",12,96,0,1
+1096,the quiet american,2002,0,1,12988801,30000000,11,R,101,"['Drama', 'Romance', 'Thriller', 'War']",10,87,0,0
+1097,the reader,2008,1,5,34194407,32000000,12,R,124,"['Drama', 'Romance']",5,63,0,0
+1098,the red turtle,2016,0,1,921974,,6,PG,80,"['Animation', 'Family', 'Fantasy']",2,93,0,0
+1099,the red violin,1999,1,1,10019109,18000000,11,R,130,"['Drama', 'Music', 'Mystery', 'Romance']",21,74,0,0
+1100,the remains of the day,1993,0,8,23237911,15000000,11,PG,134,"['Drama', 'Romance']",10,95,0,0
+1101,the revenant,2015,3,12,183637894,135000000,12,R,156,"['Action', 'Adventure', 'Drama', 'History', 'Western']",42,78,0,1
+1102,the rock,1996,0,1,134069511,75000000,6,R,136,"['Action', 'Adventure', 'Thriller']",39,66,0,0
+1103,the royal tenenbaums,2001,0,1,52364010,21000000,12,R,110,"['Comedy', 'Drama']",17,80,0,0
+1104,the sandman,1992,0,1,92080,,9,NR,,"['Animation', 'Fantasy', 'Horror', 'Short']",0,92,0,0
+1105,the savages,2007,0,2,6623082,9000000,11,R,114,"['Comedy', 'Drama']",18,89,0,0
+1106,the saviour,2006,0,1,636563,,9,NR,105,['Drama'],6,84,0,0
+1107,the sea inside,2004,0,1,2104923,,9,PG-13,126,"['Biography', 'Drama']",0,84,0,1
+1108,the secret of kells,2009,0,1,676775,8000000,2,G,71,"['Adventure', 'Animation', 'Family', 'Fantasy']",31,91,0,0
+1109,the sessions,2012,0,1,6002451,1000000,10,R,95,"['Biography', 'Comedy', 'Drama', 'Romance']",1,91,0,0
+1110,the shape of water,2017,4,13,63859435,19500000,12,R,123,"['Adventure', 'Drama', 'Fantasy', 'Romance', 'Thriller']",29,92,0,0
+1111,the shawshank redemption,1994,0,7,28699976,25000000,9,R,142,['Drama'],68,90,0,0
+1112,the shore,2011,1,1,38982260,,12,PG-13,94,"['Comedy', 'Horror', 'Musical', 'Romance', 'Sci-Fi']",1,65,0,0
+1113,the silence of the lambs,1991,5,7,130742922,19000000,2,R,118,"['Crime', 'Drama', 'Thriller']",48,96,0,0
+1114,the sixth sense,1999,0,6,293506292,40000000,8,PG-13,107,"['Drama', 'Mystery', 'Thriller']",18,86,0,0
+1115,the social network,2010,3,8,96962694,40000000,10,PG-13,,"['Biography', 'Drama']",60,96,0,1
+1116,the squid and the whale,2005,0,1,7372734,1500000,10,R,81,"['Comedy', 'Drama']",1,92,0,0
+1117,the straight story,1999,0,1,6203044,10000000,10,G,112,"['Biography', 'Drama']",0,95,0,1
+1118,the sweet hereafter,1997,0,2,3263585,5000000,10,R,112,['Drama'],7,98,0,0
+1119,the tale of the princess kaguya,2014,0,1,974913,,11,PG,137,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",3,100,0,0
+1120,the talented mr. ripley,1999,0,5,81298265,40000000,12,R,139,"['Crime', 'Drama', 'Thriller']",14,83,0,0
+1121,the tempest,2010,0,1,277943,20000000,12,PG-13,110,"['Comedy', 'Drama', 'Fantasy', 'Romance']",0,30,0,0
+1122,the theory of everything,2014,1,5,35893537,15000000,11,PG-13,123,"['Biography', 'Drama', 'Romance']",8,80,0,1
+1123,the thin red line,1998,0,7,36400491,52000000,12,R,170,"['Drama', 'War']",0,80,0,0
+1124,the time machine,2002,0,1,56832494,80000000,3,PG-13,96,"['Action', 'Adventure', 'Sci-Fi']",17,29,0,0
+1125,the town,2010,0,1,92186262,37000000,9,R,125,"['Crime', 'Drama', 'Thriller']",31,93,0,0
+1126,the tree of life,2011,0,3,13303319,32000000,5,PG-13,139,"['Drama', 'Fantasy']",19,84,0,0
+1127,the trip to bountiful,1985,1,2,7491903,,12,PG,108,['Drama'],3,100,0,0
+1128,the triplets of belleville,2003,0,2,7007149,,6,PG-13,80,"['Animation', 'Comedy', 'Drama']",24,94,0,0
+1129,the truman show,1998,0,3,125618201,60000000,6,PG,103,"['Comedy', 'Drama', 'Sci-Fi']",55,95,0,0
+1130,the two popes,2019,0,3,243711,,12,PG-13,125,"['Comedy', 'Drama']",7,89,0,1
+1131,the unbearable lightness of being,1988,0,2,10006806,,2,R,171,"['Drama', 'Romance']",1,85,0,0
+1132,the untouchables,1987,1,4,76270454,25000000,6,R,119,"['Crime', 'Drama', 'Thriller']",49,82,0,1
+1133,the usual suspects,1995,2,2,23341568,6000000,8,R,106,"['Crime', 'Mystery', 'Thriller']",45,89,0,0
+1134,the village,1993,0,2,114197520,60000000,8,PG-13,108,"['Drama', 'Mystery', 'Thriller']",17,43,0,0
+1135,the visitor,2008,0,1,180011740,100000000,7,PG-13,119,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",7,92,0,0
+1136,the way back,2010,0,1,13590514,,3,R,108,"['Drama', 'Sport']",5,74,0,1
+1137,the whales of august,1987,0,1,1338198,,10,PG,90,['Drama'],0,60,0,0
+1138,the white ribbon,2009,0,1,2222862,18000000,9,R,144,"['Drama', 'History', 'Mystery', 'Thriller']",5,86,0,0
+1139,the wife,2018,0,1,9601092,,8,R,99,['Drama'],3,86,0,0
+1140,the wild thornberrys movie,2002,0,1,40108697,25000000,12,PG,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",30,80,0,0
+1141,the wind rises,2013,0,1,5209580,,2,PG-13,126,"['Animation', 'Biography', 'Drama', 'History', 'Romance', 'War']",24,88,0,0
+1142,the wings of the dove,1997,0,4,13692848,,11,R,102,"['Drama', 'Romance']",0,84,0,0
+1143,the witches of eastwick,1987,0,2,63766510,,6,R,118,"['Comedy', 'Fantasy', 'Horror']",11,76,0,0
+1144,the wolf of wall street,2013,0,5,116900694,100000000,12,R,,"['Biography', 'Crime', 'Drama']",57,79,0,1
+1145,the wolfman,2010,1,1,61979680,150000000,2,R,103,"['Drama', 'Fantasy', 'Horror', 'Thriller']",4,34,0,0
+1146,the wrestler,2008,0,2,26238243,6000000,12,R,109,"['Drama', 'Sport']",16,98,0,0
+1147,the young victoria,2009,1,3,11001272,35000000,3,PG,105,"['Biography', 'Drama', 'History', 'Romance']",4,76,0,1
+1148,thelma & louise,1991,1,6,45360915,16500000,5,R,130,"['Adventure', 'Crime', 'Drama']",27,84,0,0
+1149,there will be blood,2007,2,8,40222514,25000000,12,R,158,['Drama'],40,91,0,0
+1150,thirteen,2003,0,1,4601043,2000000,8,R,100,['Drama'],0,81,0,0
+1151,this way up,2008,0,1,8400000,,4,,95,"['Fantasy', 'Mystery', 'Thriller']",66,91,0,0
+1152,"three billboards outside ebbing, missouri",2017,2,7,54513740,12000000,11,R,115,"['Comedy', 'Crime', 'Drama']",33,91,0,0
+1153,throw momma from the train,1987,0,1,57915972,,12,PG-13,88,"['Comedy', 'Crime', 'Thriller']",32,63,0,0
+1154,tim burton's corpse bride,2005,0,1,53359111,,9,PG,77,"['Animation', 'Drama', 'Family', 'Fantasy', 'Musical', 'Romance']",36,84,0,0
+1155,time freak,2011,0,1,10003,,11,PG-13,104,"['Comedy', 'Drama', 'Romance', 'Sci-Fi']",2,92,0,0
+1156,timecode,2016,0,1,1057750,5000000,4,R,97,"['Drama', 'Romance']",0,68,0,0
+1157,tin toy,1988,1,1,123967,,7,NR,,"['Animation', 'Family', 'Fantasy', 'Short']",4,60,0,0
+1158,tinker tailor soldier spy,2011,0,3,24149393,21000000,9,R,122,"['Drama', 'Mystery', 'Thriller']",28,83,0,0
+1159,titanic,1997,11,14,659363944,200000000,12,PG-13,194,"['Drama', 'Romance']",62,89,0,1
+1160,titus,1999,0,1,2007290,,12,R,162,"['Drama', 'History', 'Thriller']",6,68,0,0
+1161,tom & viv,1994,0,2,538534,,12,PG-13,125,"['Biography', 'Drama', 'Romance']",10,31,0,1
+1162,top gun,1986,1,4,179800601,15000000,5,PG,110,"['Action', 'Drama']",34,54,0,0
+1163,topsy-turvy,1999,2,4,6208548,"[2200000, 41158757]",12,R,160,"['Biography', 'Comedy', 'Drama', 'History', 'Music', 'Musical']",8,89,0,1
+1164,total recall,1990,1,3,119412921,65000000,6,,113,"['Action', 'Sci-Fi', 'Thriller']",42,92,0,0
+1165,toy story,1995,0,3,222498679,30000000,11,G,81,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",44,100,0,0
+1166,toy story 2,1999,0,1,245852179,90000000,11,G,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",48,100,0,0
+1167,toy story 3,2010,2,5,415004880,200000000,6,G,103,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",80,98,0,0
+1168,toy story 4,2019,1,2,434038008,200000000,6,G,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",46,92,0,0
+1169,toys,1992,0,2,23278931,,12,PG-13,118,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",0,30,0,0
+1170,traffic,2000,4,5,124115725,48000000,12,R,147,"['Crime', 'Drama', 'Thriller']",10,93,0,1
+1171,training day,2001,1,2,76631907,45000000,10,R,122,"['Crime', 'Drama', 'Thriller']",34,72,0,0
+1172,trainspotting,1996,0,1,16491080,3100000,7,R,93,['Drama'],29,91,0,0
+1173,transamerica,2005,0,2,9015303,1000000,12,R,103,"['Adventure', 'Comedy', 'Drama']",6,77,0,0
+1174,transformers,2007,0,3,319246193,150000000,6,PG-13,144,"['Action', 'Adventure', 'Sci-Fi']",0,58,0,0
+1175,transformers: dark of the moon,2011,0,3,352390543,195000000,6,PG-13,154,"['Action', 'Adventure', 'Sci-Fi']",55,35,0,0
+1176,transformers: revenge of the fallen,2009,0,1,402111870,200000000,6,PG-13,149,"['Action', 'Adventure', 'Sci-Fi']",31,20,0,0
+1177,treasure planet,2002,0,1,38176783,140000000,11,PG,95,"['Adventure', 'Animation', 'Family', 'Sci-Fi']",0,69,0,0
+1178,trevor,1994,1,1,16814,,7,R,88,"['Drama', 'Romance']",1,92,0,0
+1179,triangle,1994,0,1,1333377,12000000,10,R,99,"['Fantasy', 'Mystery', 'Thriller']",25,28,0,0
+1180,trolls,2016,0,1,153707064,125000000,10,PG,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",44,76,0,0
+1181,tron: legacy,2010,0,1,172062763,170000000,12,PG,125,"['Action', 'Adventure', 'Sci-Fi']",84,51,0,0
+1182,tropic thunder,2008,0,1,110515313,92000000,8,R,107,"['Action', 'Comedy', 'War']",49,82,0,0
+1183,troy,2004,0,1,133378256,175000000,5,R,163,"['Drama', 'History']",0,54,0,1
+1184,true grit,2010,0,10,171243005,38000000,12,PG-13,110,"['Drama', 'Western']",40,96,0,0
+1185,true lies,1994,0,1,146282411,115000000,7,R,141,"['Action', 'Comedy', 'Thriller']",51,71,0,0
+1186,trumbo,2015,0,1,7857741,15000000,11,R,124,"['Biography', 'Drama']",16,74,0,1
+1187,tucker the man and his dream,1988,0,3,19652638,,8,PG,110,"['Biography', 'Drama']",6,83,0,1
+1188,tumbleweeds,1999,0,1,1350248,312000,11,PG-13,102,"['Comedy', 'Drama']",0,82,0,0
+1189,twice in a lifetime,1985,0,1,8402424,,10,R,111,"['Drama', 'Romance']",21,83,0,0
+1190,twister,1996,0,2,241721524,92000000,5,PG-13,113,"['Action', 'Adventure', 'Thriller']",27,57,0,0
+1191,"two days, one night",2014,0,1,1436243,,5,PG-13,95,['Drama'],17,97,0,0
+1192,two soldiers,2003,1,1,3530620,,8,R,105,"['Action', 'Horror', 'Thriller']",3,92,0,0
+1193,u-571,2000,1,2,77122415,62000000,4,PG-13,116,"['Action', 'War']",5,68,0,0
+1194,ulee's gold,1997,0,1,9161691,2700000,6,R,113,['Drama'],1,94,0,0
+1195,unbroken,2014,0,3,115637895,65000000,12,PG-13,137,"['Biography', 'Drama', 'Sport', 'War']",14,50,0,1
+1196,under siege,1992,0,2,83563139,,10,R,103,"['Action', 'Thriller']",36,79,0,0
+1197,unfaithful,2002,0,1,52775765,50000000,5,R,124,"['Drama', 'Romance', 'Thriller']",8,50,0,0
+1198,unforgiven,1992,4,9,101157447,14400000,8,R,130,"['Drama', 'Western']",50,96,0,0
+1199,united 93,2006,0,2,31483450,15000000,4,R,111,"['Drama', 'History', 'Thriller']",19,90,0,1
+1200,unstoppable,2010,0,1,81562942,100000000,11,PG-13,98,"['Action', 'Thriller']",29,86,0,1
+1201,unstrung heroes,1995,0,1,7929434,,9,PG,93,"['Comedy', 'Drama']",0,74,0,0
+1202,up,2009,2,5,293004164,175000000,5,PG,96,"['Adventure', 'Animation', 'Comedy', 'Family']",66,98,0,0
+1203,up close and personal,1996,0,1,51088705,,3,PG-13,124,"['Drama', 'Romance']",15,31,0,0
+1204,up in the air,2009,0,6,83823381,25000000,12,R,109,"['Comedy', 'Drama', 'Romance']",23,91,0,0
+1205,valmont,1989,0,1,1132112,,11,R,137,"['Drama', 'Romance']",10,55,0,0
+1206,vanilla sky,2001,0,1,100618344,68000000,12,R,136,"['Fantasy', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller']",24,42,0,0
+1207,vatel,2000,0,1,51080,,12,PG-13,103,"['Biography', 'Drama', 'Romance']",0,31,0,0
+1208,velvet goldmine,1998,0,1,1053788,9000000,11,R,118,"['Drama', 'Music']",8,57,0,0
+1209,venus,2006,0,1,3347411,6000000,12,R,95,"['Comedy', 'Drama', 'Romance']",0,89,0,0
+1210,vera drake,2004,0,3,3775283,11000000,10,R,125,"['Crime', 'Drama']",2,92,0,0
+1211,vice,2018,1,8,47836282,60000000,12,R,132,"['Biography', 'Comedy', 'Drama']",21,92,0,1
+1212,vicky cristina barcelona,2008,1,1,23216709,16000000,8,PG-13,96,"['Comedy', 'Drama', 'Romance']",7,81,0,0
+1213,victor,1998,0,1,117755,,9,PG-13,105,"['Biography', 'Crime', 'Drama']",26,81,0,0
+1214,victoria & abdul,2017,0,2,22245070,,9,PG-13,111,"['Biography', 'Drama', 'History']",5,66,0,1
+1215,volver,2006,0,1,12899867,9400000,3,R,121,"['Comedy', 'Drama']",8,91,0,0
+1216,w.e.,2011,0,1,583455,,1,R,119,"['Drama', 'History', 'Romance']",0,12,0,0
+1217,wag the dog,1997,0,2,43061945,15000000,12,R,97,"['Comedy', 'Drama']",0,85,0,0
+1218,walk the line,2005,1,5,119519402,28000000,2,PG-13,136,"['Biography', 'Drama', 'Music', 'Romance']",9,82,0,1
+1219,wall street,1987,1,1,43848069,16500000,12,R,126,"['Crime', 'Drama']",20,78,0,0
+1220,wall-e,2008,1,6,223808164,180000000,6,G,98,"['Adventure', 'Animation', 'Family', 'Sci-Fi']",56,95,0,0
+1221,wallace & gromit in the curse of the were-rabbit,2005,1,1,56110897,30000000,9,G,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi']",34,95,0,0
+1222,wanted,2008,0,2,134508551,75000000,6,R,110,"['Action', 'Crime', 'Fantasy', 'Thriller']",29,71,0,0
+1223,war for the planet of the apes,2017,0,1,146880162,150000000,7,PG-13,140,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",54,92,0,0
+1224,war horse,2011,0,6,79884879,66000000,12,PG-13,146,"['Action', 'Adventure', 'Drama', 'History', 'War']",26,75,0,0
+1225,war of the worlds,2005,0,3,234280354,132000000,6,PG-13,116,"['Adventure', 'Sci-Fi', 'Thriller']",43,75,0,0
+1226,warrior,2011,0,1,13657115,25000000,9,PG-13,140,"['Action', 'Drama', 'Sport']",0,83,0,0
+1227,wasp,2004,1,1,1421563,,1,NR,127,"['Crime', 'Drama', 'Thriller']",78,84,0,0
+1228,wat's pig,1996,0,1,112175,,6,NR,,"['Animation', 'Short']",6,81,0,0
+1229,waterworld,1995,0,1,88246220,175000000,7,PG-13,135,"['Action', 'Adventure', 'Sci-Fi']",23,46,0,0
+1230,weekends,2018,0,1,481807,,2,R,90,['Drama'],6,85,0,0
+1231,whale rider,2003,0,1,20779666,3500000,1,PG-13,101,"['Drama', 'Family']",9,91,0,0
+1232,what dreams may come,1998,1,2,55382927,85000000,10,PG-13,113,"['Drama', 'Fantasy', 'Romance']",11,54,0,0
+1233,what's eating gilbert grape,1993,0,1,10032765,11000000,12,PG-13,118,['Drama'],11,90,0,0
+1234,what's love got to do with it,1993,0,2,39100956,15000000,6,R,118,"['Biography', 'Drama', 'Music']",0,96,0,0
+1235,when harry met sally...,1989,0,1,93075866,"[2200000, 41158757]",7,R,95,"['Comedy', 'Drama', 'Romance']",17,90,0,0
+1236,when marnie was there,2015,0,1,561085,,7,PG,103,"['Animation', 'Drama', 'Family', 'Mystery']",15,91,0,0
+1237,when the day breaks,1999,0,1,39302,,12,NR,95,['Drama'],0,73,0,0
+1238,whiplash,2014,3,5,13092000,3300000,10,R,106,"['Drama', 'Music']",47,94,0,0
+1239,white nights,1985,1,2,42160849,,11,PG-13,136,"['Drama', 'Music']",0,46,0,0
+1240,who framed roger rabbit,1988,3,6,156452370,70000000,6,,104,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Fantasy', 'Mystery']",89,92,0,0
+1241,wild,2014,0,2,37880356,15000000,12,R,115,"['Biography', 'Drama']",0,89,0,1
+1242,wild at heart,1990,0,1,14560247,,8,R,125,"['Comedy', 'Crime', 'Drama', 'Thriller']",9,65,0,0
+1243,wild life,2011,0,1,11020375,,9,NR,96,"['Comedy', 'Drama']",0,43,0,0
+1244,william shakespeare's romeo & juliet,1996,0,1,46351345,,11,PG-13,,"['Drama', 'Romance']",14,72,0,0
+1245,willow,1988,0,2,57269863,,5,PG,126,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",33,50,0,0
+1246,winter's bone,2010,0,4,6531503,2000000,6,R,100,"['Drama', 'Mystery']",11,94,0,0
+1247,witness,1985,2,8,68706993,12000000,2,R,112,"['Crime', 'Drama', 'Romance', 'Thriller']",29,93,0,0
+1248,wonder,2017,0,1,132422809,20000000,10,PG,113,"['Drama', 'Family']",26,85,0,0
+1249,wonder boys,2000,1,3,19393557,55000000,2,R,107,"['Comedy', 'Drama']",3,82,0,0
+1250,wordless,1996,0,1,3868257,,11,R,117,"['Action', 'Adventure', 'History']",5,92,0,0
+1251,work experience,1989,1,1,18016290,2000000,8,R,88,['Comedy'],3,39,0,0
+1252,working girl,1988,1,6,63779477,,12,R,113,"['Comedy', 'Drama', 'Romance']",11,83,0,0
+1253,world of tomorrow,2015,0,1,37762677,70000000,9,PG,106,"['Action', 'Adventure', 'Mystery', 'Sci-Fi', 'Thriller']",6,100,0,0
+1254,wreck-it ralph,2012,0,1,189422889,165000000,11,PG,101,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",116,87,0,0
+1255,wyatt earp,1994,0,1,25052000,63000000,6,PG-13,191,"['Adventure', 'Biography', 'Crime', 'Drama', 'Western']",7,44,0,1
+1256,x-men: days of future past,2014,0,1,233921534,200000000,5,PG-13,132,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",110,90,0,0
+1257,y tu mamá también,2002,0,1,13839658,5000000,11,R,106,['Drama'],6,92,0,0
+1258,you can count on me,2000,0,2,9416804,1200000,11,R,111,['Drama'],12,95,0,0
+1259,young guns ii,1990,0,1,44143410,,8,,104,"['Action', 'Western']",12,92,0,0
+1260,young sherlock holmes,1985,0,1,19739575,18000000,12,PG-13,109,"['Adventure', 'Fantasy', 'Mystery', 'Thriller']",30,64,0,0
+1261,youth,2015,0,1,2703296,13000000,5,R,124,"['Comedy', 'Drama', 'Music', 'Romance']",0,72,0,0
+1262,zero dark thirty,2012,1,5,95720716,40000000,12,R,157,"['Drama', 'History', 'Thriller', 'War']",27,91,0,1
+1263,zootopia,2016,1,1,341268248,150000000,2,PG,108,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Mystery']",133,98,0,0

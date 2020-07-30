@@ -1,0 +1,1265 @@
+,level_0,index,movie,times_nominated,oscar_win,domestic_boxoffice,distributor,budget,release_month,MPAA_rating,running_time,genre,tropes,rt_score,year,book_based
+0,0,0,crocodile dundee,1,0,174803506,Paramount Pictures,8800000,9,PG-13,97,"['Action', 'Adventure', 'Comedy']",19,87,1986,0
+1,1,1,round midnight,2,1,3272593,Warner Bros.,,10,R,133,"['Drama', 'Music']",5,100,1986,1
+2,2,3,102 dalmatians,1,0,66957026,Walt Disney Studios,85000000,11,G,100,"['Adventure', 'Comedy', 'Family']",6,31,2000,0
+3,3,4,12 monkeys,2,0,57141459,Universal Pictures,29000000,12,R,129,"['Mystery', 'Sci-Fi', 'Thriller']",23,90,1995,0
+4,4,5,12 years a slave,9,3,56671993,Fox Searchlight Pictures,20000000,10,R,134,"['Biography', 'Drama', 'History']",31,95,2013,0
+5,5,6,127 hours,6,0,18335230,Fox Searchlight Pictures,18000000,11,R,94,"['Biography', 'Drama']",14,92,2010,1
+6,6,8,13 hours: the secret soldiers of benghazi,1,0,52853219,Paramount Pictures,50000000,2,R,144,"['Action', 'Drama', 'War']",13,51,2016,1
+7,7,9,1917,10,3,159227644,Universal Pictures,95000000,12,R,119,"['Drama', 'War']",29,92,2019,0
+8,8,10,20th century women,1,0,5664764,A24,,12,R,119,"['Comedy', 'Drama']",2,88,2016,0
+9,9,11,21 grams,2,0,16290476,Focus Features,20000000,11,R,124,"['Crime', 'Drama', 'Thriller']",7,80,2003,0
+10,10,12,3 misses,1,0,28273,,,10,R,101,['Drama'],0,91,1999,0
+11,11,13,3:10 to yuma,2,0,53606916,Lionsgate,55000000,9,R,122,"['Action', 'Crime', 'Drama', 'Western']",27,89,2007,1
+12,12,14,45 years,1,0,4247285,IFC Films,,8,R,91,"['Drama', 'Romance']",6,97,2015,1
+13,13,16,8 mile,1,1,116750901,Universal Pictures,41000000,11,R,110,"['Drama', 'Music']",22,92,2002,0
+14,14,17,9,1,0,31749894,Focus Features,30000000,8,PG-13,79,"['Action', 'Adventure', 'Animation', 'Drama', 'Sci-Fi']",60,92,2005,0
+15,15,18,a beautiful day in the neighborhood,1,0,61704055,Sony Pictures Releasing,25000000,11,PG,109,"['Biography', 'Drama']",11,96,2019,1
+16,16,19,a beautiful mind,8,4,170742341,Universal Pictures,58000000,12,PG-13,135,"['Biography', 'Drama']",11,74,2001,1
+17,17,20,a better life,1,0,1759252,Summit Entertainment,10000000,6,PG-13,98,"['Drama', 'Romance']",8,85,2011,0
+18,18,21,a bug's life,1,0,162798565,Walt Disney Studios,120000000,11,G,95,"['Adventure', 'Animation', 'Comedy', 'Family']",48,92,1998,0
+19,19,22,a cat in paris,1,0,309973,GKIDS,,12,PG,70,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family']",21,83,2011,0
+20,20,23,a chorus line,3,0,14202899,Columbia Pictures,,12,PG-13,113,"['Drama', 'Music', 'Musical']",12,40,1985,0
+21,21,24,a civil action,2,0,56709981,Walt Disney Studios,75000000,12,PG-13,115,['Drama'],6,61,1998,1
+22,22,25,a close shave,1,1,112175,Northern Arts Entertainment,,6,NR,,"['Animation', 'Comedy', 'Crime', 'Family', 'Short']",21,100,1995,0
+23,23,26,a cry in the dark,1,0,6908797,Warner Bros.,,11,PG-13,,"['Biography', 'Drama']",5,93,1988,1
+24,24,27,a dry white season,1,0,3766879,Metro-Goldwyn-Mayer (MGM),,9,R,106,"['Drama', 'Thriller']",6,81,1989,0
+25,25,28,a few good men,4,0,141340178,Columbia Pictures,41000000,12,R,138,"['Drama', 'Thriller']",49,83,1992,1
+26,26,29,a fish called wanda,3,1,62493712,Metro-Goldwyn-Mayer (MGM),,7,R,108,"['Comedy', 'Crime']",35,94,1988,0
+27,27,32,a handful of dust,1,0,1560700,New Line Cinema,,6,PG,118,"['Drama', 'Romance']",2,45,1988,0
+28,28,33,a history of violence,2,0,31504633,New Line Cinema,32000000,9,R,96,"['Drama', 'Thriller']",20,87,2005,0
+29,29,34,a little princess,2,0,10015449,Warner Bros.,,5,G,97,"['Drama', 'Family', 'Fantasy']",30,97,1995,1
+30,30,35,a man called ove,1,0,3479315,Music Box Films,,12,PG-13,116,"['Comedy', 'Drama', 'Romance']",13,90,2016,1
+31,31,37,a matter of loaf and death,1,0,124241,,,9,PG,104,"['Comedy', 'Drama', 'Fantasy', 'Romance', 'War']",31,77,2009,0
+32,32,38,a mighty wind,1,0,17781006,Warner Bros.,6000000,4,PG-13,91,"['Comedy', 'Music']",6,87,2003,0
+33,33,40,a quiet place,1,0,188024361,Paramount Pictures,17000000,4,PG-13,90,"['Drama', 'Horror', 'Sci-Fi']",16,92,2018,0
+34,34,41,a river runs through it,3,1,43440294,Columbia Pictures,,10,PG,123,['Drama'],10,80,1992,1
+35,35,42,a room with a view,8,3,20966644,Cinecom Pictures,3000000,3,R,117,"['Drama', 'Romance']",4,100,1986,1
+36,36,43,a separation,1,0,7099055,Sony Pictures Classics,,6,PG-13,123,['Drama'],7,99,2011,0
+37,37,44,a serious man,2,0,9228768,Focus Features,7000000,10,R,106,"['Comedy', 'Drama']",23,90,2009,0
+38,38,45,a simple plan,2,0,16316273,Paramount Pictures,30000000,12,R,121,"['Crime', 'Drama', 'Thriller']",8,90,1998,1
+39,39,46,a single life,1,0,14024,,,4,NR,75,['Documentary'],8,80,2014,0
+40,40,47,a single man,1,0,9176000,The Weinstein Company,7000000,12,R,99,"['Drama', 'Romance']",6,85,2009,1
+41,41,48,a sister,1,0,330661,Magnolia Pictures,,1,NR,,"['Drama', 'Short', 'Thriller']",9,92,2019,0
+42,42,50,a star is born,8,1,215288866,Warner Bros.,36000000,10,R,136,"['Drama', 'Music', 'Romance']",15,90,2018,1
+43,43,51,a very long engagement,2,0,6524389,Warner Independent Pictures (WIP),56600000,10,R,133,"['Drama', 'Mystery', 'Romance', 'War']",13,78,2004,1
+44,44,52,a.i. artificial intelligence,2,0,78616689,Warner Bros.,100000000,6,PG-13,146,"['Drama', 'Sci-Fi']",20,74,2001,1
+45,45,53,about a boy,1,0,41385278,Universal Pictures,30000000,4,PG-13,101,"['Comedy', 'Drama', 'Romance']",8,93,2002,0
+46,46,54,about schmidt,2,0,65016287,New Line Cinema,30000000,3,R,125,"['Comedy', 'Drama']",16,85,2002,1
+47,47,55,across the universe,1,0,24602291,Revolution Studios,45000000,9,PG-13,133,"['Drama', 'Fantasy', 'History', 'Music', 'Musical', 'Romance']",8,53,2007,0
+48,48,56,ad astra,1,0,50188370,Twentieth Century Fox,90000000,9,PG-13,123,"['Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",18,84,2019,0
+49,49,57,adam,1,0,33353,,3200000,7,NR,95,['Comedy'],11,38,1992,0
+50,50,59,adaptation,4,1,22498520,Sony Pictures Releasing,19000000,12,R,115,"['Comedy', 'Drama']",9,91,2002,1
+51,51,60,addams family values,1,0,48919043,Paramount Pictures,47000000,11,PG-13,94,"['Comedy', 'Fantasy']",59,77,1993,1
+52,52,61,affliction,2,1,6330054,Lionsgate,6000000,12,R,114,"['Drama', 'Mystery', 'Thriller']",7,88,1998,0
+53,53,62,afterglow,1,0,2465960,Sony Pictures Classics,,12,R,119,"['Comedy', 'Drama', 'Romance']",0,76,1997,0
+54,54,63,agnes of god,3,0,25627836,Columbia Pictures,,9,PG-13,98,"['Drama', 'Mystery']",7,43,1985,1
+55,55,64,air force one,2,0,172956409,Sony Pictures Releasing,85000000,7,R,124,"['Action', 'Drama', 'Thriller']",38,76,1997,0
+56,56,65,aladdin,5,2,355559216,Walt Disney Studios,183000000,5,PG,128,"['Adventure', 'Family', 'Fantasy', 'Musical', 'Romance']",66,95,1992,0
+57,57,66,albert nobbs,3,0,3014696,Roadside Attractions,7500000,12,R,113,"['Drama', 'Romance']",1,56,2011,0
+58,58,67,ali,2,0,58203105,Sony Pictures Releasing,107000000,12,R,157,"['Biography', 'Drama', 'Sport']",8,68,2001,0
+59,59,68,alice,1,0,334191110,Walt Disney Studios,200000000,3,PG,108,"['Adventure', 'Family', 'Fantasy']",1,75,1990,0
+60,60,69,alice in wonderland,3,2,334191110,Walt Disney Studios,200000000,3,PG,108,"['Adventure', 'Family', 'Fantasy']",44,51,2010,1
+61,61,70,alien 3,1,0,55473545,Twentieth Century Fox,50000000,5,R,114,"['Action', 'Horror', 'Sci-Fi']",32,44,1992,1
+62,62,71,aliens,7,2,85160248,Twentieth Century Fox,17000000,7,R,137,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",55,97,1986,0
+63,63,72,all is lost,1,0,6263670,Roadside Attractions,8500000,10,PG-13,106,"['Action', 'Adventure', 'Drama']",6,92,2013,0
+64,64,73,all the money in the world,1,0,25113707,TriStar Pictures,50000000,12,R,132,"['Biography', 'Crime', 'Drama', 'Mystery', 'Thriller']",14,92,2017,0
+65,65,74,allied,1,0,40098064,Paramount Pictures,85000000,11,R,124,"['Action', 'Drama', 'Romance', 'Thriller', 'War']",4,60,2016,0
+66,66,75,almost famous,4,1,32534850,DreamWorks Distribution,60000000,9,R,122,"['Adventure', 'Comedy', 'Drama', 'Music']",16,89,2000,0
+67,67,76,alone yet not alone,1,0,887851,Seatzy/Integrated Media Association,7000000,9,PG-13,103,"['Action', 'Drama', 'History', 'Romance', 'War']",3,63,2013,1
+68,68,78,american beauty,8,5,130096601,DreamWorks Distribution,15000000,9,R,122,['Drama'],36,87,1999,0
+69,69,79,american gangster,2,0,130164645,Universal Pictures,100000000,11,R,157,"['Biography', 'Crime', 'Drama', 'Thriller']",18,80,2007,1
+70,70,80,american history x,1,0,6719864,New Line Cinema,20000000,10,R,119,['Drama'],37,84,1998,0
+71,71,81,american hustle,10,0,150117807,Sony Pictures Releasing,40000000,12,R,138,"['Crime', 'Drama']",40,92,2013,0
+72,72,82,american sniper,6,1,350126372,Warner Bros.,58800000,12,R,133,"['Action', 'Biography', 'Drama', 'War']",20,72,2014,1
+73,73,83,american splendor,1,0,6010990,Fine Line Features,2000000,8,R,101,"['Biography', 'Comedy', 'Drama']",4,94,2003,0
+74,74,84,amistad,4,0,44229441,DreamWorks Distribution,36000000,12,R,155,"['Biography', 'Drama', 'History']",10,77,1997,0
+75,75,85,amour,4,0,6739492,Sony Pictures Classics,8900000,9,PG-13,127,"['Drama', 'Romance']",8,93,2012,0
+76,76,86,amélie,4,0,33225499,Miramax,10000000,4,R,122,"['Comedy', 'Romance']",8,88,2001,0
+77,77,87,an american tail,1,0,47483002,Universal Pictures,,11,G,80,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Musical']",33,71,1986,0
+78,78,88,an education,3,0,12574914,Sony Pictures Classics,7500000,10,PG-13,100,['Drama'],18,94,2009,0
+79,79,89,an inconvenient truth,1,1,24146161,Paramount Classics,1000000,5,PG,96,"['Documentary', 'News']",1,92,2006,0
+80,80,90,anastasia,2,0,58406347,Twentieth Century Fox,53000000,11,G,94,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Musical', 'Mystery', 'Romance']",45,85,1997,1
+81,81,91,angela's ashes,1,0,13042112,Paramount Pictures,50000000,12,R,145,['Drama'],7,52,1999,1
+82,82,92,angels and insects,1,0,3414301,The Samuel Goldwyn Company,,1,R,116,"['Drama', 'Romance']",13,71,1996,1
+83,83,93,animal behaviour,1,0,41526,Miramax,,10,NR,85,"['Comedy', 'Romance']",3,46,2018,0
+84,84,94,animal kingdom,1,0,1044039,Sony Pictures Classics,4200000,6,R,113,"['Crime', 'Drama']",17,94,2010,0
+85,85,95,anna,1,0,7743794,Lionsgate,4357373,6,R,118,"['Action', 'Thriller']",8,55,1987,0
+86,86,96,anna & bella,1,1,84273813,Warner Bros.,6500000,9,R,99,"['Horror', 'Mystery', 'Thriller']",1,10,1985,0
+87,87,97,anna and the king,2,0,39263420,Twentieth Century Fox,92000000,12,PG-13,148,"['Drama', 'History', 'Romance']",6,51,1999,1
+88,88,98,anna karenina,4,1,12816367,Focus Features,49000000,9,R,129,"['Drama', 'Romance']",13,92,2012,1
+89,89,99,anomalisa,1,0,3759286,Paramount Pictures,8000000,12,R,90,"['Animation', 'Comedy', 'Drama', 'Romance']",14,92,2015,1
+90,90,100,anonymous,1,0,4463292,Sony Pictures Releasing,30000000,10,PG-13,130,"['Drama', 'Thriller']",0,45,2011,0
+91,91,101,another year,1,0,3205706,Sony Pictures Classics,8000000,11,PG-13,129,"['Comedy', 'Drama']",2,92,2010,0
+92,92,102,apocalypto,3,0,50866635,Walt Disney Studios,40000000,12,R,139,"['Action', 'Adventure', 'Drama', 'Thriller']",30,66,2006,0
+93,93,103,apollo 13,9,2,173837933,Universal Pictures,65000000,6,PG,140,"['Adventure', 'Drama', 'History']",38,96,1995,1
+94,94,105,argo,7,3,136025503,Warner Bros.,44500000,10,R,,"['Biography', 'Drama', 'Thriller']",33,96,2012,1
+95,95,106,armageddon,4,0,201578182,Walt Disney Studios,140000000,7,PG-13,151,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",5,38,1998,0
+96,96,107,arrival,8,1,100546139,Paramount Pictures,47000000,11,PG-13,116,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",29,94,2016,1
+97,97,108,as good as it gets,7,2,148478011,Sony Pictures Releasing,50000000,12,PG-13,139,"['Comedy', 'Drama', 'Romance']",19,85,1997,0
+98,98,109,asad,1,0,14454364,,,4,NR,98,['Comedy'],0,56,2012,0
+99,99,110,at eternity's gate,1,0,2294915,CBS Films,,11,PG-13,111,"['Biography', 'Drama']",3,80,2018,0
+100,100,111,at night,1,0,535234033,Warner Bros.,185000000,7,PG-13,152,"['Action', 'Crime', 'Drama', 'Thriller']",3,31,2007,0
+101,101,112,atonement,7,1,50927067,Focus Features,30000000,9,R,123,"['Drama', 'Mystery', 'Romance', 'War']",13,83,2007,1
+102,102,113,"au revoir les enfants (goodbye, children)",1,0,4542825,Orion Classics,,2,PG,104,"['Drama', 'War']",7,97,1987,0
+103,103,115,august rush,1,0,31664162,Warner Bros.,25000000,11,PG,114,"['Drama', 'Music']",4,37,2007,0
+104,104,116,august: osage county,2,0,37738810,The Weinstein Company,25000000,12,R,121,"['Comedy', 'Drama']",16,66,2013,1
+105,105,118,austin powers: the spy who shagged me,1,0,206040086,New Line Cinema,33000000,6,PG-13,95,"['Action', 'Adventure', 'Comedy', 'Crime']",62,52,1999,1
+106,106,119,australia,1,0,49554002,Twentieth Century Fox,130000000,11,PG-13,165,"['Adventure', 'Comedy', 'Drama', 'Romance', 'War', 'Western']",15,55,2008,0
+107,107,120,avalon,4,0,15740796,TriStar Pictures,,10,PG,128,['Drama'],5,84,1990,0
+108,108,122,avatar,9,3,760507625,Twentieth Century Fox,237000000,12,PG-13,162,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",48,82,2009,0
+109,109,123,ave maria,1,0,6950,Submarine Deluxe,,11,NR,107,"['Biography', 'Documentary']",1,92,2015,0
+110,110,124,avengers: endgame,1,0,858373000,Walt Disney Studios,356000000,4,PG-13,181,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",0,94,2019,0
+111,111,125,avengers: infinity war,1,0,678815482,Walt Disney Studios,300000000,4,PG-13,149,"['Action', 'Adventure', 'Sci-Fi']",0,85,2018,1
+112,112,126,awakenings,3,0,52096475,Columbia Pictures,,12,PG-13,121,"['Biography', 'Drama']",4,88,1990,0
+113,113,127,away from her,2,0,4571521,Lionsgate,,4,PG-13,110,['Drama'],11,94,2007,1
+114,114,128,aya,1,0,18980744,,,12,R,133,"['Drama', 'History', 'Romance']",2,22,2014,0
+115,115,129,babe,7,1,63658910,Universal Pictures,30000000,8,G,91,"['Comedy', 'Drama', 'Family']",29,97,1995,1
+116,116,130,babe: pig in the city,1,0,18319860,Universal Pictures,90000000,11,G,97,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",9,65,1998,1
+117,117,131,babel,7,1,34302837,Paramount Vantage,20000000,10,R,143,['Drama'],13,69,2006,0
+118,118,132,baby driver,3,0,107825862,TriStar Pictures,34000000,6,R,113,"['Action', 'Crime', 'Drama', 'Music', 'Thriller']",77,92,2017,0
+119,119,133,back to the future,4,1,211159762,Universal Pictures,19000000,7,PG,116,"['Adventure', 'Comedy', 'Sci-Fi']",44,96,1985,0
+120,120,134,back to the future part ii,1,0,119000002,Universal Home Video,40000000,8,PG,108,"['Adventure', 'Comedy', 'Sci-Fi']",68,65,1989,1
+121,121,135,backdraft,3,0,77868585,Universal Pictures,,5,R,137,"['Crime', 'Drama', 'Mystery', 'Thriller']",18,74,1991,0
+122,122,137,bagdad cafe,1,0,3587303,Island Pictures,,4,PG,95,"['Comedy', 'Drama']",7,85,1988,0
+123,123,138,balance,1,1,42684,Expanded Entertainment,,3,NR,,"['Animation', 'Drama', 'Short']",1,92,1989,0
+124,124,139,bao,1,1,32138862,Lionsgate,60000000,2,R,119,"['Action', 'Crime', 'Drama', 'Thriller']",6,88,2018,0
+125,125,140,barney's version,1,0,4439201,Sony Pictures Classics,30000000,1,R,134,"['Comedy', 'Drama']",6,78,2010,1
+126,126,141,barton fink,3,0,6153939,Twentieth Century Fox,,8,R,116,"['Comedy', 'Drama', 'Thriller']",23,90,1991,0
+127,127,142,basic instinct,2,0,117727224,TriStar Pictures,49000000,3,R,127,"['Drama', 'Mystery', 'Thriller']",33,52,1992,0
+128,128,143,batman,1,1,"[2200000, 41158757]",Warner Bros.,35000000,10,PG-13,,"['Action', 'Crime', 'Drama']",83,71,1989,0
+129,129,144,batman begins,1,0,206852432,Warner Bros.,150000000,6,PG-13,140,"['Action', 'Adventure']",56,84,2005,1
+130,130,145,batman forever,3,0,184069126,Warner Bros.,100000000,6,PG-13,121,"['Action', 'Adventure']",52,39,1995,1
+131,131,146,batman returns,2,0,162902340,Warner Bros.,80000000,6,PG-13,126,"['Action', 'Crime', 'Fantasy']",90,80,1992,1
+132,132,147,beaches,1,0,57041866,Walt Disney Studios,,12,PG-13,123,"['Comedy', 'Drama', 'Music']",4,39,1988,1
+133,133,149,beasts of the southern wild,4,0,12795746,Fox Searchlight Pictures,1800000,6,PG-13,93,"['Adventure', 'Drama', 'Fantasy']",6,87,2012,0
+134,134,150,beauty and the beast,8,2,504014165,Walt Disney Studios,160000000,3,PG,129,"['Family', 'Fantasy', 'Musical', 'Romance']",58,94,1991,1
+135,135,151,beethoven's 2nd,1,0,53443066,Universal Pictures,,12,PG,89,"['Comedy', 'Family', 'Romance']",42,23,1993,1
+136,136,152,beetlejuice,1,1,74220408,Warner Bros.,15000000,3,PG,92,"['Comedy', 'Fantasy']",48,84,1988,0
+137,137,153,before midnight,1,0,8114627,Sony Pictures Classics,3000000,5,R,109,"['Drama', 'Romance']",15,98,2013,1
+138,138,154,before night falls,1,0,4242892,Fine Line Features,,12,R,133,"['Biography', 'Drama', 'Romance']",0,73,2000,0
+139,139,155,before sunset,1,0,5820649,Warner Independent Pictures (WIP),2700000,6,R,80,"['Drama', 'Romance']",15,95,2004,1
+140,140,156,begin again,1,0,16170632,The Weinstein Company,8000000,6,R,104,"['Comedy', 'Drama', 'Music', 'Romance']",9,83,2014,0
+141,141,157,beginners,1,1,5790894,Focus Features,3200000,6,R,105,"['Comedy', 'Drama', 'Romance']",0,85,2011,0
+142,142,158,being john malkovich,3,0,22863596,USA Films,13000000,10,R,113,"['Comedy', 'Drama', 'Fantasy']",10,93,1999,0
+143,143,159,being julia,1,0,7739049,Sony Pictures Classics,18000000,10,R,104,"['Comedy', 'Drama', 'Romance']",7,76,2004,1
+144,144,160,beloved,1,0,22852487,Walt Disney Studios,80000000,10,R,172,"['Drama', 'History', 'Horror']",11,78,1998,1
+145,145,161,beverly hills cop ii,1,0,153665036,Paramount Pictures,20000000,5,R,100,"['Action', 'Comedy', 'Crime', 'Thriller']",25,43,1987,1
+146,146,162,beyond the lights,1,0,14618727,Relativity Media,7000000,11,PG-13,116,"['Drama', 'Music', 'Romance']",23,92,2014,0
+147,147,163,bicentennial man,1,0,58223861,Walt Disney Studios,100000000,12,PG,132,"['Comedy', 'Drama', 'Sci-Fi']",19,36,1999,1
+148,148,164,big,2,0,115227281,Twentieth Century Fox,18000000,6,PG,104,"['Comedy', 'Drama', 'Fantasy', 'Romance']",11,97,1988,0
+149,149,165,big fish,1,0,66809693,Sony Pictures Releasing,70000000,12,PG-13,125,"['Adventure', 'Drama', 'Fantasy', 'Romance']",19,75,2003,0
+150,150,166,big hero 6,1,1,222527828,Walt Disney Studios,165000000,10,PG,102,"['Action', 'Adventure', 'Animation', 'Family', 'Sci-Fi']",71,89,2014,0
+151,151,167,billy elliot,3,0,21995263,Focus Features,5000000,9,R,110,"['Drama', 'Music']",5,85,2000,0
+152,152,169,birch street gym,1,0,84689,Truly Indie,,10,PG-13,90,['Documentary'],2,91,1991,0
+153,153,170,bird,1,1,2181286,Warner Bros.,,9,R,161,"['Biography', 'Drama', 'Music']",28,82,1988,0
+154,154,171,birdman or (the unexpected virtue of ignorance),9,4,42340598,Fox Searchlight Pictures,18000000,10,R,119,"['Comedy', 'Drama']",33,91,2014,0
+155,155,172,birthday boy,1,0,5142576,Miramax,,1,R,93,"['Comedy', 'Crime', 'Thriller']",8,62,2004,0
+156,156,173,biutiful,1,0,5101237,Roadside Attractions,35000000,10,R,148,"['Drama', 'Romance']",6,66,2010,0
+157,157,174,black hawk down,4,2,108638745,Revolution Studios,92000000,12,R,144,"['Drama', 'History', 'War']",41,76,2001,0
+158,158,175,black panther,7,3,700059566,Walt Disney Studios,200000000,2,PG-13,134,"['Action', 'Adventure', 'Sci-Fi']",69,92,2018,1
+159,159,176,black rain,2,0,46212055,Paramount Pictures,30000000,9,R,125,"['Action', 'Crime', 'Thriller']",13,50,1989,0
+160,160,178,black swan,5,1,106954678,Fox Searchlight Pictures,13000000,12,R,108,"['Drama', 'Thriller']",41,85,2010,0
+161,161,179,blackfly,1,0,2073582,Magnolia Pictures,,7,PG-13,83,"['Documentary', 'News']",1,58,1991,0
+162,162,180,blackkklansman,6,1,49275340,Focus Features,15000000,8,R,135,"['Biography', 'Crime', 'Drama']",16,96,2018,1
+163,163,181,blade runner 2049,5,2,92054159,Warner Bros.,150000000,10,R,164,"['Action', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",49,92,2017,0
+164,164,182,blaze,1,0,704955,IFC Films,,8,R,129,"['Biography', 'Drama', 'Music']",7,73,1989,1
+165,165,185,blood diamond,5,0,57377916,Warner Bros.,100000000,12,R,143,"['Adventure', 'Drama', 'Thriller']",29,63,2006,0
+166,166,186,blue jasmine,3,1,33405481,Sony Pictures Classics,18000000,7,PG-13,98,['Drama'],21,91,2013,0
+167,167,187,blue sky,1,1,3359465,Orion Pictures,,9,PG-13,101,"['Drama', 'Romance']",0,78,1994,0
+168,168,188,blue valentine,1,0,9706328,The Weinstein Company,1000000,12,R,112,"['Drama', 'Romance']",14,87,2010,0
+169,169,189,blue velvet,1,0,8551228,De Laurentiis Entertainment Group (DEG),6000000,9,R,,"['Drama', 'Mystery', 'Thriller']",29,93,1986,0
+170,170,190,bob's birthday,1,1,13689,Kino International,,5,R,71,['Drama'],0,59,1994,0
+171,171,191,bohemian rhapsody,5,4,216428042,Twentieth Century Fox,52000000,10,PG-13,134,"['Biography', 'Drama', 'Music']",45,92,2018,0
+172,172,192,bolt,1,0,114053579,Walt Disney Studios,150000000,11,PG,96,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",44,89,2008,0
+173,173,193,bombshell,3,1,31762808,Lionsgate,32000000,12,R,109,"['Biography', 'Drama']",4,70,2019,0
+174,174,195,boogie nights,3,0,26400640,New Line Cinema,15000000,10,R,155,['Drama'],30,93,1997,0
+175,175,196,borat cultural learnings of america for make benefit glorious nation of kazakhstan,1,0,128505958,Twentieth Century Fox,18000000,2,R,84,['Comedy'],20,91,2006,0
+176,176,197,border,1,0,771930,Neon,,10,R,110,"['Crime', 'Drama', 'Fantasy', 'Romance', 'Thriller']",0,97,2018,1
+177,177,198,born on the fourth of july,8,2,70001698,Universal Pictures,14000000,12,R,145,"['Biography', 'Drama', 'War']",2,85,1989,0
+178,178,199,borrowed time,1,0,43564,,,11,NR,95,"['Comedy', 'Drama']",9,78,2016,0
+179,179,200,boundin',1,0,3802260,Gramercy Pictures (I),,10,R,109,"['Crime', 'Romance', 'Thriller']",1,65,2003,0
+180,180,201,boy and the world,1,0,129480,,,1,PG,80,"['Adventure', 'Animation', 'Family']",4,93,2015,0
+181,181,202,boyhood,6,1,25352281,IFC Films,4000000,6,R,165,['Drama'],13,97,2014,0
+182,182,203,boys don't cry,2,1,11540607,Fox Searchlight Pictures,2000000,10,R,118,"['Biography', 'Crime', 'Drama', 'Romance']",0,88,1999,0
+183,183,204,boyz n the hood,2,0,57504069,Columbia Pictures,6500000,7,R,112,"['Crime', 'Drama']",20,92,1991,0
+184,184,205,bram stoker's dracula,4,3,82522790,Columbia Pictures,40000000,11,R,128,['Horror'],26,71,1992,0
+185,185,206,brave,1,1,237283207,Walt Disney Studios,185000000,6,PG,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",54,78,2012,0
+186,186,207,braveheart,10,5,75609945,Paramount Pictures,72000000,5,R,178,"['Biography', 'Drama', 'History', 'War']",39,78,1995,0
+187,187,208,brazil,2,0,9929135,Universal Pictures,15000000,12,R,132,"['Drama', 'Sci-Fi']",29,98,1985,0
+188,188,209,breaking the waves,1,0,3803298,October Films,,11,R,159,['Drama'],13,85,1996,0
+189,189,210,breakthrough,1,0,40713082,Twentieth Century Fox,14000000,4,PG,116,"['Biography', 'Drama']",0,92,2019,1
+190,190,211,bridesmaids,2,0,169106725,Universal Pictures,32500000,5,R,125,"['Comedy', 'Romance']",26,90,2011,0
+191,191,212,bridge of spies,6,1,72313754,Walt Disney Studios,40000000,10,PG-13,142,"['Drama', 'History', 'Thriller']",19,92,2015,0
+192,192,213,bridget jones's diary,1,0,71543427,Miramax,25000000,4,R,97,"['Comedy', 'Drama', 'Romance']",35,80,2001,0
+193,193,214,bright star,1,0,4444637,Apparition,8500000,9,PG,119,"['Biography', 'Drama', 'Romance']",23,83,2009,0
+194,194,215,broadcast news,7,0,51249404,Twentieth Century Fox,,12,,133,"['Comedy', 'Drama', 'Romance']",21,92,1987,0
+195,195,216,brokeback mountain,8,3,83043761,Focus Features,14000000,12,R,134,"['Drama', 'Romance']",9,92,2005,0
+196,196,218,brooklyn,3,0,38322743,Fox Searchlight Pictures,11000000,11,PG-13,117,"['Drama', 'Romance']",0,97,2015,0
+197,197,219,brooms,1,0,844281,,,5,G,107,"['Drama', 'Romance']",13,82,1995,0
+198,198,221,brother bear,1,0,85336277,Walt Disney Studios,,10,G,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",0,37,2003,0
+199,199,222,brotherhood,1,0,1111061,IDP Distribution,,2,R,140,"['Action', 'Drama', 'War']",3,92,2019,0
+200,200,223,bugsy,10,2,49114016,TriStar Pictures,,12,R,136,"['Biography', 'Crime', 'Drama']",6,85,1991,0
+201,201,224,bull durham,1,0,50888729,Orion Pictures,,6,,108,"['Comedy', 'Romance', 'Sport']",19,92,1988,0
+202,202,225,bullets over broadway,7,1,13383747,Miramax,20000000,10,R,98,"['Comedy', 'Crime']",21,92,1994,0
+203,203,226,bulworth,1,0,26528185,Twentieth Century Fox,30000000,5,R,108,"['Comedy', 'Drama', 'Romance']",11,92,1998,0
+204,204,227,bunny,1,1,48237389,Sony Pictures Releasing,25000000,8,PG-13,97,"['Comedy', 'Romance']",0,92,1998,0
+205,205,228,buster,1,0,540000,Hemdale,,11,,91,"['Comedy', 'Crime', 'Drama', 'Romance']",0,92,1988,0
+206,206,231,by courier,1,0,272693,,,12,R,99,"['Action', 'Crime', 'Drama', 'Thriller']",3,20,2000,0
+207,207,233,call me by your name,4,1,18095701,Sony Pictures Classics,3500000,10,R,132,"['Drama', 'Romance']",9,92,2017,1
+208,208,234,camille claudel,1,0,3331297,Orion Classics,,12,R,175,"['Biography', 'Drama', 'History', 'Romance']",0,100,1989,0
+209,209,235,can you ever forgive me?,3,0,8803865,Fox Searchlight Pictures,10000000,10,R,106,"['Biography', 'Comedy', 'Crime', 'Drama']",5,92,2018,1
+210,210,236,canhead,1,0,4385516,United Artists,,10,,86,"['Fantasy', 'Horror']",9,92,1996,0
+211,211,237,cape fear,2,0,79091969,Universal Pictures,35000000,11,R,128,"['Crime', 'Thriller']",32,92,1991,0
+212,212,238,capote,5,1,28750530,Sony Pictures Classics,7000000,9,R,114,"['Biography', 'Crime', 'Drama', 'History']",4,92,2005,1
+213,213,239,captain america: the winter soldier,1,0,259766572,Walt Disney Studios,170000000,3,PG-13,136,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",102,92,2014,1
+214,214,240,captain fantastic,1,0,5879835,Bleecker Street Media,5000000,7,R,118,"['Comedy', 'Drama']",10,92,2016,0
+215,215,241,captain phillips,6,0,107100855,Sony Pictures Releasing,55000000,10,PG-13,134,"['Biography', 'Crime', 'Drama', 'Thriller']",23,92,2013,1
+216,216,242,carol,6,0,12711491,The Weinstein Company,11800000,11,R,118,"['Drama', 'Romance']",0,92,2015,0
+217,217,243,cars,2,0,244082982,Walt Disney Studios,120000000,6,,117,"['Animation', 'Comedy', 'Family', 'Sport']",51,92,2006,0
+218,218,244,cashback,1,0,25343,Magnolia Pictures,,1,R,102,"['Comedy', 'Drama', 'Romance']",0,46,2005,0
+219,219,245,casino,1,0,42512375,Universal Pictures,52000000,11,R,178,"['Crime', 'Drama']",0,80,1995,0
+220,220,246,cast away,2,0,233632142,Twentieth Century Fox,90000000,12,PG-13,143,"['Adventure', 'Drama', 'Romance']",17,88,2000,0
+221,221,247,catch me if you can,2,0,164615351,DreamWorks Distribution,52000000,12,PG-13,141,"['Biography', 'Crime', 'Drama']",41,92,2002,0
+222,222,248,central station,1,0,5969553,Sony Pictures Classics,,11,R,110,['Drama'],43,94,1998,0
+223,223,249,chances are,1,0,16278590,TriStar Pictures,,3,,108,"['Comedy', 'Fantasy', 'Romance']",5,92,1989,0
+224,224,250,changeling,3,0,35739802,Universal Pictures,55000000,10,R,141,"['Biography', 'Crime', 'Drama', 'History', 'Mystery', 'Thriller']",0,61,2008,0
+225,225,251,chaplin,3,0,9493259,TriStar Pictures,,12,PG-13,143,"['Biography', 'Comedy', 'Drama']",1,59,1992,1
+226,226,252,charlie and the chocolate factory,1,0,206459076,Warner Bros.,150000000,7,PG,115,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",29,92,2005,0
+227,227,253,charlie wilson's war,1,0,66661095,Universal Pictures,75000000,12,R,102,"['Biography', 'Comedy', 'Drama', 'History']",0,82,2007,1
+228,228,254,chasing ice,1,0,1328467,Submarine Deluxe,,11,PG-13,75,"['Biography', 'Documentary']",0,92,2012,0
+229,229,255,chicago,13,6,170687518,Miramax,45000000,2,PG-13,113,"['Comedy', 'Crime', 'Musical']",43,92,2002,0
+230,230,256,chico & rita,1,0,350524,GKIDS,,11,NR,94,"['Animation', 'Crime', 'Drama', 'Music', 'Romance']",12,87,2011,0
+231,231,257,children of a lesser god,5,1,31853080,Paramount Pictures,,10,,119,"['Drama', 'Romance']",0,92,1986,1
+232,232,258,children of men,3,0,35552383,Universal Pictures,76000000,9,R,109,"['Drama', 'Sci-Fi', 'Thriller']",0,92,2006,1
+233,233,259,chocolat,5,0,71509363,Miramax,25000000,12,PG-13,121,"['Drama', 'Romance']",22,62,2000,1
+234,234,260,christopher robin,1,0,99215042,Walt Disney Studios,75000000,8,PG,104,"['Comedy', 'Drama', 'Family', 'Fantasy']",37,92,2018,1
+235,235,261,cinderella,1,0,201151353,Walt Disney Studios,95000000,3,PG,105,"['Drama', 'Family', 'Fantasy', 'Romance']",31,84,2015,0
+236,236,262,cinderella man,3,0,61649911,Universal Pictures,88000000,6,PG-13,144,"['Biography', 'Drama', 'History', 'Romance', 'Sport']",12,92,2005,0
+237,237,263,city of god,4,0,7564459,Miramax,,8,R,130,"['Crime', 'Drama']",33,91,2003,0
+238,238,264,city slickers,1,1,124033791,Columbia Pictures,27000000,6,,113,"['Comedy', 'Western']",16,92,1991,0
+239,239,265,clear and present danger,2,0,122187717,Paramount Pictures,62000000,8,PG-13,141,"['Action', 'Crime', 'Drama', 'Thriller']",26,79,1994,1
+240,240,266,click,1,0,137355633,Revolution Studios,82500000,6,PG-13,107,"['Comedy', 'Drama', 'Fantasy', 'Romance']",25,92,2006,0
+241,241,267,cliffhanger,3,0,84049211,TriStar Pictures,70000000,5,R,113,"['Action', 'Adventure', 'Thriller']",45,68,1993,0
+242,242,268,closer,2,0,33987757,Sony Pictures Releasing,27000000,12,R,104,"['Drama', 'Romance']",16,92,2004,1
+243,243,269,coco,2,2,209726015,Walt Disney Studios,175000000,10,PG,105,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Music', 'Mystery']",65,92,2017,0
+244,244,270,coco before chanel,1,0,6113834,Sony Pictures Classics,23000000,4,PG-13,105,"['Biography', 'Drama']",0,64,2009,1
+245,245,271,cocoon,2,2,76113124,Twentieth Century Fox,,6,,117,"['Comedy', 'Drama', 'Sci-Fi']",8,92,1985,0
+246,246,272,cold mountain,7,1,95636509,Miramax,79000000,12,R,154,"['Adventure', 'Drama', 'History', 'Romance', 'War']",14,70,2003,1
+247,247,273,cold war,2,0,4580048,,,12,R,89,"['Drama', 'History', 'Music', 'Romance']",11,92,2018,0
+248,248,274,collateral,2,0,101005703,DreamWorks Distribution,65000000,8,R,,"['Crime', 'Drama', 'Thriller']",23,92,2004,0
+249,249,275,coming to america,2,0,128152301,Paramount Pictures,,6,,116,"['Comedy', 'Romance']",28,92,1988,0
+250,250,276,con air,2,0,101117573,Walt Disney Studios,75000000,6,R,115,"['Action', 'Crime', 'Thriller']",50,92,1997,0
+251,251,277,contact,2,0,100546139,Paramount Pictures,47000000,11,PG-13,116,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",0,92,1992,0
+252,252,279,coraline,1,0,75286229,Focus Features,60000000,2,PG,100,"['Animation', 'Drama', 'Family', 'Fantasy', 'Thriller']",53,92,2009,1
+253,253,280,country strong,1,0,20218921,Screen Gems,15000000,12,PG-13,117,"['Drama', 'Music']",14,92,2010,0
+254,254,281,crash,6,3,54580300,Lionsgate,6500000,4,R,112,"['Crime', 'Drama', 'Thriller']",12,92,2005,0
+255,255,282,crazy heart,3,2,39464306,Fox Searchlight Pictures,7000000,12,R,112,"['Drama', 'Music', 'Romance']",4,92,2009,1
+256,256,283,creature comforts,1,1,112175,Northern Arts Entertainment,,6,PG,,"['Animation', 'Comedy', 'Family', 'Short']",8,93,1990,0
+257,257,284,creed,1,0,109767581,Warner Bros.,35000000,11,PG-13,133,"['Drama', 'Sport']",19,92,2015,0
+258,258,285,crimes and misdemeanors,3,0,18254702,Orion Pictures,,10,PG-13,104,"['Comedy', 'Drama']",13,93,1989,0
+259,259,286,crimes of the heart,3,0,22905522,De Laurentiis Entertainment Group (DEG),,12,PG-13,105,"['Comedy', 'Drama']",2,81,1986,0
+260,260,287,crimson tide,3,0,91387195,Walt Disney Studios,55000000,5,R,116,"['Action', 'Drama', 'Thriller', 'War']",15,92,1995,0
+261,261,288,"crouching tiger, hidden dragon",9,3,128078872,Sony Pictures Classics,17000000,12,PG-13,,"['Action', 'Adventure', 'Fantasy', 'Romance']",15,97,2000,1
+262,262,289,cruise control,1,0,48608066,Twentieth Century Fox,160000000,6,PG-13,121,"['Action', 'Adventure', 'Crime', 'Romance', 'Thriller']",5,92,1992,0
+263,263,290,cry freedom,3,0,5899797,Universal Pictures,29000000,11,PG,157,"['Biography', 'Drama', 'History']",3,79,1987,0
+264,264,291,culture,1,0,220409,TLA Releasing,,3,,88,"['Drama', 'Romance']",7,92,1998,1
+265,265,292,curfew,1,1,10078,IFC Films,,11,NR,93,['Drama'],2,90,2012,0
+266,266,293,curse of the golden flower,1,0,6566773,Sony Pictures Classics,,12,R,111,"['Action', 'Adventure', 'Drama', 'Romance', 'Thriller']",18,92,2006,1
+267,267,294,cyrano de bergerac,4,1,5820020,Orion Classics,,11,PG,137,"['Comedy', 'Drama', 'History', 'Romance']",3,100,1990,0
+268,268,295,dad,1,0,22103037,Universal Pictures,,10,,117,"['Comedy', 'Drama']",24,92,1989,0
+269,269,296,dallas buyers club,6,3,27298285,Focus Features,5000000,11,R,117,"['Biography', 'Drama']",13,93,2013,0
+270,270,297,damage,1,0,7532911,New Line Cinema,,12,R,111,"['Drama', 'Romance']",6,78,1992,1
+271,271,299,dancer in the dark,1,0,4184036,Fine Line Features,12500000,9,R,140,"['Crime', 'Drama', 'Musical']",6,92,2000,0
+272,272,300,dances with wolves,12,7,184208848,Orion Pictures,22000000,11,PG-13,181,"['Adventure', 'Drama', 'Western']",25,83,1990,1
+273,273,301,dangerous liaisons,7,3,34670720,Warner Bros.,14000000,12,,119,"['Drama', 'Romance']",0,92,1988,1
+274,274,302,dark eyes,1,0,2201428,Island Pictures,,11,NR,118,"['Comedy', 'Drama', 'Romance']",3,100,1987,0
+275,275,303,darkest hour,6,2,56468410,Focus Features,30000000,11,PG-13,125,"['Biography', 'Drama', 'Family', 'History', 'Thriller', 'War']",17,92,2017,0
+276,276,304,das rad,1,0,113348,,,1,NR,96,['Documentary'],2,92,2002,0
+277,277,305,dave,1,0,63270710,Warner Bros.,,5,PG-13,110,"['Comedy', 'Romance']",0,95,1993,0
+278,278,306,dawn of the planet of the apes,1,0,208545589,Twentieth Century Fox,170000000,7,PG-13,130,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",55,92,2014,0
+279,279,307,day & night,1,0,36063,,,1,G,,['Drama'],12,83,2010,0
+280,280,308,day one,1,0,13843771,Focus Features,15000000,6,PG-13,107,"['Drama', 'Romance']",0,92,2015,0
+281,281,309,daylight,1,0,33023469,Universal Pictures,80000000,12,PG-13,114,"['Action', 'Adventure', 'Drama', 'Thriller']",8,25,1996,0
+282,282,310,days of thunder,1,0,82670733,Paramount Pictures,60000000,6,R,107,"['Action', 'Drama', 'Sport']",6,38,1990,0
+283,283,311,dcera (daughter),1,0,8358,,,5,R,206,"['Drama', 'Romance']",5,84,2019,0
+284,284,313,dead man walking,4,1,39363635,Gramercy Pictures (I),11000000,12,R,122,"['Crime', 'Drama']",3,92,1995,1
+285,285,314,dead poets society,4,1,95860116,Walt Disney Studios,16400000,12,PG,128,"['Comedy', 'Drama']",32,84,1989,0
+286,286,316,dear diary,1,1,2856,,,1,,100,"['Biography', 'Comedy', 'Drama']",2,92,1996,0
+287,287,318,death becomes her,1,1,58422650,Universal Pictures,55000000,7,PG-13,104,"['Comedy', 'Fantasy', 'Horror']",48,92,1992,0
+288,288,320,deconstructing harry,1,0,10686841,Fine Line Features,20000000,12,R,96,['Comedy'],17,92,1997,0
+289,289,321,deepwater horizon,2,0,61433527,Lionsgate,110000000,9,PG-13,107,"['Action', 'Drama', 'History', 'Thriller']",0,92,2016,1
+290,290,322,defiance,1,0,28644813,Paramount Vantage,32000000,12,R,137,"['Action', 'Drama', 'History', 'Thriller', 'War']",0,92,2008,1
+291,291,324,despicable me 2,2,0,368065385,Universal Pictures,76000000,6,PG,98,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",63,92,2013,0
+292,292,325,destino,1,0,12156,Kino Lorber,,5,,97,"['Drama', 'Fantasy', 'Thriller']",3,92,2003,0
+293,293,327,dick tracy,7,3,103738726,Walt Disney Studios,47000000,6,,105,"['Action', 'Comedy', 'Crime', 'Music', 'Romance', 'Thriller']",33,92,1990,1
+294,294,328,die hard,4,0,83519093,Twentieth Century Fox,28000000,7,,132,"['Action', 'Thriller']",0,92,1988,0
+295,295,330,dimanche/sunday,1,0,75530832,Warner Bros.,55000000,12,R,162,"['Drama', 'Sport']",0,92,2011,0
+296,296,331,dirty dancing,1,1,64577242,Vestron Pictures,6000000,8,,100,"['Drama', 'Music', 'Romance']",24,92,1987,0
+297,297,332,dirty pretty things,1,0,8112414,Miramax,10000000,12,R,97,"['Crime', 'Drama', 'Thriller']",7,92,2003,0
+298,298,333,district 9,4,0,115646235,TriStar Pictures,30000000,8,R,112,"['Action', 'Sci-Fi', 'Thriller']",67,92,2009,1
+299,299,334,django unchained,5,2,162805434,The Weinstein Company,100000000,12,R,165,"['Drama', 'Western']",82,92,2012,0
+300,300,335,do the right thing,2,0,27545445,Universal Pictures,6000000,6,,,"['Comedy', 'Drama']",20,92,1989,0
+301,301,336,doctor strange,1,0,232641920,Walt Disney Studios,165000000,10,PG-13,115,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",66,92,2016,1
+302,302,337,don juan demarco,1,0,22150451,New Line Cinema,25000000,4,PG-13,97,"['Comedy', 'Drama', 'Romance']",8,92,1995,0
+303,303,338,donnie brasco,1,0,41909762,Sony Pictures Releasing,35000000,2,R,127,"['Biography', 'Crime', 'Drama']",13,92,1997,1
+304,304,339,doubt,5,0,33446470,Miramax,20000000,12,PG-13,104,"['Drama', 'Mystery']",9,92,2008,1
+305,305,340,down on the waterfront,1,0,,Columbia Pictures,,7,,108,"['Crime', 'Drama', 'Thriller']",15,92,1993,0
+306,306,341,dr. seuss' how the grinch stole christmas,3,1,260044825,Universal Pictures,123000000,11,PG,104,"['Comedy', 'Family', 'Fantasy']",49,92,2000,0
+307,307,342,dragonheart,1,0,51367375,Universal Pictures,57000000,5,,103,"['Action', 'Adventure', 'Fantasy']",55,92,1996,0
+308,308,343,dreamgirls,8,2,103365956,DreamWorks,75000000,12,PG-13,130,"['Drama', 'Music', 'Musical']",26,92,2006,1
+309,309,344,drive,1,0,35061555,FilmDistrict,15000000,9,R,100,"['Crime', 'Drama']",0,92,2011,1
+310,310,345,driving miss daisy,9,4,106593296,Warner Bros.,7500000,12,,99,['Drama'],10,92,1989,0
+311,311,347,dunkirk,8,3,189740665,Warner Bros.,100000000,7,PG-13,106,"['Action', 'Drama', 'History', 'Thriller', 'War']",34,92,2017,0
+312,312,348,eastern promises,1,0,17266000,Focus Features,50000000,9,R,100,"['Action', 'Crime', 'Drama', 'Thriller']",28,92,2007,0
+313,313,349,ed wood,2,2,5887457,Walt Disney Studios,18000000,9,R,127,"['Biography', 'Comedy', 'Drama']",21,92,1994,0
+314,314,350,edward scissorhands,1,0,56362352,Twentieth Century Fox,20000000,12,,105,"['Drama', 'Fantasy', 'Romance']",21,92,1990,0
+315,315,351,election,1,0,14902041,Paramount Pictures,25000000,4,R,103,"['Comedy', 'Drama', 'Romance']",0,92,1999,1
+316,316,353,elizabeth,7,1,30082699,Gramercy Pictures (I),30000000,10,R,124,"['Biography', 'Drama', 'History']",17,92,1998,0
+317,317,354,elizabeth: the golden age,2,1,16383509,Universal Pictures,55000000,10,PG-13,114,"['Biography', 'Drama', 'History', 'War']",17,92,2007,0
+318,318,355,elle,1,0,25568251,Warner Bros.,23000000,12,R,126,"['Drama', 'Romance', 'Sci-Fi']",14,92,2016,1
+319,319,356,emma,2,1,10055355,Focus Features,10000000,2,PG,124,"['Comedy', 'Drama']",7,92,1996,1
+320,320,357,empire of the sun,6,0,22238696,Warner Bros.,,12,,153,"['Action', 'Drama', 'History', 'War']",16,92,1987,0
+321,321,358,enchanted,3,0,127807262,Walt Disney Studios,85000000,11,PG,107,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",0,92,2007,0
+322,322,359,enchanted april,3,0,13200170,Miramax,,7,PG,95,['Drama'],2,92,1992,0
+323,323,360,"enemies, a love story",3,0,7754571,Twentieth Century Fox,,12,,119,"['Comedy', 'Drama', 'Romance']",7,92,1989,1
+324,324,362,eraser,1,0,101295562,Warner Bros.,100000000,6,R,115,"['Action', 'Drama', 'Thriller']",22,37,1996,0
+325,325,363,erin brockovich,5,1,125595205,Universal Pictures,52000000,3,R,131,"['Biography', 'Drama']",10,84,2000,0
+326,326,364,ernest & celestine,1,0,262075,GKIDS,,12,PG,80,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family', 'Fantasy']",7,97,2013,0
+327,327,367,eternal sunshine of the spotless mind,2,1,34400301,Focus Features,20000000,3,R,108,"['Drama', 'Romance', 'Sci-Fi']",28,92,2004,0
+328,328,368,europa europa,1,0,5575738,Orion Classics,,6,R,112,"['Drama', 'History', 'War']",7,95,1991,0
+329,329,371,evita,5,1,50047179,Walt Disney Studios,55000000,12,PG,135,"['Biography', 'Drama', 'History', 'Musical']",15,92,1996,1
+330,330,372,ex machina,2,1,25442958,A24,15000000,1,R,108,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",28,92,2015,0
+331,331,373,exit,1,0,470699,CJ Entertainment,,7,,103,"['Action', 'Comedy']",0,92,1986,0
+332,332,374,extremely loud & incredibly close,2,0,31847881,Warner Bros.,,12,PG-13,129,"['Adventure', 'Drama', 'Mystery']",8,92,2011,1
+333,333,375,face/off,1,0,112276146,Paramount Pictures,80000000,6,R,138,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",36,92,1997,0
+334,334,378,fantastic beasts and where to find them,2,1,234037575,Warner Bros.,180000000,11,PG-13,132,"['Adventure', 'Family', 'Fantasy']",47,92,2016,1
+335,335,379,fantastic mr. fox,2,0,21002919,Twentieth Century Fox,40000000,10,PG,87,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family']",43,92,2009,0
+336,336,380,far from heaven,4,0,15901849,Focus Features,13500000,11,PG-13,107,['Drama'],5,92,2002,0
+337,337,381,farewell my concubine,1,0,5216888,Miramax,,10,R,171,"['Drama', 'Music', 'Romance']",12,92,1993,1
+338,338,382,fargo,7,2,24611975,Gramercy Pictures (I),7000000,3,R,98,"['Crime', 'Drama', 'Thriller']",37,92,1996,0
+339,339,383,fatal attraction,6,0,156645693,Paramount Pictures,14000000,9,,119,"['Drama', 'Thriller']",29,92,1987,1
+340,340,384,father and daughter,1,1,5587709,Independent,,10,R,116,['Drama'],1,93,2000,0
+341,341,386,fearless,1,0,24633730,Rogue Pictures,,1,PG-13,104,"['Action', 'Biography', 'Drama', 'Sport']",0,85,1993,1
+342,342,387,feast,1,1,56131,Dimension Films,3200000,9,R,95,"['Action', 'Comedy', 'Horror', 'Thriller']",19,92,2014,0
+343,343,388,fences,4,1,57682904,Paramount Pictures,24000000,12,PG-13,139,['Drama'],9,92,2016,0
+344,344,389,feral,1,0,,IFC Films,,5,NR,90,"['Action', 'Drama', 'Horror', 'Thriller']",12,100,2013,0
+345,345,390,ferdinand,1,0,84410380,Twentieth Century Fox,111000000,12,PG,108,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",23,92,2017,1
+346,346,391,field of dreams,3,0,64431625,Universal Pictures,,4,PG,107,"['Drama', 'Family', 'Fantasy', 'Sport']",22,87,1989,1
+347,347,393,fifty shades of grey,1,0,166167230,Universal Pictures,40000000,2,R,125,"['Drama', 'Romance', 'Thriller']",12,92,2015,1
+348,348,394,fight club,1,0,37030102,Twentieth Century Fox,63000000,10,R,139,['Drama'],48,79,1999,0
+349,349,395,finding nemo,4,1,380843261,Walt Disney Studios,94000000,5,,100,"['Adventure', 'Animation', 'Comedy', 'Family']",58,92,2003,0
+350,350,396,finding neverland,7,1,51680613,Miramax,25000000,10,PG,106,"['Biography', 'Drama', 'Family']",8,92,2004,1
+351,351,397,first man,4,1,44936545,Universal Pictures,59000000,10,PG-13,141,"['Biography', 'Drama', 'History']",13,92,2018,1
+352,352,398,first reformed,1,0,3448256,A24,3500000,5,R,113,"['Drama', 'Mystery', 'Thriller']",10,93,2018,0
+353,353,399,flags of our fathers,2,0,33602376,DreamWorks,90000000,10,R,135,"['Action', 'Adventure', 'Drama', 'History', 'War']",6,92,2006,1
+354,354,400,flatliners,1,0,16883115,Sony Pictures Releasing,19000000,9,PG-13,109,"['Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",7,48,1990,0
+355,355,401,flight,2,0,93772375,Paramount Pictures,31000000,11,R,138,"['Drama', 'Thriller']",0,92,2012,0
+356,356,402,florence foster jenkins,2,0,27383770,Paramount Pictures,29000000,5,PG-13,111,"['Biography', 'Comedy', 'Drama', 'Music']",15,87,2016,0
+357,357,403,fly away home,1,0,25143818,Sony Pictures Releasing,,9,PG,107,"['Adventure', 'Drama', 'Family']",12,92,1996,1
+358,358,404,for the birds,1,1,633959,,,11,R,121,"['Comedy', 'Drama', 'Romance']",28,54,2001,0
+359,359,405,for the boys,1,0,17860280,Twentieth Century Fox,40000000,11,R,138,"['Comedy', 'Drama', 'Music']",0,92,1991,0
+360,360,406,ford v ferrari,4,2,117624357,Twentieth Century Fox,97600000,11,PG-13,152,"['Action', 'Biography', 'Drama', 'Sport']",29,92,2019,0
+361,361,407,forrest gump,13,6,330455270,Paramount Pictures,55000000,7,PG-13,142,"['Drama', 'Romance']",42,92,1994,0
+362,362,408,four weddings and a funeral,2,0,52700832,Gramercy Pictures (I),4400000,3,R,117,"['Comedy', 'Drama', 'Romance']",12,92,1994,0
+363,363,409,foxcatcher,5,0,12096300,Sony Pictures Classics,24000000,11,R,134,"['Biography', 'Drama', 'Sport']",6,92,2014,0
+364,364,410,frankenweenie,1,0,35291068,Walt Disney Studios,39000000,10,PG,87,"['Animation', 'Comedy', 'Family', 'Horror', 'Sci-Fi']",20,87,2012,1
+365,365,412,french roast,1,0,160742,,,4,NR,87,['Romance'],3,71,2009,0
+366,366,414,frida,6,2,25885000,Miramax,12000000,10,R,123,"['Biography', 'Drama', 'Romance']",9,92,2002,1
+367,367,415,fried green tomatoes,2,0,82418501,Universal Pictures,11000000,12,PG-13,130,['Drama'],7,74,1991,1
+368,368,416,frost/nixon,5,0,18622031,Universal Pictures,25000000,12,R,122,"['Biography', 'Drama', 'History']",18,92,2008,1
+369,369,417,frozen,2,2,400738009,Walt Disney Studios,150000000,11,PG,102,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",11,92,2013,0
+370,370,418,frozen ii,1,0,477373578,Walt Disney Studios,150000000,11,PG,103,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",41,92,2019,0
+371,371,419,frozen river,2,0,2511476,Sony Pictures Classics,1000000,8,R,97,"['Crime', 'Drama']",2,92,2008,0
+372,372,420,full metal jacket,1,0,46357676,Warner Bros.,30000000,6,,116,"['Drama', 'War']",52,92,1987,1
+373,373,421,gaby - a true story,1,0,125400,TriStar Pictures,,10,,110,"['Drama', 'Romance']",5,92,1987,0
+374,374,422,gagarin,1,0,1121976,,,6,,108,"['Adventure', 'Biography', 'Drama', 'History']",0,92,1995,0
+375,375,423,gangs of new york,10,0,77812000,Miramax,100000000,12,R,167,"['Crime', 'Drama']",62,92,2002,1
+376,376,424,garden party,1,0,21886,Roadside Attractions,,7,,88,['Drama'],1,92,2017,0
+377,377,425,gattaca,1,0,12532777,Sony Pictures Releasing,36000000,10,PG-13,106,"['Drama', 'Sci-Fi', 'Thriller']",21,92,1997,0
+378,378,427,georgia,1,0,17479,Anchor Bay Films,12000000,8,R,113,"['Action', 'Drama', 'War']",0,92,1995,0
+379,379,429,geronimo: an american legend,1,0,18635620,Columbia Pictures,35000000,12,PG-13,115,"['Drama', 'History', 'Western']",0,48,1993,0
+380,380,431,get out,4,1,176040665,Universal Pictures,4500000,2,R,104,"['Horror', 'Mystery', 'Thriller']",62,98,2017,0
+381,381,432,ghost,5,2,217631306,Paramount Pictures,22000000,7,PG-13,127,"['Drama', 'Fantasy', 'Romance', 'Thriller']",38,74,1990,0
+382,382,433,ghost world,1,0,6217849,Metro-Goldwyn-Mayer (MGM),7000000,7,R,111,"['Comedy', 'Drama']",23,92,2001,0
+383,383,434,ghosts of mississippi,2,0,13323144,Sony Pictures Releasing,36000000,12,PG-13,130,"['Drama', 'History']",5,43,1996,0
+384,384,435,girl with a pearl earring,3,0,11670971,Lionsgate,12000000,12,PG-13,100,"['Biography', 'Drama', 'Romance']",6,72,2003,0
+385,385,436,"girl, interrupted",1,1,28912646,Sony Pictures Releasing,40000000,12,R,127,"['Biography', 'Drama']",25,54,1999,1
+386,386,438,gladiator,12,5,187705427,DreamWorks Distribution,103000000,5,R,155,"['Action', 'Adventure', 'Drama']",28,77,2000,0
+387,387,439,glen campbell...i'll be me,1,0,365422,Area 23a,,10,PG,116,"['Biography', 'Documentary', 'Family', 'Music']",0,100,2014,0
+388,388,440,glengarry glen ross,1,0,10725228,New Line Cinema,12500000,10,R,100,"['Crime', 'Drama', 'Mystery']",38,95,1992,0
+389,389,441,glory,5,3,26979166,TriStar Pictures,18000000,12,R,122,"['Biography', 'Drama', 'History', 'War']",29,93,1989,1
+390,390,442,god of love,1,1,43922,TLA Releasing,,2,R,112,"['Drama', 'Music', 'Romance']",6,92,2010,0
+391,391,443,gods and monsters,3,1,6451628,Lionsgate,10000000,11,R,105,"['Biography', 'Drama']",3,92,1998,1
+392,392,444,gone baby gone,1,0,20292962,Miramax,19000000,10,R,114,"['Crime', 'Drama', 'Mystery', 'Thriller']",13,94,2007,0
+393,393,445,gone girl,1,0,167767189,Twentieth Century Fox,61000000,10,R,149,"['Drama', 'Mystery', 'Thriller']",27,87,2014,0
+394,394,447,good fellas,6,1,46836214,Warner Bros.,,9,R,146,"['Biography', 'Crime', 'Drama']",73,96,1990,0
+395,395,448,"good morning, vietnam",1,0,123922370,Walt Disney Studios,"[2200000, 41158757]",12,R,121,"['Biography', 'Comedy', 'Drama', 'War']",18,90,1987,0
+396,396,449,"good night, and good luck.",6,0,31558003,Warner Independent Pictures (WIP),7000000,9,PG,93,"['Biography', 'Drama', 'History']",14,93,2005,0
+397,397,450,good will hunting,9,2,138433435,Miramax,10000000,12,R,126,"['Drama', 'Romance']",22,97,1997,0
+398,398,452,gorillas in the mist,5,0,24720479,Universal Pictures,,9,,129,"['Biography', 'Drama']",0,92,1988,1
+399,399,453,gosford park,7,1,41308615,USA Films,19800000,12,R,131,"['Comedy', 'Drama', 'Mystery']",22,86,2001,0
+400,400,454,graffiti,1,0,4948,,,8,PG,82,"['Drama', 'Music']",19,50,1985,0
+401,401,455,grand canyon,1,0,33243020,Twentieth Century Fox,,12,R,134,"['Crime', 'Drama']",20,77,1991,0
+402,402,458,gravity,10,7,19454845,,110000000,1,PG-13,132,"['Drama', 'Romance', 'Sci-Fi']",32,96,2013,0
+403,403,459,green book,5,3,85080171,Universal Pictures,23000000,11,PG-13,130,"['Biography', 'Comedy', 'Drama', 'Music']",10,78,2018,0
+404,404,460,green card,1,0,29888235,Walt Disney Studios,,12,PG-13,107,"['Comedy', 'Drama', 'Romance']",2,60,1990,0
+405,405,462,guard dog,1,0,484271,,,9,NR,90,"['Drama', 'Thriller']",10,92,2004,0
+406,406,463,guardians of the galaxy,2,0,333176600,Walt Disney Studios,170000000,7,PG-13,121,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",0,91,2014,0
+407,407,464,guardians of the galaxy vol. 2,1,0,389813101,Walt Disney Studios,200000000,4,PG-13,136,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",109,92,2017,0
+408,408,466,hacksaw ridge,6,2,67209615,Lionsgate,40000000,11,R,139,"['Biography', 'Drama', 'History', 'War']",31,85,2016,1
+409,409,467,"hail, caesar!",1,0,30498085,Universal Pictures,22000000,2,PG-13,106,"['Comedy', 'Drama', 'Music', 'Mystery']",36,85,2016,0
+410,410,468,hair love,1,1,330661,Magnolia Pictures,,1,G,,"['Animation', 'Comedy', 'Drama', 'Family', 'Short']",3,95,2019,0
+411,411,469,half nelson,1,0,2697938,THINKFilm,700000,8,R,106,['Drama'],0,90,2006,0
+412,412,470,hamlet,6,0,4708156,Sony Pictures Releasing,18000000,12,PG-13,242,['Drama'],47,76,1990,0
+413,413,471,hannah and her sisters,7,3,40084041,Orion Pictures,,2,PG-13,107,"['Comedy', 'Drama']",15,91,1986,0
+414,414,472,happy feet,1,1,198000317,Warner Bros.,100000000,11,PG,108,"['Adventure', 'Animation', 'Comedy', 'Family', 'Music', 'Musical', 'Romance']",28,76,2006,0
+415,415,473,happy new year,1,0,54544638,Warner Bros.,56000000,12,PG-13,118,"['Comedy', 'Romance']",2,92,1987,1
+416,416,474,happy-go-lucky,1,0,3512016,Miramax,,4,R,118,"['Comedy', 'Drama', 'Romance']",6,92,2008,0
+417,417,475,harlem nights,1,0,60864870,Paramount Pictures,30000000,11,R,116,"['Comedy', 'Crime', 'Drama']",7,21,1989,0
+418,418,476,harriet,2,0,43082155,Focus Features,17000000,11,PG-13,125,"['Action', 'Biography', 'Drama', 'History']",18,92,2019,0
+419,419,477,harry and the hendersons,1,1,29760613,Universal Pictures,,6,PG,110,"['Comedy', 'Family', 'Fantasy']",7,43,1987,0
+420,420,478,harry potter and the deathly hallows part 1,2,0,296347721,Warner Bros.,"[2200000, 41158757]",11,PG-13,146,"['Adventure', 'Family', 'Fantasy', 'Mystery']",52,77,2010,0
+421,421,479,harry potter and the deathly hallows part 2,3,0,381409310,IMAX,"[2200000, 41158757]",11,PG-13,130,"['Adventure', 'Drama', 'Fantasy', 'Mystery']",52,96,2011,0
+422,422,480,harry potter and the goblet of fire,1,0,290417905,Warner Bros.,150000000,11,PG-13,157,"['Adventure', 'Family', 'Fantasy', 'Mystery']",30,88,2005,0
+423,423,481,harry potter and the half-blood prince,1,0,302305431,Warner Bros.,250000000,7,PG,153,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery']",20,83,2009,1
+424,424,482,harry potter and the prisoner of azkaban,2,0,249975996,Warner Bros.,130000000,5,PG,142,"['Adventure', 'Family', 'Fantasy', 'Mystery']",18,90,2004,1
+425,425,483,harry potter and the sorcerer's stone,3,0,318087620,Warner Bros.,125000000,11,PG,152,"['Adventure', 'Family', 'Fantasy']",13,81,2001,1
+426,426,485,havana,1,0,9243140,Universal Pictures,40000000,12,R,144,"['Drama', 'Romance', 'War']",2,28,1990,0
+427,427,486,head over heels,1,0,10424470,Universal Pictures,14000000,2,PG-13,86,"['Comedy', 'Mystery', 'Romance']",0,92,2012,0
+428,428,487,heartbreak ridge,1,0,42724017,Warner Bros.,,12,R,130,"['Drama', 'War']",12,80,1986,0
+429,429,488,heavenly creatures,1,0,3049135,Miramax,5000000,11,R,99,"['Biography', 'Crime', 'Drama', 'Thriller']",10,92,1994,0
+430,430,490,hell or high water,4,0,27007844,Lionsgate,12000000,8,R,102,"['Action', 'Crime', 'Drama', 'Thriller', 'Western']",0,97,2016,0
+431,431,491,hellboy ii: the golden army,1,0,75986503,Universal Pictures,85000000,7,PG-13,,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",28,86,2008,0
+432,432,492,helmer & son,1,0,5275505,,,12,NR,100,"['Comedy', 'Drama']",10,81,2006,0
+433,433,493,henry,1,0,56117548,Twentieth Century Fox,120000000,8,PG-13,100,"['Action', 'Adventure', 'Sci-Fi']",7,92,2012,0
+434,434,494,henry & june,1,0,11567449,Universal Pictures,,10,NC17,136,"['Biography', 'Drama']",3,62,1990,0
+435,435,495,henry v,3,1,10161099,The Samuel Goldwyn Company,9000000,11,PG-13,137,"['Action', 'Biography', 'Drama', 'History', 'Romance', 'War']",28,100,1989,1
+436,436,496,her,5,1,25568251,Warner Bros.,23000000,12,R,126,"['Drama', 'Romance', 'Sci-Fi']",11,95,2013,0
+437,437,497,hercules,1,0,99112101,Walt Disney Studios,85000000,6,G,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",65,84,1997,1
+438,438,498,hereafter,1,0,32746941,Warner Bros.,50000000,10,PG-13,129,"['Drama', 'Fantasy', 'Romance']",4,47,2010,0
+439,439,499,hidden figures,3,0,169607287,Twentieth Century Fox,25000000,12,PG,127,"['Biography', 'Drama', 'History']",17,93,2016,0
+440,440,500,hilary and jackie,2,0,4912892,October Films,,12,R,121,"['Biography', 'Drama', 'Music']",0,88,1998,0
+441,441,501,hitchcock,1,0,6008677,Fox Searchlight Pictures,,11,PG-13,98,"['Biography', 'Drama', 'Romance']",15,92,2012,0
+442,442,502,hoffa,2,0,24276506,Twentieth Century Fox,35000000,12,R,140,"['Biography', 'Crime', 'Drama']",29,52,1992,0
+443,443,504,hollow man,1,0,73209340,Sony Pictures Releasing,95000000,8,R,112,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",17,27,2000,0
+444,444,505,home alone,2,0,285761243,Twentieth Century Fox,18000000,11,PG,103,"['Comedy', 'Family']",131,65,1990,0
+445,445,506,hook,5,0,119654823,TriStar Pictures,70000000,12,PG,142,"['Adventure', 'Comedy', 'Family', 'Fantasy']",46,28,1991,1
+446,446,507,hoop dreams,1,0,7830611,Fine Line Features,700000,10,PG-13,170,"['Documentary', 'Drama', 'Sport']",0,92,1994,0
+447,447,508,hoosiers,2,0,28607524,Orion Pictures,,11,PG,114,"['Drama', 'Sport']",5,89,1986,0
+448,448,509,hope and glory,5,0,10021120,Columbia Pictures,,10,PG-13,113,"['Comedy', 'Drama', 'Romance']",1,95,1987,0
+449,449,510,hotel rwanda,3,0,23530892,United Artists,17500000,12,PG-13,121,"['Biography', 'Drama', 'History', 'War']",23,91,2004,0
+450,450,511,house of flying daggers,1,0,11050094,Sony Pictures Classics,12000000,7,PG-13,119,"['Action', 'Adventure', 'Drama', 'Romance']",7,88,2004,0
+451,451,512,house of sand and fog,3,0,13040288,DreamWorks Distribution,16500000,12,R,126,"['Crime', 'Drama']",4,74,2003,1
+452,452,513,how to train your dragon,2,0,217581231,DreamWorks,165000000,3,PG,98,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",0,99,2010,1
+453,453,514,how to train your dragon 2,1,0,177002924,Twentieth Century Fox,145000000,6,PG,102,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",56,91,2014,1
+454,454,515,how to train your dragon: the hidden world,1,0,160799505,Universal Pictures,129000000,1,PG,104,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",23,91,2019,1
+455,455,516,howards end,9,3,26126837,Sony Pictures Classics,8000000,3,PG,142,"['Drama', 'Romance']",10,94,1992,1
+456,456,517,howl's moving castle,1,0,5576743,Walt Disney Studios,,11,PG,119,"['Adventure', 'Animation', 'Family', 'Fantasy']",20,87,2005,0
+457,457,518,hugo,11,5,73864507,Paramount Pictures,180000000,11,PG,126,"['Drama', 'Family', 'Fantasy', 'Mystery']",19,93,2011,0
+458,458,520,husbands and wives,2,0,10555619,TriStar Pictures,,9,R,108,"['Comedy', 'Drama', 'Romance']",7,93,1992,0
+459,459,521,hustle & flow,2,1,22202809,Paramount Classics,2800000,7,R,116,"['Crime', 'Drama', 'Music']",9,82,2005,0
+460,460,522,i am love,1,0,5005465,Magnolia Pictures,,3,R,,"['Drama', 'Romance']",0,82,2010,0
+461,461,523,i am sam,1,0,40311852,New Line Cinema,22000000,12,PG-13,132,['Drama'],10,35,2001,0
+462,462,524,i lost my body,1,0,1136431,,,11,NR,81,"['Animation', 'Drama', 'Fantasy', 'Romance']",4,96,2019,1
+463,463,527,i'm not there,1,0,4017609,The Weinstein Company,"[2200000, 41158757]",9,R,135,"['Biography', 'Drama', 'Music']",8,77,2007,0
+464,464,528,"i, robot",1,0,144801023,Twentieth Century Fox,120000000,7,PG-13,115,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",0,56,2004,1
+465,465,529,"i, tonya",3,1,30014539,Neon,11000000,12,R,119,"['Biography', 'Comedy', 'Drama', 'Sport']",27,90,2017,0
+466,466,530,ice age,1,0,176387405,Twentieth Century Fox,59000000,3,PG,81,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",0,77,2002,0
+467,467,531,ida,1,0,3827060,Music Box Films,2600000,10,PG-13,82,['Drama'],5,96,2014,0
+468,468,532,if beale street could talk,3,1,14915773,Annapurna Pictures,12000000,2,R,119,"['Drama', 'Romance']",7,95,2018,1
+469,469,533,il divo,1,0,240159,Music Box Films,,5,NR,110,"['Biography', 'Drama']",5,92,2009,0
+470,470,535,in & out,1,0,63856929,Paramount Pictures,35000000,9,PG-13,90,"['Comedy', 'Romance']",10,71,1997,0
+471,471,536,in america,3,0,15539656,Fox Searchlight Pictures,,10,PG-13,105,['Drama'],4,89,2003,0
+472,472,537,in bruges,1,0,7800824,Focus Features,15000000,2,R,107,"['Comedy', 'Crime', 'Drama', 'Thriller']",44,84,2008,0
+473,473,538,in the bedroom,5,0,35930604,Miramax,1700000,11,R,131,"['Crime', 'Drama']",7,93,2001,1
+474,474,539,in the line of fire,3,0,102314823,Columbia Pictures,40000000,7,R,128,"['Action', 'Crime', 'Drama', 'Thriller']",25,96,1993,0
+475,475,540,in the loop,1,0,2388804,IFC Films,,4,NR,106,['Comedy'],35,94,2009,0
+476,476,541,in the name of the father,7,0,25096862,Universal Pictures,,12,R,133,"['Biography', 'Drama']",10,92,1993,1
+477,477,542,in the valley of elah,1,0,6777741,Warner Independent Pictures (WIP),23000000,9,R,121,"['Crime', 'Drama', 'Mystery']",9,73,2007,0
+478,478,543,inception,8,4,292576195,Warner Bros.,160000000,7,PG-13,148,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",54,87,2010,0
+479,479,544,incredibles 2,1,0,608581744,Walt Disney Studios,200000000,6,PG,118,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",57,92,2018,0
+480,480,545,independence day,2,1,306169268,Twentieth Century Fox,75000000,6,PG-13,145,"['Action', 'Adventure', 'Sci-Fi']",52,66,1996,0
+481,481,546,indiana jones and the last crusade,3,1,197171806,Paramount Pictures,48000000,5,PG-13,127,"['Action', 'Adventure']",62,87,1989,0
+482,482,547,indochine,1,0,5603158,Sony Pictures Classics,,12,PG-13,159,"['Drama', 'Romance', 'War']",9,72,1992,0
+483,483,548,inglourious basterds,8,1,120540719,The Weinstein Company,70000000,8,R,153,"['Adventure', 'Drama', 'War']",71,89,2009,0
+484,484,549,inherent vice,2,0,8110975,Warner Bros.,20000000,12,R,148,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Romance']",13,74,2014,1
+485,485,550,inja (dog),1,0,82051601,Paramount Pictures,135000000,6,PG-13,112,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",2,77,2002,0
+486,486,551,innerspace,1,1,25893810,Warner Bros.,,7,PG,,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Thriller']",33,82,1987,0
+487,487,552,inside llewyn davis,2,0,13235319,CBS Films,11000000,11,R,104,"['Comedy', 'Drama', 'Music']",17,92,2013,0
+488,488,553,inside out,2,1,356461711,Walt Disney Studios,175000000,6,PG,95,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",69,98,2015,0
+489,489,555,interstellar,5,1,188020017,Paramount Pictures,165000000,11,PG-13,169,"['Adventure', 'Drama', 'Sci-Fi', 'Thriller']",60,72,2014,0
+490,490,556,interview with the vampire,2,0,105264608,Warner Bros.,60000000,11,R,123,"['Drama', 'Horror']",12,63,1994,1
+491,491,557,into the wild,2,0,18354356,Paramount Vantage,20000000,9,R,148,"['Adventure', 'Biography', 'Drama']",22,83,2007,1
+492,492,558,into the woods,3,0,128002372,Walt Disney Studios,50000000,12,PG,125,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Musical']",31,71,2014,1
+493,493,559,invictus,2,0,37491364,Warner Bros.,60000000,12,PG-13,134,"['Biography', 'Drama', 'History', 'Sport']",8,92,2009,1
+494,494,560,iris,3,1,957465,,5500000,11,R,99,"['Drama', 'Thriller']",0,79,2001,0
+495,495,561,iron man,2,0,318604126,Paramount Pictures,140000000,4,PG-13,126,"['Action', 'Adventure', 'Sci-Fi']",0,94,2008,1
+496,496,562,iron man 2,1,0,312433331,Paramount Pictures,200000000,4,PG-13,124,"['Action', 'Adventure', 'Sci-Fi']",72,73,2010,1
+497,497,563,iron man 3,1,0,409013994,Walt Disney Studios,200000000,4,PG-13,130,"['Action', 'Adventure', 'Sci-Fi']",98,79,2013,1
+498,498,564,ironweed,2,0,7393346,TriStar Pictures,,12,R,143,['Drama'],0,58,1987,1
+499,499,565,isle of dogs,2,0,32015231,Fox Searchlight Pictures,,3,PG-13,101,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi']",21,90,2018,0
+500,500,567,jackass presents: bad grandpa,1,0,102003019,Paramount Pictures,15000000,10,R,92,['Comedy'],4,61,2013,0
+501,501,568,jackie,3,0,13960394,Fox Searchlight Pictures,9000000,12,R,100,"['Biography', 'Drama', 'History']",6,88,2016,0
+502,502,569,jackie brown,1,0,39673162,Miramax,12000000,12,R,154,"['Crime', 'Drama', 'Thriller']",0,87,1997,1
+503,503,570,jagged edge,1,0,40491165,Columbia Pictures,,10,R,108,"['Drama', 'Mystery', 'Thriller']",7,81,1985,0
+504,504,571,james and the giant peach,1,0,28946127,Walt Disney Studios,,4,PG,79,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Musical']",50,91,1996,1
+505,505,572,jane eyre,1,0,11242660,Focus Features,,3,PG-13,,"['Drama', 'Romance']",4,84,2011,1
+506,506,573,jerry maguire,5,1,153952592,Sony Pictures Releasing,50000000,12,R,139,"['Comedy', 'Drama', 'Romance', 'Sport']",23,83,1996,0
+507,507,574,jfk,8,2,70405498,Warner Bros.,40000000,12,R,189,"['Drama', 'History', 'Thriller']",10,84,1991,1
+508,508,575,jim: the james foley story,1,0,8236,,,9,NR,111,"['Biography', 'Documentary']",0,91,2016,0
+509,509,576,jimmy neutron: boy genius,1,0,80936232,Paramount Pictures,30000000,12,G,82,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",51,74,2001,0
+510,510,578,jojo rabbit,6,1,33370906,Fox Searchlight Pictures,14000000,10,PG-13,108,"['Comedy', 'Drama', 'War']",43,80,2019,1
+511,511,579,joker,11,2,335451311,Warner Bros.,55000000,10,R,122,"['Crime', 'Drama', 'Thriller']",58,92,2019,1
+512,512,580,jolly roger,1,0,300204,,,10,R,95,['Family'],4,23,1998,0
+513,513,581,joy,1,0,56451232,Twentieth Century Fox,60000000,12,PG-13,124,"['Biography', 'Drama']",7,60,2015,0
+514,514,582,judy,2,1,24313888,Roadside Attractions,,9,PG-13,118,"['Biography', 'Drama', 'Romance']",1,92,2019,1
+515,515,583,julie & julia,1,0,94125426,Sony Pictures Releasing,40000000,8,PG-13,123,"['Biography', 'Drama', 'Romance']",7,77,2009,0
+516,516,584,junebug,1,0,143495265,Fox Searchlight Pictures,7500000,12,PG-13,96,"['Comedy', 'Drama']",8,86,2005,0
+517,517,585,junior,1,0,36763355,Universal Pictures,60000000,11,PG-13,109,"['Comedy', 'Romance', 'Sci-Fi']",3,36,1994,0
+518,518,586,juno,4,1,143495265,Fox Searchlight Pictures,7500000,12,PG-13,96,"['Comedy', 'Drama']",23,94,2007,0
+519,519,587,jurassic park,3,3,402828120,Universal Pictures,63000000,6,PG-13,127,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",64,91,1993,0
+520,520,589,kate & leopold,1,0,47121859,Miramax,,12,PG-13,118,"['Comedy', 'Fantasy', 'Romance']",1,50,2001,0
+521,521,590,kavi,1,0,41939,,,6,NR,89,"['Comedy', 'Drama']",0,71,2009,0
+522,522,591,killing joe,1,0,3775000,Fathom Events,,7,R,76,"['Action', 'Animation', 'Crime', 'Drama', 'Thriller']",19,92,1999,1
+523,523,592,king kong,4,3,218080025,Universal Pictures,207000000,12,PG-13,187,"['Action', 'Adventure', 'Drama', 'Romance']",18,84,2005,1
+524,524,593,kinsey,1,0,10254979,Fox Searchlight Pictures,11000000,11,R,118,"['Biography', 'Drama', 'Romance']",3,90,2004,0
+525,525,594,kiss of the spider woman,4,1,17005229,Island Alive,,7,R,,['Drama'],3,86,1985,0
+526,526,595,kitbull,1,0,330661,Magnolia Pictures,,1,PG,,"['Animation', 'Drama', 'Family', 'Short']",3,92,2019,0
+527,527,596,klaus,1,0,18730891,Lionsgate,,2,PG-13,111,"['Drama', 'Romance']",26,94,2019,0
+528,528,598,knives out,1,0,165363234,Lionsgate,40000000,11,PG-13,130,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",0,92,2019,0
+529,529,599,kong: skull island,1,0,168052812,Warner Bros.,185000000,3,PG-13,118,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",57,92,2017,1
+530,530,600,kubo and the two strings,2,0,48023088,Focus Features,60000000,8,PG,101,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",44,97,2016,0
+531,531,601,kundun,4,0,5684789,Walt Disney Studios,28000000,12,PG-13,134,"['Biography', 'Drama', 'History', 'War']",0,75,1997,0
+532,532,602,kung fu panda,1,0,215434591,DreamWorks,130000000,6,PG,92,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",71,87,2008,0
+533,533,603,kung fu panda 2,1,0,165249063,DreamWorks,150000000,5,PG,90,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",92,81,2011,1
+534,534,604,l.a. confidential,9,2,64616940,Warner Bros.,35000000,9,R,138,"['Crime', 'Drama', 'Mystery', 'Thriller']",41,99,1997,1
+535,535,607,la la land,14,6,151101803,Lionsgate,30000000,12,PG-13,128,"['Comedy', 'Drama', 'Music', 'Musical', 'Romance']",26,91,2016,0
+536,536,608,la luna,1,0,,Twentieth Century Fox,,9,G,142,['Drama'],1,88,2011,0
+537,537,610,la salla,1,0,27298285,Focus Features,5000000,11,R,117,"['Biography', 'Drama']",0,66,1996,0
+538,538,611,la vie en rose,3,2,10301706,Picturehouse,25000000,2,PG-13,140,"['Biography', 'Drama', 'Music', 'Romance']",5,74,2007,0
+539,539,613,lady bird,5,0,48958273,A24,10000000,11,R,94,"['Comedy', 'Drama']",14,92,2017,0
+540,540,614,ladyhawke,2,0,18432000,Warner Bros.,20000000,4,PG-13,121,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",22,65,1985,0
+541,541,615,lars and the real girl,1,0,5972884,Metro-Goldwyn-Mayer (MGM),12000000,10,PG-13,106,"['Comedy', 'Drama', 'Romance']",3,81,2007,0
+542,542,617,late afternoon,1,0,515144,,,8,NR,105,['Drama'],4,71,2018,0
+543,543,618,lavatory - lovestory,1,0,17020,,,2,NR,81,"['Comedy', 'Romance']",0,77,2008,0
+544,544,620,leaving las vegas,4,1,32029928,Metro-Goldwyn-Mayer (MGM),4000000,10,R,111,"['Drama', 'Romance']",14,90,1995,1
+545,545,621,legend,1,0,1872994,Universal Pictures,25000000,9,R,132,"['Biography', 'Crime', 'Drama', 'Thriller']",15,38,1986,0
+546,546,622,legends of the fall,3,1,66638883,Sony Pictures Releasing,30000000,12,R,133,"['Drama', 'Romance', 'War', 'Western']",19,58,1994,0
+547,547,623,lemony snicket's a series of unfortunate events,4,1,118634549,Paramount Pictures,140000000,12,PG,108,"['Adventure', 'Comedy', 'Family', 'Fantasy']",35,72,2004,1
+548,548,624,les misérables,8,3,148809770,Universal Pictures,61000000,12,PG-13,158,"['Drama', 'History', 'Musical', 'Romance', 'War']",37,69,2012,1
+549,549,626,lethal weapon,1,0,65207127,Warner Bros.,15000000,3,R,109,"['Action', 'Crime', 'Thriller']",18,80,1987,0
+550,550,627,lethal weapon 2,1,0,147253986,Warner Bros.,,7,R,114,"['Action', 'Crime', 'Thriller']",27,92,1989,1
+551,551,628,letters from iwo jima,4,1,13756082,Warner Bros.,19000000,12,R,141,"['Action', 'Adventure', 'Drama', 'History', 'War']",14,91,2006,1
+552,552,630,life,1,0,30234022,Sony Pictures Releasing,58000000,3,R,104,"['Horror', 'Sci-Fi', 'Thriller']",8,50,1999,0
+553,553,631,life is beautiful,6,2,57563264,Miramax,,10,PG-13,116,"['Comedy', 'Drama', 'Romance', 'War']",9,80,1998,0
+554,554,632,life of pi,11,4,124987023,Twentieth Century Fox,120000000,11,PG,127,"['Adventure', 'Drama', 'Fantasy']",24,87,2012,1
+555,555,633,lifted,1,0,24801212,Fox Searchlight Pictures,7000000,4,PG-13,101,['Drama'],3,89,2006,0
+556,556,634,lilo & stitch,1,0,145794338,Walt Disney Studios,80000000,6,PG,85,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",0,86,2002,0
+557,557,635,lincoln,12,2,182207973,Walt Disney Studios,65000000,11,PG-13,150,"['Biography', 'Drama', 'History', 'War']",33,89,2012,1
+558,558,636,lion,6,0,51738905,The Weinstein Company,12000000,11,PG-13,118,"['Biography', 'Drama']",0,84,2016,0
+559,559,637,little children,3,0,5463019,New Line Cinema,26000000,10,R,137,"['Comedy', 'Drama', 'Romance']",6,80,2006,1
+560,560,638,little dorrit,2,0,1025228,Cannon Film Distributors,,10,G,357,"['Drama', 'Romance']",12,92,1988,1
+561,561,639,little miss sunshine,4,2,59891098,Fox Searchlight Pictures,8000000,7,R,101,"['Comedy', 'Drama']",28,91,2006,0
+562,562,640,little shop of horrors,2,0,38982260,Warner Bros.,30000000,12,PG-13,94,"['Comedy', 'Horror', 'Musical', 'Romance', 'Sci-Fi']",44,90,1986,1
+563,563,642,little terrorist,1,0,350515,,,1,PG,110,['Comedy'],3,67,2004,0
+564,564,643,little voice,1,0,4611784,Miramax,6000000,12,R,97,"['Comedy', 'Drama', 'Music', 'Romance']",14,79,1998,1
+565,565,644,little women,9,1,108101214,Sony Pictures Releasing,40000000,12,PG,135,"['Drama', 'Romance']",8,92,1994,0
+566,566,645,logan,1,0,226277068,Twentieth Century Fox,97000000,3,R,137,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",68,92,2017,0
+567,567,646,logorama,1,1,47643,,,1,NR,105,"['Comedy', 'Drama']",8,85,2009,0
+568,568,647,lone star,1,0,12408986,Sony Pictures Classics,5000000,6,R,135,"['Drama', 'Mystery']",9,94,1996,0
+569,569,648,lone survivor,2,0,125095601,Universal Pictures,40000000,12,R,121,"['Action', 'Biography', 'Drama', 'War']",16,75,2013,1
+570,570,649,longtime companion,1,0,4609953,The Samuel Goldwyn Company,,5,R,96,"['Drama', 'Romance']",0,89,1990,0
+571,571,650,lorenzo,1,0,7286388,Universal Pictures,,1,PG-13,129,['Drama'],2,20,2004,0
+572,572,651,lorenzo's oil,2,0,7286388,Universal Pictures,,1,PG-13,129,['Drama'],0,92,1992,0
+573,573,652,lost in translation,4,1,44585453,Focus Features,4000000,9,R,102,"['Comedy', 'Drama']",11,95,2003,0
+574,574,653,lou,1,0,12875,Cinema Libre Studio,,5,G,113,"['Biography', 'Drama', 'History', 'Romance']",0,75,2017,0
+575,575,654,love field,1,0,1014726,Orion Pictures,,2,PG-13,105,['Drama'],25,40,1992,0
+576,576,655,love struck,1,0,528002,,,12,NR,90,"['Comedy', 'Drama', 'Romance']",0,57,1986,0
+577,577,656,loving,1,0,7751969,Focus Features,9000000,11,PG-13,123,"['Biography', 'Drama', 'Romance']",0,89,2016,1
+578,578,657,loving vincent,1,0,6735118,Good Deed Entertainment,5500000,9,PG-13,94,"['Animation', 'Biography', 'Crime', 'Drama', 'Family', 'Mystery']",12,85,2017,0
+579,579,658,luxo jr.,1,0,47906,Expanded Entertainment,,8,G,,"['Animation', 'Short']",0,80,1986,0
+580,580,659,mad max: fury road,10,6,154058340,Warner Bros.,150000000,5,R,,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",75,97,2015,0
+581,581,661,madame bovary,1,0,44235,Alchemy,,6,R,118,"['Drama', 'Romance']",15,73,1991,0
+582,582,663,maestro,1,0,1086894,Orion Classics,,7,NR,100,"['Drama', 'Music']",4,80,2006,0
+583,583,665,magnolia,3,0,22455976,New Line Cinema,37000000,12,R,188,['Drama'],10,83,1999,0
+584,584,667,making waves,1,0,19367,Metro-Goldwyn-Mayer (MGM),,6,NR,92,"['Drama', 'Romance']",4,97,1987,0
+585,585,668,malcolm x,2,0,48169910,Warner Bros.,35000000,11,PG-13,202,"['Biography', 'Drama', 'History']",12,88,1992,0
+586,586,669,maleficent,1,0,241410378,Walt Disney Studios,180000000,5,PG,97,"['Action', 'Adventure', 'Family', 'Fantasy', 'Romance']",48,54,2014,1
+587,587,670,maleficent: mistress of evil,1,0,113929605,Walt Disney Studios,185000000,10,PG,119,"['Adventure', 'Family', 'Fantasy']",18,92,2019,1
+588,588,671,malèna,2,0,17742948,Lionsgate,,9,PG-13,103,"['Drama', 'Romance']",14,54,2000,0
+589,589,672,manchester by the sea,6,2,47695371,Roadside Attractions,9000000,11,R,137,['Drama'],16,96,2016,0
+590,590,673,mandela: long walk to freedom,1,0,8323085,The Weinstein Company,35000000,11,PG-13,141,"['Biography', 'Drama', 'History']",0,92,2013,0
+591,591,674,manipulation,1,1,4598506,Twentieth Century Fox,,4,R,107,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,73,1991,0
+592,592,675,mannequin,1,0,42721196,Twentieth Century Fox,,2,PG,90,"['Comedy', 'Fantasy', 'Romance']",0,21,1987,0
+593,593,677,margin call,1,0,5354039,Roadside Attractions,3500000,9,R,107,"['Drama', 'Thriller']",24,87,2011,0
+594,594,678,marguerite,1,0,506677,Cohen Media Group,,9,R,129,"['Comedy', 'Drama', 'Music']",3,95,2018,0
+595,595,679,maria full of grace,1,0,6529624,Fine Line Features,3200000,7,R,101,"['Crime', 'Drama']",0,97,2004,0
+596,596,680,marie antoinette,1,1,15962471,Sony Pictures Releasing,40000000,5,PG-13,123,"['Biography', 'Drama', 'History', 'Romance']",9,57,2006,0
+597,597,681,marriage story,6,1,333686,,8600000,11,R,137,"['Comedy', 'Drama', 'Romance']",23,95,2019,0
+598,598,682,married to the mob,1,0,21486757,Orion Pictures,,8,R,104,"['Comedy', 'Crime', 'Romance']",14,90,1988,0
+599,599,683,marshall,1,0,10051659,Open Road Films (II),12000000,10,PG-13,118,"['Biography', 'Crime', 'Drama', 'History']",4,80,2017,0
+600,600,684,marvel's the avengers,1,0,623357910,Walt Disney Studios,220000000,4,PG-13,143,"['Action', 'Adventure', 'Sci-Fi']",1,92,2012,1
+601,601,685,marvin's room,1,0,12803305,Miramax,23000000,12,PG-13,98,['Drama'],7,84,1996,1
+602,602,686,mary poppins returns,4,0,171958438,Walt Disney Studios,130000000,12,PG,130,"['Comedy', 'Family', 'Fantasy', 'Musical']",41,79,2018,1
+603,603,687,mary queen of scots,2,0,16468499,Focus Features,25000000,12,R,124,"['Biography', 'Drama', 'History']",7,62,2018,0
+604,604,688,mary shelley's frankenstein,1,0,22006296,Sony Pictures Releasing,45000000,11,R,123,"['Drama', 'Horror', 'Romance', 'Sci-Fi']",16,38,1994,1
+605,605,689,mask,1,1,119938730,New Line Cinema,23000000,7,PG-13,101,"['Action', 'Comedy', 'Crime', 'Fantasy']",37,93,1985,0
+606,606,690,master and commander: the far side of the world,10,2,93927920,Twentieth Century Fox,150000000,11,PG-13,138,"['Action', 'Adventure', 'Drama', 'History', 'War']",35,85,2003,1
+607,607,691,match point,1,0,23151529,DreamWorks Distribution,15000000,5,R,124,"['Drama', 'Romance', 'Thriller']",10,77,2005,0
+608,608,692,matewan,1,0,1680358,Cinecom Pictures,,8,PG-13,135,"['Drama', 'History']",17,94,1987,0
+609,609,693,maurice,1,0,2484230,Cinecom Pictures,2600000,9,R,140,"['Drama', 'Romance']",2,88,1987,1
+610,610,694,maverick,1,0,101631272,Warner Bros.,,5,PG,127,"['Action', 'Adventure', 'Comedy', 'Thriller', 'Western']",24,66,1994,0
+611,611,696,meet the parents,1,0,166244045,Universal Pictures,55000000,10,PG-13,108,"['Comedy', 'Romance']",39,84,2000,0
+612,612,697,memento,2,0,25544867,Newmarket Films,9000000,3,R,113,"['Mystery', 'Thriller']",14,93,2001,1
+613,613,698,memoirs of a geisha,6,3,57490508,Sony Pictures Releasing,85000000,12,PG-13,145,"['Drama', 'Romance']",22,35,2005,1
+614,614,699,memorable,1,0,330661,Magnolia Pictures,,1,,,"['Animation', 'Drama', 'Family', 'Short']",0,92,2019,0
+615,615,700,men in black,3,1,250690539,Sony Pictures Releasing,90000000,7,PG-13,98,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",48,92,1997,1
+616,616,701,metropolitan,1,0,2960492,New Line Cinema,230000,8,PG-13,98,"['Comedy', 'Drama', 'Romance']",0,93,1990,0
+617,617,702,michael clayton,7,1,49033882,Warner Bros.,21500000,9,R,119,"['Crime', 'Drama', 'Mystery', 'Thriller']",15,91,2007,0
+618,618,703,michael collins,2,0,11092559,Warner Bros.,25000000,10,R,133,"['Biography', 'Drama', 'Thriller', 'War']",12,77,1996,0
+619,619,704,midnight in paris,4,1,56817045,Sony Pictures Classics,17000000,5,PG-13,96,"['Comedy', 'Fantasy', 'Romance']",18,93,2011,0
+620,620,705,mighty aphrodite,2,1,6468498,Miramax,,10,R,95,"['Comedy', 'Fantasy', 'Romance']",4,77,1995,0
+621,621,706,mighty joe young,1,0,50632037,Walt Disney Studios,90000000,12,PG,114,"['Action', 'Adventure', 'Family', 'Fantasy', 'Thriller']",12,55,1998,1
+622,622,708,milk,8,2,31841299,Focus Features,20000000,11,R,128,"['Biography', 'Drama']",11,93,2008,0
+623,623,709,million dollar baby,7,4,100492203,Warner Bros.,30000000,12,PG-13,132,"['Drama', 'Sport']",9,91,2004,1
+624,624,710,minority report,1,0,132072926,Twentieth Century Fox,102000000,6,PG-13,145,"['Action', 'Crime', 'Mystery', 'Sci-Fi', 'Thriller']",36,90,2002,0
+625,625,711,miracle fish,1,0,,DigiNext,,12,PG,,['Drama'],19,92,2009,0
+626,626,712,mirai,1,0,812794,GKIDS,,7,PG,98,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",13,91,2018,0
+627,627,713,mirror mirror,1,0,64935167,Relativity Media,85000000,3,PG,106,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",32,50,2012,1
+628,628,714,misery,1,1,61276872,Columbia Pictures,,11,R,107,"['Drama', 'Thriller']",48,90,1990,1
+629,629,715,missing link,1,0,16649539,United Artists Releasing,,4,PG,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",20,89,2019,0
+630,630,716,mississippi burning,7,1,34603943,Orion Pictures,,12,R,128,"['Crime', 'Drama', 'History', 'Mystery', 'Thriller']",14,83,1988,0
+631,631,717,moana,2,0,248757044,Walt Disney Studios,150000000,11,PG,107,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",49,95,2016,0
+632,632,718,molly's game,1,0,28780744,STX Entertainment,"[2200000, 41158757]",12,R,140,"['Biography', 'Crime', 'Drama']",20,82,2017,0
+633,633,720,mona lisa,1,0,5794184,Island Pictures,,6,R,104,"['Crime', 'Drama', 'Romance']",3,97,1986,0
+634,634,722,moneyball,6,0,75605492,Sony Pictures Releasing,50000000,9,PG-13,133,"['Biography', 'Drama', 'Sport']",18,94,2011,0
+635,635,723,monster,1,1,34469210,Newmarket Films,8000000,12,R,109,"['Biography', 'Crime', 'Drama', 'Thriller']",18,81,2003,0
+636,636,724,monster house,1,0,73661010,Sony Pictures Releasing,75000000,7,PG,91,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Mystery']",20,75,2006,0
+637,637,725,monster's ball,2,1,31273922,Lionsgate,4000000,12,R,111,"['Drama', 'Romance']",1,85,2001,0
+638,638,726,"monsters, inc.",4,1,289916256,Walt Disney Studios,115000000,11,G,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",74,96,2001,0
+639,639,727,moonlight,8,3,27854932,A24,4000000,10,R,111,['Drama'],16,98,2016,0
+640,640,728,moonrise kingdom,1,0,45512466,Focus Features,16000000,5,PG-13,94,"['Comedy', 'Drama', 'Romance']",17,93,2012,0
+641,641,729,moonstruck,6,3,80640528,Metro-Goldwyn-Mayer (MGM),,12,PG,102,"['Comedy', 'Drama', 'Romance']",17,93,1987,0
+642,642,730,more,1,0,129683,,,1,NR,115,"['Crime', 'Drama']",3,92,1998,0
+643,643,731,most (the bridge),1,0,50750000,United Artists,27000000,6,NR,175,"['Drama', 'History', 'War']",4,92,2003,0
+644,644,732,mother,1,0,17800004,Paramount Pictures,30000000,9,R,121,"['Drama', 'Horror', 'Mystery']",36,69,2018,0
+645,645,733,moulin rouge,8,2,57386607,Twentieth Century Fox,50000000,5,PG-13,127,"['Drama', 'Musical', 'Romance']",29,76,2001,0
+646,646,734,mr. & mrs. bridge,1,0,7698010,Miramax,,11,PG-13,126,['Drama'],0,80,1990,0
+647,647,735,mr. holland's opus,1,0,82569971,Walt Disney Studios,"[2200000, 41158757]",12,PG,143,"['Drama', 'Music']",18,75,1995,0
+648,648,737,mr. saturday night,1,0,13351357,Columbia Pictures,,9,R,119,"['Comedy', 'Drama']",11,58,1992,0
+649,649,738,mr. turner,4,0,3958500,Sony Pictures Classics,14000000,10,R,150,"['Biography', 'Drama', 'History']",6,97,2014,0
+650,650,739,mrs. brown,2,0,9229808,Miramax,,7,PG,101,"['Biography', 'Drama', 'History', 'Romance']",11,92,1997,0
+651,651,740,mrs. doubtfire,1,1,219195243,Twentieth Century Fox,25000000,11,PG-13,125,"['Comedy', 'Drama', 'Family']",32,71,1993,1
+652,652,741,mrs. henderson presents,2,0,11036366,The Weinstein Company,20000000,11,R,103,"['Comedy', 'Drama', 'Music', 'War']",8,67,2005,0
+653,653,742,mt. head,1,0,62658220,Universal Pictures,72000000,11,R,125,"['Action', 'Biography', 'Drama', 'War']",12,92,2002,1
+654,654,743,mudbound,4,0,117344,Netflix,10000000,11,R,134,"['Drama', 'War']",7,97,2017,1
+655,655,744,mulan,1,0,"[2200000, 41158757]",Walt Disney Studios Motion Pictures,90000000,8,PG-13,115,"['Action', 'Adventure', 'Drama', 'Family']",6,86,1998,1
+656,656,745,mulholland drive,1,0,7220243,Universal Pictures,15000000,10,R,147,"['Drama', 'Mystery', 'Thriller']",37,83,2001,0
+657,657,746,munich,5,0,47403685,Universal Pictures,70000000,12,R,164,"['Action', 'Drama', 'History', 'Thriller']",0,78,2005,1
+658,658,747,murphy's romance,2,0,30867525,Columbia Pictures,,12,PG-13,107,"['Comedy', 'Drama', 'Romance']",0,73,1985,1
+659,659,748,music box,1,0,6263883,TriStar Pictures,,12,PG-13,124,"['Crime', 'Drama', 'Thriller']",5,72,1989,0
+660,660,749,music of the heart,2,0,14859394,Miramax,27000000,10,PG,124,"['Drama', 'Music']",7,63,1999,0
+661,661,750,my beautiful laundrette,1,0,2451545,Orion Classics,400000,3,R,97,"['Comedy', 'Drama', 'Romance']",3,97,1986,0
+662,662,751,my best friend's wedding,1,0,127120029,Sony Pictures Releasing,38000000,6,PG-13,105,"['Comedy', 'Drama', 'Romance']",15,73,1997,0
+663,663,752,my big fat greek wedding,1,0,241438208,IFC Films,5000000,4,PG,95,"['Comedy', 'Drama', 'Romance']",23,76,2002,0
+664,664,753,my cousin vinny,1,1,52929168,Twentieth Century Fox,11000000,3,R,,"['Comedy', 'Crime']",28,86,1992,0
+665,665,754,"my family, mi familia",1,0,11079373,New Line Cinema,,5,R,128,['Drama'],0,85,1995,0
+666,666,756,my left foot,5,2,14743391,Miramax,,11,R,103,"['Biography', 'Drama']",3,98,1989,0
+667,667,757,my life as a dog,2,0,8345266,Skouras Pictures,,5,PG-13,101,"['Comedy', 'Drama']",0,100,1987,1
+668,668,758,my life as a zucchini,1,0,309766,GKIDS,,10,PG-13,66,"['Animation', 'Comedy', 'Drama', 'Family']",10,99,2016,0
+669,669,762,my week with marilyn,2,0,14600347,The Weinstein Company,10000000,11,R,99,"['Biography', 'Drama']",5,83,2011,1
+670,670,763,mystic river,6,2,90135191,Warner Bros.,25000000,10,R,138,"['Crime', 'Drama', 'Mystery', 'Thriller']",13,88,2003,0
+671,671,766,nebraska,6,0,17654912,Paramount Pictures,12000000,11,R,115,"['Adventure', 'Comedy', 'Drama']",19,91,2013,0
+672,672,767,nefta football club,1,0,330661,Magnolia Pictures,,1,NR,,"['Comedy', 'Drama', 'Short']",4,92,2019,0
+673,673,769,nell,1,0,33683817,Twentieth Century Fox,,12,PG-13,112,['Drama'],8,55,1994,1
+674,674,770,never look away,1,0,1304042,Sony Pictures Classics,,10,R,189,"['Biography', 'Drama', 'Romance', 'Thriller', 'War']",6,76,2018,0
+675,675,771,new boy,1,0,7963718,Sony Pictures Releasing,,4,PG-13,97,"['Comedy', 'Crime', 'Romance']",1,88,2008,1
+676,676,772,nibbles,1,0,,Twentieth Century Fox,,12,PG-13,182,"['Adventure', 'Drama', 'Romance', 'War']",40,75,2003,0
+677,677,773,nightcrawler,1,0,32381217,Open Road Films (II),8500000,10,R,117,"['Crime', 'Drama', 'Thriller']",25,95,2014,0
+678,678,774,nine,4,0,19676965,The Weinstein Company,80000000,1,PG-13,118,"['Drama', 'Musical', 'Romance']",60,39,2009,0
+679,679,775,nixon,4,0,13681765,Walt Disney Studios,44000000,12,R,192,"['Biography', 'Drama', 'History']",0,74,1995,0
+680,680,776,no country for old men,8,4,74283625,Miramax,25000000,11,R,122,"['Crime', 'Drama', 'Thriller']",37,93,2007,0
+681,681,778,nobody's fool,2,0,31713110,Paramount Pictures,19000000,10,R,110,"['Comedy', 'Drama', 'Romance']",10,91,1994,1
+682,682,779,nocturnal animals,1,0,10663357,Focus Features,22500000,11,R,116,"['Drama', 'Thriller']",17,74,2016,0
+683,683,780,norbit,1,0,95673607,DreamWorks,60000000,2,PG-13,103,"['Comedy', 'Romance']",27,9,2007,0
+684,684,781,north country,2,0,18337722,Warner Bros.,35000000,10,R,126,['Drama'],4,69,2005,0
+685,685,782,notes on a scandal,4,0,17510118,Fox Searchlight Pictures,27500000,12,R,92,"['Crime', 'Drama', 'Romance', 'Thriller']",30,87,2006,1
+686,686,783,"o brother, where art thou?",2,0,45512588,Walt Disney Studios,26000000,8,PG-13,107,"['Adventure', 'Comedy', 'Crime', 'Music']",32,77,2000,0
+687,687,785,omnibus,1,1,217201,THINKFilm,,10,R,150,"['Crime', 'Documentary']",1,92,1992,0
+688,688,786,on hope,1,0,104732,Roadside Attractions,,2,PG-13,100,"['Drama', 'Romance']",52,92,1994,0
+689,689,787,once,1,1,9439923,Fox Searchlight Pictures,150000,3,R,86,"['Drama', 'Music', 'Romance']",11,97,2007,0
+690,690,788,once upon a time...in hollywood,10,2,,,"[2200000, 41158757]",,,,,67,92,2019,0
+691,691,790,one fine day,1,0,,,,,PG,,,4,50,1996,0
+692,692,793,one true thing,1,0,"[2200000, 41158757]",,30000000,,,,,2,92,1998,1
+693,693,794,orlando,2,0,142502728,Sony Pictures Releasing,90000000,7,R,161,"['Comedy', 'Drama']",6,84,1993,1
+694,694,795,oscar and lucinda,1,0,1897404,Fox Searchlight Pictures,12500000,1,R,132,"['Drama', 'Romance']",9,66,1997,1
+695,695,796,otello,1,0,2844379,Sony Pictures Releasing,,12,R,123,"['Drama', 'Romance']",2,50,1986,1
+696,696,797,our time is up,1,0,106986,Abramorama,,11,NR,95,['Documentary'],26,63,2005,1
+697,697,798,out of africa,11,7,87071205,Universal Pictures,31000000,12,PG,161,"['Biography', 'Drama', 'Romance']",3,58,1985,0
+698,698,799,out of sight,2,0,37562568,Universal Pictures,48000000,6,R,123,"['Comedy', 'Crime', 'Drama', 'Romance', 'Thriller']",15,93,1998,1
+699,699,800,pain and glory,1,0,4567338,Sony Pictures Classics,,3,R,113,['Drama'],0,96,2019,0
+700,700,801,pan's labyrinth,5,3,37634615,Picturehouse,19000000,10,R,118,"['Drama', 'Fantasy', 'War']",38,95,2006,0
+701,701,802,paperman,1,1,13514,MPI Media Group,,4,R,110,"['Comedy', 'Drama']",8,92,2012,0
+702,702,803,paranorman,1,0,56003051,Focus Features,60000000,8,PG,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Mystery']",57,88,2012,0
+703,703,804,parasite,5,3,53369749,Neon,11400000,5,R,132,"['Comedy', 'Drama', 'Thriller']",41,92,2019,0
+704,704,805,parenthood,2,0,100047830,Universal Pictures,,8,PG-13,124,"['Comedy', 'Drama']",14,91,1989,0
+705,705,806,paris 36,1,0,851540,Sony Pictures Classics,,9,PG-13,,"['Drama', 'Music', 'Musical', 'Romance']",12,63,2009,0
+706,706,807,partners,1,0,6062898,Paramount Pictures,,4,R,93,"['Comedy', 'Crime']",2,38,1993,1
+707,707,809,passengers,2,0,100014699,Sony Pictures Releasing,110000000,12,PG-13,116,"['Drama', 'Romance', 'Sci-Fi', 'Thriller']",32,31,2016,0
+708,708,810,passion fish,2,0,4814619,Miramax,,12,R,135,['Drama'],0,100,1992,0
+709,709,811,patch adams,1,0,135026902,Universal Pictures,90000000,12,PG-13,115,"['Biography', 'Comedy', 'Drama', 'Romance']",9,22,1998,1
+710,710,813,pearl,1,0,29174648,Twentieth Century Fox,,11,NR,125,"['Drama', 'Music', 'Romance']",16,67,2016,0
+711,711,814,pearl harbor,4,1,198542554,Walt Disney Studios,140000000,5,PG-13,183,"['Action', 'Drama', 'History', 'Romance', 'War']",16,24,2001,0
+712,712,815,peggy sue got married,3,0,41382841,TriStar Pictures,18000000,10,PG-13,103,"['Comedy', 'Drama', 'Fantasy', 'Romance']",0,86,1986,0
+713,713,816,pelle the conqueror,1,0,2063688,Miramax,,12,PG-13,157,['Drama'],7,88,1988,0
+714,714,818,persepolis,1,0,4445756,Sony Pictures Classics,7300000,6,PG-13,96,"['Animation', 'Biography', 'Drama', 'Family', 'History', 'War']",0,96,2007,1
+715,715,820,phantom thread,6,1,21198205,Focus Features,35000000,12,R,130,"['Drama', 'Romance']",8,91,2017,0
+716,716,821,philadelphia,5,2,77446440,TriStar Pictures,26000000,12,PG-13,125,['Drama'],11,80,1993,0
+717,717,822,philomena,4,0,37709979,The Weinstein Company,12000000,11,PG-13,98,"['Biography', 'Comedy', 'Drama']",18,90,2013,0
+718,718,823,pieces of april,1,0,2528664,United Artists,300000,10,PG-13,80,"['Comedy', 'Drama']",7,84,2003,0
+719,719,824,piper,1,1,5546500,,,7,G,119,"['Horror', 'Mystery', 'Thriller']",1,90,2016,0
+720,720,825,pirates,1,0,7563728,Metro-Goldwyn-Mayer (MGM),40000000,9,PG-13,105,"['Comedy', 'Crime', 'Drama', 'Thriller']",19,30,1986,0
+721,721,826,pirates of the caribbean: at world's end,2,0,309420425,Walt Disney Studios,300000000,5,PG-13,169,"['Action', 'Adventure', 'Fantasy']",42,44,2007,1
+722,722,827,pirates of the caribbean: dead man's chest,4,1,423315812,Walt Disney Studios,225000000,7,PG-13,151,"['Action', 'Adventure', 'Fantasy']",26,53,2006,1
+723,723,828,pirates of the caribbean: the curse of the black pearl,5,0,305413918,Walt Disney Studios,140000000,7,PG-13,143,"['Action', 'Adventure', 'Fantasy']",38,79,2003,0
+724,724,830,platoon,8,4,138530565,Orion Pictures,6000000,12,R,,"['Drama', 'War']",30,88,1986,0
+725,725,831,pleasantville,3,0,40584421,New Line Cinema,60000000,10,PG-13,124,"['Comedy', 'Drama', 'Fantasy']",17,85,1998,0
+726,726,832,pocahontas,2,2,141579773,Walt Disney Studios,55000000,6,G,81,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical', 'Romance']",39,55,1995,1
+727,727,833,poetic justice,1,0,27515786,Columbia Pictures,14000000,7,R,109,"['Drama', 'Romance']",7,34,1993,0
+728,728,834,pollock,2,1,8598593,Sony Pictures Classics,6000000,12,R,122,"['Biography', 'Drama']",0,81,2000,1
+729,729,835,poltergeist ii: the other side,1,0,40996665,Metro-Goldwyn-Mayer (MGM),,5,PG-13,91,['Horror'],4,37,1986,0
+730,730,836,poseidon,1,0,60674817,Warner Bros.,160000000,5,PG-13,98,"['Action', 'Adventure', 'Thriller']",0,33,2006,0
+731,731,837,possessions,1,0,22862,Eleven Arts,,7,,68,"['Animation', 'Fantasy', 'Sci-Fi']",5,92,2013,0
+732,732,838,postcards from the edge,2,0,39071603,Columbia Pictures,,9,,101,"['Comedy', 'Drama']",2,92,1990,0
+733,733,840,precious: based on the novel 'push' by sapphire,6,2,47566524,Lionsgate,10000000,11,R,110,['Drama'],14,92,2009,0
+734,734,841,predator,1,0,59735548,Twentieth Century Fox,15000000,6,R,107,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",0,81,1987,0
+735,735,842,presto,1,0,53315285,Warner Bros.,,10,R,147,"['Crime', 'Drama', 'Thriller']",7,92,2008,0
+736,736,843,pretty woman,1,0,178406268,Walt Disney Studios,14000000,3,R,119,"['Comedy', 'Romance']",0,63,1990,0
+737,737,844,pride & prejudice,4,0,38405088,Focus Features,28000000,9,PG,129,"['Drama', 'Romance']",11,86,2005,0
+738,738,845,primal fear,1,0,56116183,Paramount Pictures,,4,R,129,"['Crime', 'Drama', 'Mystery', 'Thriller']",20,75,1996,0
+739,739,846,primary colors,2,0,39001187,Universal Pictures,65000000,3,R,143,"['Comedy', 'Drama']",4,92,1998,0
+740,740,847,prisoners,1,0,61002302,Warner Bros.,46000000,9,R,153,"['Crime', 'Drama', 'Mystery', 'Thriller']",16,81,2013,0
+741,741,848,prizzi's honor,8,1,26657534,Twentieth Century Fox,,6,R,130,"['Comedy', 'Crime', 'Drama', 'Romance']",2,86,1985,0
+742,742,849,prologue,1,0,,Warner Bros.,,10,NR,104,"['Comedy', 'Musical', 'Romance']",11,57,2015,0
+743,743,850,prometheus,1,0,126477084,Twentieth Century Fox,130000000,5,R,124,"['Adventure', 'Mystery', 'Sci-Fi']",55,73,2012,0
+744,744,851,pulp fiction,7,1,107928762,Miramax,8000000,10,R,154,"['Crime', 'Drama']",69,92,1994,0
+745,745,852,puss in boots,1,0,149260504,DreamWorks,130000000,10,PG,90,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Mystery']",46,86,2011,0
+746,746,853,queen margot,1,0,1304237,Miramax,,12,R,159,"['Biography', 'Drama', 'History', 'Romance']",8,81,1994,0
+747,747,854,quest,1,1,21686547,Universal Pictures,,4,PG-13,95,"['Action', 'Adventure', 'Drama', 'Thriller']",6,14,1996,0
+748,748,855,quest for camelot,1,0,22510798,Warner Bros.,40000000,5,G,86,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']",34,35,1998,0
+749,749,856,quiero ser (i want to be...),1,1,97473,,,5,NR,98,"['Comedy', 'Drama', 'Romance']",3,50,2000,0
+750,750,857,quills,3,0,7065332,Fox Searchlight Pictures,13500000,11,R,124,"['Biography', 'Drama']",9,75,2000,0
+751,751,858,quiz show,4,0,24822619,Walt Disney Studios,,9,PG-13,133,"['Biography', 'Drama', 'History']",20,96,1994,0
+752,752,859,rabbit hole,1,0,2229058,Lionsgate,5000000,12,PG-13,91,['Drama'],0,86,2010,0
+753,753,860,rachel getting married,1,0,12796841,Sony Pictures Classics,12000000,10,R,113,"['Drama', 'Romance']",10,84,2008,0
+754,754,861,racing extinction,1,0,,Abramorama,,9,NR,90,"['Documentary', 'News']",5,81,2015,0
+755,755,862,radio days,2,0,14792779,Orion Pictures,16000000,1,PG,88,['Comedy'],15,90,1987,0
+756,756,863,rain man,8,4,172825435,Metro-Goldwyn-Mayer (MGM),25000000,12,R,133,['Drama'],9,89,1988,0
+757,757,864,rainbow war,1,0,38590458,Warner Bros.,50000000,2,R,101,"['Action', 'Adventure', 'Thriller']",1,92,1985,0
+758,758,865,raju,1,0,,Columbia Pictures,,9,NR,98,['Drama'],35,75,2011,0
+759,759,866,ralph breaks the internet,1,0,201091711,Walt Disney Studios,175000000,11,PG,112,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",50,88,2018,0
+760,760,867,rambling rose,2,0,6266621,New Line Cinema,7500000,9,R,112,['Drama'],12,100,1991,0
+761,761,868,rambo: first blood part ii,1,0,150415432,TriStar Pictures,44000000,5,R,96,"['Action', 'Adventure', 'Thriller']",8,36,1985,0
+762,762,869,ran,4,1,4135750,Orion Classics,11500000,9,R,162,"['Action', 'Drama', 'War']",35,97,1985,0
+763,763,870,rango,1,1,123477607,Paramount Pictures,135000000,3,PG,107,"['Adventure', 'Animation', 'Comedy', 'Family', 'Western']",66,88,2011,0
+764,764,871,ratatouille,5,1,206445654,Walt Disney Studios,150000000,6,G,111,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",53,96,2007,0
+765,765,872,ray,6,2,75331600,Universal Pictures,40000000,10,PG-13,152,"['Biography', 'Drama', 'Music']",7,80,2004,0
+766,766,874,rbg,1,0,14017361,Magnolia Pictures,,5,PG,98,"['Biography', 'Documentary']",2,94,2018,0
+767,767,875,ready player one,1,0,137690172,Warner Bros.,175000000,3,PG-13,140,"['Action', 'Adventure', 'Sci-Fi']",56,72,2018,0
+768,768,876,real steel,1,0,85468508,Walt Disney Studios,110000000,10,PG-13,127,"['Action', 'Drama', 'Sci-Fi', 'Sport']",40,60,2011,0
+769,769,877,"reci, reci, reci... (words, words, words)",1,0,18450127,,40000000,2,PG-13,91,"['Comedy', 'Drama']",1,25,1992,0
+770,770,878,red,3,0,90380162,Summit Entertainment,58000000,10,PG-13,111,"['Action', 'Comedy', 'Crime', 'Thriller']",47,100,1994,0
+771,771,879,redux riding hood,1,0,37662162,Warner Bros.,42000000,3,PG-13,100,"['Fantasy', 'Horror', 'Mystery', 'Romance', 'Thriller']",24,10,1997,0
+772,772,880,rejected,1,0,17044981,Lionsgate,7000000,7,R,107,['Horror'],13,92,2000,0
+773,773,881,remo williams: the adventure begins,1,0,14393902,Orion Pictures,,10,PG-13,121,"['Action', 'Adventure', 'Comedy', 'Crime', 'Romance', 'Thriller']",2,41,1985,0
+774,774,882,requiem for a dream,1,0,3635482,Artisan Entertainment,4500000,10,R,102,['Drama'],21,79,2000,0
+775,775,883,restoration,2,2,4005941,Miramax,19000000,12,R,117,"['Biography', 'Drama', 'History', 'Romance']",0,70,1995,0
+776,776,884,return to oz,1,0,11137801,Walt Disney Studios,27000000,6,PG,113,"['Adventure', 'Family', 'Fantasy', 'Horror', 'Mystery']",39,53,1985,0
+777,777,885,reversal of fortune,3,1,15445131,Warner Bros.,,10,R,111,"['Biography', 'Drama', 'Mystery']",8,92,1990,0
+778,778,887,revolutionary road,3,0,22911480,Paramount Vantage,35000000,12,R,119,"['Drama', 'Romance']",8,67,2008,0
+779,779,888,richard iii,2,0,2684904,United Artists,9200000,12,R,110,"['Drama', 'Sci-Fi', 'War']",19,94,1995,0
+780,780,889,richard jewell,1,0,22345542,Warner Bros.,45000000,12,R,131,"['Biography', 'Crime', 'Drama']",12,76,2019,0
+781,781,890,rio,1,0,143619809,Twentieth Century Fox,90000000,4,PG,96,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Musical']",58,72,2011,0
+782,782,891,rise of the planet of the apes,1,0,176760185,Twentieth Century Fox,93000000,8,PG-13,105,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",67,92,2011,0
+783,783,892,road to perdition,6,1,104454762,DreamWorks Distribution,80000000,7,R,117,"['Crime', 'Drama', 'Thriller']",18,81,2002,0
+784,784,893,rob roy,1,0,31596911,Metro-Goldwyn-Mayer (MGM),28000000,4,R,139,"['Adventure', 'Biography', 'Drama', 'History']",16,73,1995,0
+785,785,894,robin hood: prince of thieves,1,0,165493908,Warner Bros.,48000000,6,PG-13,143,"['Action', 'Adventure', 'Drama', 'Romance']",40,52,1991,0
+786,786,895,robocop,3,1,58607007,Sony Pictures Releasing,100000000,1,PG-13,117,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",34,90,1987,0
+787,787,896,rocketman,1,1,96368160,Paramount Pictures,40000000,5,R,121,"['Biography', 'Drama', 'Music', 'Musical']",33,89,2019,0
+788,788,897,rogue one: a star wars story,2,0,532177324,Walt Disney Studios,200000000,12,PG-13,133,"['Action', 'Adventure', 'Sci-Fi']",72,84,2016,0
+789,789,898,roma,9,2,1140769,Netflix,15000000,11,R,135,['Drama'],12,92,2018,0
+790,790,899,"roman j. israel, esq.",1,0,11962778,Sony Pictures Releasing,22000000,11,PG-13,122,"['Crime', 'Drama', 'Thriller']",2,92,2017,0
+791,791,900,room,4,1,14677654,A24,13000000,10,R,118,"['Drama', 'Thriller']",21,93,2015,0
+792,792,901,room on the broom,1,0,23578,,,12,G,,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Short']",4,82,2013,0
+793,793,902,roommates,1,0,12096881,Walt Disney Studios,,3,PG,108,"['Comedy', 'Drama']",9,29,1995,0
+794,794,903,runaway brain,1,0,152257509,Paramount Pictures,70000000,7,PG,116,"['Comedy', 'Romance']",9,92,1995,0
+795,795,904,runaway train,3,0,81562942,Twentieth Century Fox,100000000,11,PG-13,98,"['Action', 'Thriller']",12,85,1985,0
+796,796,905,running on empty,2,0,2835116,Warner Bros.,,9,PG-13,116,"['Crime', 'Drama', 'Music', 'Romance']",4,85,1988,0
+797,797,906,ryan,1,1,217049603,DreamWorks Distribution,70000000,7,R,169,"['Drama', 'War']",42,92,2004,0
+798,798,907,sabrina,2,0,53672080,Paramount Pictures,58000000,12,PG,127,"['Comedy', 'Drama', 'Romance']",8,65,1995,0
+799,799,908,salt,1,0,118311368,Sony Pictures Releasing,110000000,7,PG-13,100,"['Action', 'Mystery', 'Thriller']",19,62,2010,0
+800,800,909,salvador,2,0,1500000,Hemdale,4500000,3,R,122,"['Drama', 'History', 'Thriller', 'War']",11,88,1986,0
+801,801,911,saria,1,0,330661,Magnolia Pictures,,1,R,,"['Drama', 'Short']",0,90,2019,0
+802,802,912,saving mr. banks,1,0,83301580,Walt Disney Studios,35000000,11,PG-13,125,"['Biography', 'Comedy', 'Drama']",35,92,2013,0
+803,803,913,saving private ryan,11,5,217049603,DreamWorks Distribution,70000000,7,R,169,"['Drama', 'War']",42,93,1998,0
+804,804,914,scent of a woman,4,1,63095253,Universal Pictures,,12,R,156,['Drama'],20,88,1992,0
+805,805,915,schindler's list,12,7,96898818,Universal Pictures,22000000,12,R,195,"['Biography', 'Drama', 'History']",45,97,1993,0
+806,806,917,scrooged,1,0,60328558,Paramount Pictures,32000000,11,PG-13,101,"['Comedy', 'Drama', 'Fantasy', 'Romance']",33,71,1988,0
+807,807,918,seabiscuit,7,0,120277854,Universal Pictures,87000000,7,PG-13,140,"['Drama', 'History', 'Sport']",0,78,2003,0
+808,808,919,searching for bobby fischer,1,0,7266383,Paramount Pictures,,8,PG,109,"['Biography', 'Drama']",5,100,1993,0
+809,809,921,secrets & lies,5,0,13417292,October Films,4500000,9,R,136,"['Comedy', 'Drama']",6,95,1996,0
+810,810,922,selma,2,1,52076908,Paramount Pictures,20000000,12,PG-13,128,"['Biography', 'Drama', 'History']",8,99,2014,0
+811,811,923,sense and sensibility,7,1,43182776,Sony Pictures Releasing,16500000,12,PG,136,"['Drama', 'Romance']",14,98,1995,0
+812,812,926,session man,1,1,3659413,FIP,,8,PG-13,130,"['Drama', 'History']",3,40,1991,0
+813,813,927,seven,1,0,100125643,New Line Cinema,33000000,9,R,127,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,81,1995,0
+814,814,928,"sex, lies, and videotape",1,0,24741667,Miramax,1200000,8,,100,['Drama'],6,92,1989,0
+815,815,929,sexy beast,1,0,6946056,Fox Searchlight Pictures,4300000,1,R,89,"['Crime', 'Drama', 'Thriller']",19,87,2001,0
+816,816,930,shadow of the vampire,2,0,8293784,Lionsgate,8000000,12,R,92,"['Drama', 'Horror']",16,82,2000,0
+817,817,931,shadowlands,2,0,25842377,Savoy Pictures,22000000,12,PG,131,"['Biography', 'Drama', 'Romance']",6,97,1993,0
+818,818,932,shakespeare in love,13,7,100317794,Miramax,25000000,12,R,123,"['Comedy', 'Drama', 'History', 'Romance']",19,92,1998,0
+819,819,933,shanghai triad,1,0,2086101,Sony Pictures Classics,,12,R,108,"['Crime', 'Drama', 'History', 'Romance', 'Thriller']",4,88,1995,0
+820,820,934,shark tale,1,0,160861908,DreamWorks Distribution,75000000,9,PG,90,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",5,36,2004,0
+821,821,935,shaun the sheep movie,1,0,19375982,Lionsgate,,2,PG,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",47,99,2015,0
+822,822,936,sherlock holmes,2,0,209028679,Warner Bros.,90000000,1,PG-13,128,"['Action', 'Adventure', 'Mystery']",53,69,2009,0
+823,823,937,shine,7,1,35892330,Fine Line Features,5500000,11,PG-13,105,"['Biography', 'Drama', 'Music', 'Romance']",3,91,1996,0
+824,824,938,shirley valentine,2,0,6056912,Paramount Pictures,,9,R,108,"['Comedy', 'Drama', 'Romance']",2,73,1989,0
+825,825,940,shok,1,0,26979166,TriStar Pictures,,12,NR,122,"['Biography', 'Drama', 'History', 'War']",26,81,2015,0
+826,826,941,short cuts,1,0,6110979,Fine Line Features,,10,R,188,"['Comedy', 'Drama']",17,95,1993,0
+827,827,942,shrek,2,1,267665011,DreamWorks Distribution,60000000,5,PG,90,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",68,88,2001,0
+828,828,943,shrek 2,2,0,441226247,DreamWorks Distribution,150000000,5,PG,93,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",46,89,2004,0
+829,829,944,sicario,3,0,46889293,Lionsgate,30000000,9,R,121,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",23,92,2015,0
+830,830,945,sideways,5,1,71503593,Fox Searchlight Pictures,16000000,10,R,127,"['Comedy', 'Drama', 'Romance']",34,97,2004,0
+831,831,946,silence,1,0,7100177,Paramount Pictures,46500000,12,R,161,"['Drama', 'History']",0,83,2016,0
+832,832,947,silent nights,1,0,14567,Anchor Bay Films,,11,R,94,"['Comedy', 'Horror', 'Mystery', 'Thriller']",0,64,2016,0
+833,833,948,silver linings playbook,8,1,132092958,The Weinstein Company,21000000,11,R,122,"['Comedy', 'Drama', 'Romance']",34,92,2012,0
+834,834,949,silverado,2,0,32192570,Columbia Pictures,26000000,7,PG-13,133,"['Action', 'Crime', 'Drama', 'Romance', 'Western']",23,76,1985,0
+835,835,950,sing,1,1,270395425,Universal Pictures,75000000,12,PG,108,"['Animation', 'Comedy', 'Family', 'Musical']",45,72,2016,0
+836,836,951,sister,1,0,154659,Adopt Films,,4,NR,97,"['Crime', 'Drama']",0,92,2019,0
+837,837,952,six degrees of separation,1,0,6405918,Metro-Goldwyn-Mayer (MGM),,12,R,112,"['Comedy', 'Drama', 'Mystery']",0,92,1993,0
+838,838,953,six shooter,1,1,98966,,,6,R,100,"['Action', 'Adventure', 'Drama', 'History', 'Western']",4,92,2005,0
+839,839,954,skin,1,1,145426,A24,,7,R,118,"['Biography', 'Crime', 'Drama', 'Romance']",3,77,2018,0
+840,840,955,skyfall,5,2,304360277,Sony Pictures Releasing,200000000,10,PG-13,143,"['Action', 'Adventure', 'Thriller']",96,92,2012,0
+841,841,956,sleepers,1,0,53315285,Warner Bros.,44000000,10,R,147,"['Crime', 'Drama', 'Thriller']",18,73,1996,0
+842,842,957,sleepless in seattle,2,0,126808165,TriStar Pictures,21000000,6,PG,105,"['Comedy', 'Drama', 'Romance']",5,74,1993,0
+843,843,958,sleepy hollow,3,1,101071502,Paramount Pictures,100000000,11,R,105,"['Fantasy', 'Horror', 'Mystery']",37,68,1999,0
+844,844,959,sling blade,2,1,24444121,Miramax,1000000,11,R,135,['Drama'],32,96,1996,0
+845,845,960,slumdog millionaire,10,8,141319928,Fox Searchlight Pictures,15000000,11,R,,"['Drama', 'Romance']",18,91,2008,0
+846,846,962,snow falling on cedars,1,0,14417593,Universal Pictures,35000000,12,PG-13,127,"['Drama', 'Mystery', 'Romance', 'Thriller']",6,39,1999,0
+847,847,963,snow white and the huntsman,2,0,155332381,Universal Pictures,170000000,5,PG-13,127,"['Action', 'Adventure', 'Drama', 'Fantasy']",51,49,2012,0
+848,848,964,solo: a star wars story,1,0,213767512,Walt Disney Studios,275000000,5,PG-13,135,"['Action', 'Adventure', 'Sci-Fi']",44,70,2018,0
+849,849,965,something's gotta give,1,0,124728738,Sony Pictures Releasing,80000000,12,PG-13,128,"['Comedy', 'Drama', 'Romance']",0,72,2003,0
+850,850,966,song of the sea,1,0,857522,GKIDS,,12,PG,93,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",31,99,2014,0
+851,851,967,"south park: bigger, longer & uncut",1,0,52037603,Paramount Pictures,21000000,6,R,81,"['Animation', 'Comedy', 'Fantasy', 'Musical']",67,80,1999,0
+852,852,968,space cowboys,1,0,90464773,Warner Bros.,65000000,8,PG-13,130,"['Action', 'Adventure', 'Thriller']",16,78,2000,0
+853,853,969,spectre,1,1,200074609,Sony Pictures Releasing,245000000,10,PG-13,148,"['Action', 'Adventure', 'Thriller']",96,63,2015,0
+854,854,970,speed,3,2,121248145,Twentieth Century Fox,30000000,6,R,116,"['Action', 'Adventure', 'Thriller']",47,94,1994,0
+855,855,972,spider-man,2,0,407022860,Sony Pictures Releasing,139000000,5,PG-13,121,"['Action', 'Adventure', 'Sci-Fi']",38,90,2002,0
+856,856,973,spider-man 2,3,1,373585825,Sony Pictures Releasing,200000000,6,PG-13,127,"['Action', 'Adventure', 'Sci-Fi']",32,93,2004,0
+857,857,974,spider-man: into the spider-verse,1,1,190241310,Sony Pictures Releasing,90000000,12,PG,117,"['Action', 'Adventure', 'Animation', 'Family', 'Sci-Fi']",74,92,2018,0
+858,858,976,spirit: stallion of the cimarron,1,0,73280117,DreamWorks Distribution,80000000,5,G,83,"['Adventure', 'Animation', 'Drama', 'Family', 'Western']",21,70,2002,0
+859,859,977,spirited away,1,1,13750644,Walt Disney Studios,,7,PG,125,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Mystery']",37,97,2002,0
+860,860,978,spotlight,6,2,45055776,Open Road Films (II),20000000,11,R,129,"['Biography', 'Crime', 'Drama']",26,97,2015,0
+861,861,979,squash,1,0,1851761,Walt Disney Studios,,10,PG,115,"['Drama', 'Romance']",24,29,2003,0
+862,862,980,stand and deliver,1,0,13994920,Warner Bros.,,3,PG,103,"['Biography', 'Drama']",19,73,1988,0
+863,863,981,stand by me,1,0,52287414,Columbia Pictures,8000000,8,,89,"['Adventure', 'Drama']",25,92,1986,0
+864,864,982,star trek,4,1,257730019,Paramount Pictures,150000000,5,PG-13,127,"['Action', 'Adventure', 'Sci-Fi']",107,94,2009,0
+865,865,983,star trek beyond,1,0,158848340,Paramount Pictures,185000000,7,PG-13,122,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",59,86,2016,0
+866,866,984,star trek into darkness,1,0,228778661,Paramount Pictures,190000000,5,PG-13,132,"['Action', 'Adventure', 'Sci-Fi']",87,84,2013,0
+867,867,985,star trek iv: the voyage home,4,0,109713132,Paramount Pictures,24000000,11,PG,119,"['Adventure', 'Comedy', 'Sci-Fi']",42,83,1986,0
+868,868,986,star trek vi the undiscovered country,2,0,74888996,Paramount Pictures,"[2200000, 41158757]",12,PG,110,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",52,82,1991,0
+869,869,987,star trek: first contact,1,0,92027888,Paramount Pictures,46000000,11,PG-13,111,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",61,93,1996,0
+870,870,988,star wars episode i: the phantom menace,3,0,474544677,Twentieth Century Fox,115000000,5,PG,136,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",41,53,1999,0
+871,871,989,star wars episode ii attack of the clones,1,0,310676740,Twentieth Century Fox,115000000,5,PG,142,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",40,65,2002,0
+872,872,990,star wars: episode iii revenge of the sith,1,0,380270577,Twentieth Century Fox,113000000,5,PG-13,140,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",59,80,2005,0
+873,873,991,star wars: the force awakens,5,0,936662225,Walt Disney Studios,245000000,12,PG-13,138,"['Action', 'Adventure', 'Sci-Fi']",66,93,2015,0
+874,874,992,star wars: the last jedi,4,0,620181382,Walt Disney Studios,317000000,12,PG-13,152,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",89,90,2017,0
+875,875,993,star wars: the rise of skywalker,3,0,515202542,Walt Disney Studios,275000000,12,PG-13,142,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",58,51,2019,0
+876,876,994,starship troopers,1,0,54814377,Sony Pictures Releasing,105000000,11,R,129,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",41,64,1997,0
+877,877,995,steel magnolias,1,0,84614512,TriStar Pictures,,11,PG,117,"['Comedy', 'Drama', 'Romance']",15,68,1989,0
+878,878,996,steve jobs,2,0,17766658,Universal Pictures,30000000,10,R,122,"['Biography', 'Drama']",16,86,2015,0
+879,879,997,still alice,1,1,18754371,Sony Pictures Classics,5000000,1,PG-13,101,['Drama'],6,85,2014,0
+880,880,998,straight outta compton,1,0,161197785,Universal Pictures,28000000,8,R,147,"['Biography', 'Drama', 'History', 'Music']",42,88,2015,0
+881,881,999,strange invaders,1,0,1362303,Orion Pictures,,9,PG,94,"['Horror', 'Mystery', 'Sci-Fi']",4,63,2001,0
+882,882,1000,street smart,1,0,1119112,Cannon Film Distributors,,3,R,97,"['Crime', 'Drama', 'Thriller']",0,64,1987,0
+883,883,1001,strings,1,0,,Neon,,7,R,90,"['Comedy', 'Romance']",1,92,1991,0
+884,884,1002,stuart little,1,0,140035367,Sony Pictures Releasing,133000000,12,PG,84,"['Adventure', 'Comedy', 'Family', 'Fantasy']",23,67,1999,0
+885,885,1005,suicide squad,1,1,325100054,Warner Bros.,175000000,8,PG-13,123,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",78,27,2016,0
+886,886,1006,sully,1,0,125070033,Warner Bros.,60000000,9,PG-13,96,"['Biography', 'Drama']",11,85,2016,0
+887,887,1007,sunset,1,0,164906,Sony Pictures Classics,,9,R,142,"['Drama', 'Mystery']",8,23,1988,0
+888,888,1008,superman returns,1,0,200081192,Warner Bros.,270000000,6,PG-13,154,"['Action', 'Sci-Fi']",24,75,2006,0
+889,889,1009,surf's up,1,0,58867694,Sony Pictures Releasing,100000000,6,PG,85,"['Animation', 'Comedy', 'Family', 'Sport']",21,79,2007,0
+890,890,1010,swan song,1,0,1711,First Run,,10,NR,110,"['Drama', 'Music']",0,92,1992,0
+891,891,1011,sweeney todd the demon barber of fleet street,3,1,52898073,DreamWorks,50000000,12,R,116,"['Drama', 'Horror', 'Musical', 'Thriller']",21,85,2007,0
+892,892,1012,sweet and lowdown,2,0,4197015,Sony Pictures Classics,,12,PG-13,95,"['Comedy', 'Drama', 'Music']",0,77,1999,0
+893,893,1013,sweet dreams,1,0,9085049,TriStar Pictures,,10,PG-13,115,"['Biography', 'Drama', 'Music', 'Musical']",0,90,1985,0
+894,894,1014,sweethearts?,1,0,4678042,,,3,R,87,"['Comedy', 'Drama', 'Romance']",4,67,1997,0
+895,895,1015,syriana,2,1,50824620,Warner Bros.,50000000,11,R,128,"['Drama', 'Thriller']",18,73,2005,0
+896,896,1016,syrup,1,0,663,Magnolia Pictures,,6,R,90,"['Comedy', 'Drama', 'Romance']",0,60,1994,0
+897,897,1017,talk to her,2,1,9357911,,,3,R,112,"['Drama', 'Mystery', 'Romance']",12,92,2002,0
+898,898,1019,tangled,1,0,200821936,Walt Disney Studios,260000000,11,PG,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",89,89,2010,0
+899,899,1020,tarzan,1,1,126643061,Warner Bros.,180000000,6,PG-13,110,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",18,89,1999,0
+900,900,1022,ted,1,0,218815487,Universal Pictures,50000000,6,R,106,['Comedy'],35,69,2012,0
+901,901,1023,tequila sunrise,1,0,41292551,Warner Bros.,,12,R,115,"['Crime', 'Drama', 'Romance', 'Thriller']",10,40,1988,0
+902,902,1024,terminator 2: judgment day,6,4,205881154,TriStar Pictures,102000000,7,R,137,"['Action', 'Sci-Fi']",81,93,1991,0
+903,903,1025,that thing you do!,1,0,25857416,Twentieth Century Fox,2500000,10,PG,108,"['Comedy', 'Drama', 'Music']",24,93,1996,0
+904,904,1026,that's life,1,0,4079895,Columbia Pictures,,9,PG-13,102,"['Comedy', 'Drama']",8,50,1986,0
+905,905,1027,the 100-year-old man who climbed out the window and disappeared,1,0,944193,Music Box Films,,12,R,114,"['Adventure', 'Comedy']",18,68,2015,0
+906,906,1028,the abyss,4,1,54461047,Twentieth Century Fox,70000000,8,PG-13,171,"['Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",23,89,1989,0
+907,907,1029,the accidental tourist,4,1,32632093,Warner Bros.,,12,PG,121,"['Drama', 'Romance']",5,81,1988,0
+908,908,1030,the accountant,1,1,86260045,Warner Bros.,44000000,10,R,128,"['Action', 'Crime', 'Drama', 'Thriller']",52,92,2001,0
+909,909,1031,the accused,1,1,32078318,Paramount Pictures,,10,R,111,"['Crime', 'Drama']",4,91,1988,0
+910,910,1032,the addams family,1,0,100044905,United Artists Releasing,24000000,10,PG,86,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",59,64,1991,0
+911,911,1033,the adventures of baron munchausen,4,0,8083123,Columbia Pictures,46630000,3,PG,126,"['Adventure', 'Comedy', 'Fantasy']",25,92,1989,0
+912,912,1034,"the adventures of priscilla, queen of the desert",1,1,11220670,Gramercy Pictures (I),,8,R,104,"['Comedy', 'Music']",15,95,1994,0
+913,913,1035,the adventures of tintin,1,0,77591831,Paramount Pictures,130000000,10,PG,107,"['Action', 'Adventure', 'Animation', 'Family', 'Mystery']",36,74,2011,0
+914,914,1036,the affair of the necklace,1,0,471210,Warner Bros.,,11,R,118,"['Drama', 'History', 'Romance']",3,15,2001,0
+915,915,1037,the age of innocence,5,1,32255440,Columbia Pictures,34000000,9,PG,139,"['Drama', 'Romance']",18,92,1993,0
+916,916,1038,the american president,1,0,60079496,Sony Pictures Releasing,62000000,11,PG-13,114,"['Comedy', 'Drama', 'Romance']",20,91,1995,0
+917,917,1039,the apostle,1,0,19868354,October Films,5000000,12,PG-13,134,['Drama'],12,90,1997,0
+918,918,1041,the artist,10,5,44671682,The Weinstein Company,15000000,10,PG-13,100,"['Comedy', 'Drama', 'Romance']",21,95,2011,0
+919,919,1042,the assassination of jesse james by the coward robert ford,2,0,3909149,Warner Bros.,30000000,9,R,160,"['Biography', 'Crime', 'Drama', 'History', 'Western']",25,77,2007,0
+920,920,1043,the aviator,11,5,102610330,Miramax,110000000,12,PG-13,170,"['Biography', 'Drama']",19,86,2004,0
+921,921,1044,the ballad of buster scruggs,3,0,,Netflix,,11,R,133,"['Comedy', 'Drama', 'Musical', 'Mystery', 'Romance', 'Western']",30,90,2018,0
+922,922,1045,the barbarian invasions,1,0,8544975,Alliance Atlantis Vivafilm,,5,R,99,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Romance']",0,82,2003,0
+923,923,1046,the bear,1,0,31753898,TriStar Pictures,,10,PG,96,"['Adventure', 'Drama', 'Family']",6,93,1989,0
+924,924,1047,the big short,5,1,70259870,Paramount Pictures,28000000,1,R,130,"['Biography', 'Comedy', 'Drama', 'History']",51,88,2015,0
+925,925,1048,the big sick,1,0,42873127,Lionsgate,5000000,6,R,,"['Comedy', 'Drama', 'Romance']",10,92,2017,0
+926,926,1050,the big story,1,0,66809693,Sony Pictures Releasing,70000000,12,PG-13,125,"['Adventure', 'Drama', 'Fantasy', 'Romance']",11,25,1994,0
+927,927,1052,the birdcage,1,0,124060553,Metro-Goldwyn-Mayer (MGM),,3,R,117,['Comedy'],16,80,1996,0
+928,928,1053,the black dahlia,1,0,22545080,Universal Pictures,50000000,9,R,121,"['Crime', 'Drama', 'Mystery', 'Thriller']",11,32,2006,0
+929,929,1054,the blind side,2,1,255959475,Warner Bros.,29000000,11,PG-13,129,"['Biography', 'Drama', 'Sport']",20,66,2009,0
+930,930,1055,the bodyguard,2,0,122006740,Warner Bros.,25000000,11,R,129,"['Action', 'Drama', 'Music', 'Romance', 'Thriller']",11,33,1992,0
+931,931,1056,the book thief,1,0,21488481,Twentieth Century Fox,19000000,11,PG-13,131,"['Drama', 'War']",25,47,2013,0
+932,932,1057,the boss baby,1,0,175003033,Twentieth Century Fox,125000000,3,PG,97,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",26,53,2017,0
+933,933,1058,the bourne ultimatum,3,3,227471070,Universal Pictures,110000000,8,PG-13,115,"['Action', 'Mystery', 'Thriller']",9,92,2007,0
+934,934,1059,the boxtrolls,1,0,50837305,Focus Features,60000000,9,PG,96,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",27,77,2014,0
+935,935,1060,the breadwinner,1,0,313215,GKIDS,,11,PG-13,94,"['Animation', 'Drama', 'Family', 'War']",15,92,2017,0
+936,936,1061,the bridges of madison county,1,0,71516617,Warner Bros.,24000000,6,PG-13,135,"['Drama', 'Romance']",1,90,1995,0
+937,937,1062,the canterbury tales,1,0,8368,,,2,R,111,"['Comedy', 'Drama', 'History']",0,56,1998,0
+938,938,1064,the cathedral,1,0,85229,,,5,PG,165,['Documentary'],0,92,2002,0
+939,939,1065,the cell,1,0,61334059,New Line Cinema,33000000,8,R,107,"['Horror', 'Sci-Fi', 'Thriller']",9,45,2000,0
+940,940,1067,the childeater,1,0,4422,,,10,R,82,['Horror'],3,53,1989,0
+941,941,1068,the chorus (les choristes),1,0,3635164,Alliance Atlantis Vivafilm,,3,PG-13,97,"['Drama', 'Music']",13,69,2004,0
+942,942,1069,"the chronicles of narnia: the lion, the witch and the wardrobe",3,1,291710957,Walt Disney Studios,180000000,12,PG,143,"['Adventure', 'Family', 'Fantasy']",28,76,2005,0
+943,943,1071,the cider house rules,7,2,57545092,Miramax,24000000,12,PG-13,126,"['Drama', 'Romance']",9,71,1999,0
+944,944,1072,the clan of the cave bear,1,0,1953732,Warner Bros.,15000000,1,R,98,"['Adventure', 'Drama', 'Fantasy']",0,10,1986,0
+945,945,1073,the client,1,0,92115211,Warner Bros.,45000000,7,PG-13,119,"['Crime', 'Drama', 'Mystery', 'Thriller']",6,78,1994,0
+946,946,1074,the color of money,4,1,52293982,Walt Disney Studios,10000000,10,R,119,"['Drama', 'Sport']",5,89,1986,0
+947,947,1075,the color purple,11,0,98467863,Warner Bros.,15000000,12,PG-13,154,['Drama'],12,81,1985,0
+948,948,1076,the commitments,1,0,14919570,Twentieth Century Fox,,8,R,118,"['Comedy', 'Drama', 'Music']",12,89,1991,0
+949,949,1077,the confession,1,0,1859604,,,4,NR,108,"['Drama', 'Mystery', 'Thriller']",14,81,2010,0
+950,950,1078,the constant gardener,4,1,33579797,Focus Features,25000000,8,R,129,"['Drama', 'Mystery', 'Romance', 'Thriller']",9,83,2005,0
+951,951,1079,the contender,2,0,17872723,DreamWorks Distribution,20000000,10,R,126,"['Drama', 'Thriller']",3,76,2000,0
+952,952,1080,the cooler,1,0,8291572,Lionsgate,4000000,11,R,101,"['Drama', 'Romance']",4,77,2003,0
+953,953,1081,the cow,1,0,42684,Expanded Entertainment,,3,R,,"['Animation', 'Drama', 'Short']",0,93,1989,0
+954,954,1082,the croods,1,0,187168425,Twentieth Century Fox,135000000,3,PG,98,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",28,71,2013,0
+955,955,1083,the crucible,2,0,7343114,Twentieth Century Fox,,11,PG-13,124,"['Drama', 'History']",28,68,1996,0
+956,956,1084,the crush,1,0,13609396,Warner Bros.,,4,,89,"['Drama', 'Thriller']",1,92,2010,0
+957,957,1085,the crying game,6,1,62548947,Miramax,4000000,11,R,112,"['Crime', 'Drama', 'Romance', 'Thriller']",24,94,1992,0
+958,958,1086,the curious case of benjamin button,13,3,127509326,Paramount Pictures,150000000,12,PG-13,166,"['Drama', 'Fantasy', 'Romance']",25,72,2008,0
+959,959,1088,the danish girl,4,1,11114018,Focus Features,,11,R,119,"['Biography', 'Drama', 'Romance']",5,67,2015,0
+960,960,1090,the dark knight,8,2,535234033,Warner Bros.,185000000,7,PG-13,152,"['Action', 'Crime', 'Drama', 'Thriller']",93,94,2008,0
+961,961,1091,the dead,2,0,4370078,Vestron Pictures,,12,PG,83,['Drama'],8,93,1987,0
+962,962,1092,the departed,5,4,132384315,Warner Bros.,90000000,10,R,151,"['Crime', 'Drama', 'Thriller']",50,91,2006,0
+963,963,1093,the descendants,5,1,82584160,Fox Searchlight Pictures,20000000,11,R,115,"['Comedy', 'Drama']",49,88,2011,0
+964,964,1094,the devil wears prada,2,0,124740460,Twentieth Century Fox,35000000,6,PG-13,109,"['Comedy', 'Drama']",47,75,2006,0
+965,965,1095,the disaster artist,1,0,21120616,A24,10000000,1,R,104,"['Biography', 'Comedy', 'Drama']",45,92,2017,0
+966,966,1096,the diving bell and the butterfly,4,0,6003227,Miramax,,5,PG-13,112,"['Biography', 'Drama']",7,94,2007,0
+967,967,1097,the door,1,0,3000342,Twentieth Century Fox,,2,R,96,['Horror'],6,63,2009,0
+968,968,1098,the duchess,2,1,13848978,Paramount Vantage,27000000,9,PG-13,110,"['Biography', 'Drama', 'History', 'Romance']",10,62,2008,0
+969,969,1101,the emperor's new groove,1,0,89302687,Walt Disney Studios,100000000,12,G,78,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",70,85,2000,0
+970,970,1102,the end,1,0,44917151,United Artists,,5,R,100,"['Comedy', 'Drama']",5,57,1995,0
+971,971,1103,the end of the affair,2,0,10827816,Sony Pictures Releasing,23000000,12,R,102,"['Drama', 'Romance']",0,67,1999,0
+972,972,1104,the english patient,12,9,78676425,Miramax,27000000,11,R,162,"['Drama', 'Romance', 'War']",7,85,1996,0
+973,973,1105,the fabulous baker boys,4,0,18428904,Twentieth Century Fox,,10,R,114,"['Comedy', 'Drama', 'Music', 'Romance']",1,96,1989,0
+974,974,1107,the favourite,10,1,34366783,Fox Searchlight Pictures,15000000,11,R,119,"['Biography', 'Comedy', 'Drama', 'History']",19,93,2018,0
+975,975,1108,the field,1,0,1494399,Avenue Pictures Productions,,12,PG-13,107,"['Drama', 'Thriller']",0,43,1990,0
+976,976,1109,the fifth element,1,0,63820180,Sony Pictures Releasing,95000000,5,PG-13,126,"['Action', 'Adventure', 'Sci-Fi']",42,92,1997,0
+977,977,1110,the fighter,7,2,93617009,Paramount Pictures,25000000,11,R,116,"['Biography', 'Drama', 'Sport']",13,91,2010,0
+978,978,1111,the firm,2,0,158348367,Paramount Pictures,42000000,7,R,154,"['Drama', 'Mystery', 'Thriller']",10,75,1993,0
+979,979,1112,the first wives club,1,0,105489203,Paramount Pictures,30000000,9,PG,103,['Comedy'],17,92,1996,0
+980,980,1113,the fisher king,5,1,41895491,TriStar Pictures,24000000,9,R,137,"['Comedy', 'Drama', 'Fantasy']",28,83,1991,0
+981,981,1114,the florida project,1,0,5904366,A24,2000000,10,R,111,['Drama'],18,96,2017,0
+982,982,1115,the fly,1,1,40456565,Twentieth Century Fox,,8,R,96,"['Drama', 'Horror', 'Sci-Fi']",63,92,1986,0
+983,983,1117,the fugitive,7,1,183875760,Warner Bros.,44000000,8,PG-13,130,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",42,96,1993,0
+984,984,1118,the full monty,4,1,45950122,Fox Searchlight Pictures,3500000,8,R,91,"['Comedy', 'Drama']",10,96,1997,0
+985,985,1119,the ghost and the darkness,1,1,38619405,Paramount Pictures,55000000,10,R,110,"['Adventure', 'Drama', 'Thriller']",18,50,1996,0
+986,986,1120,the girl with the dragon tattoo,5,1,102515793,Sony Pictures Releasing,90000000,12,R,158,"['Crime', 'Drama', 'Mystery', 'Thriller']",20,86,2011,0
+987,987,1121,"the godfather, part iii",7,0,66666062,Paramount Pictures,54000000,12,R,162,"['Crime', 'Drama']",71,69,1990,0
+988,988,1122,the golden compass,2,1,70107728,New Line Cinema,180000000,12,PG-13,113,"['Adventure', 'Family', 'Fantasy']",7,42,2007,0
+989,989,1123,the good german,1,0,1308696,Warner Bros.,32000000,12,R,105,"['Drama', 'Mystery', 'Romance', 'Thriller', 'War']",0,34,2006,0
+990,990,1124,the good shepherd,1,0,59952835,Universal Pictures,,12,R,167,"['Drama', 'History', 'Thriller']",3,55,2006,0
+991,991,1125,the grand budapest hotel,9,4,59301324,Fox Searchlight Pictures,25000000,2,R,99,"['Adventure', 'Comedy', 'Crime']",39,92,2014,0
+992,992,1126,the grandmaster,2,0,6594959,The Weinstein Company,,1,PG-13,130,"['Action', 'Biography', 'Drama', 'Romance', 'War']",3,78,2013,0
+993,993,1127,the great gatsby,2,2,144840419,Warner Bros.,105000000,5,PG-13,143,"['Drama', 'Romance']",19,48,2013,0
+994,994,1128,the greatest showman,1,0,174340174,Twentieth Century Fox,84000000,12,PG,105,"['Biography', 'Drama', 'Musical']",59,56,2017,0
+995,995,1129,the green mile,4,0,136801374,Warner Bros.,60000000,12,R,189,"['Crime', 'Drama', 'Fantasy', 'Mystery']",26,92,1999,0
+996,996,1130,the grifters,4,0,13446769,Miramax,,12,R,110,"['Crime', 'Drama', 'Thriller']",11,91,1990,0
+997,997,1131,the gruffalo,1,0,23722,,,12,NR,,"['Animation', 'Family', 'Short']",13,79,2010,0
+998,998,1132,the hateful eight,3,1,54117416,The Weinstein Company,44000000,12,R,168,"['Crime', 'Drama', 'Mystery', 'Thriller', 'Western']",44,75,2015,0
+999,999,1133,the help,4,1,169708112,Walt Disney Studios,25000000,8,PG-13,146,['Drama'],35,76,2011,0
+1000,1000,1135,the hobbit: an unexpected journey,3,0,303003568,Warner Bros.,200000000,12,PG-13,169,"['Adventure', 'Family', 'Fantasy']",46,64,2012,0
+1001,1001,1136,the hobbit: the battle of the five armies,1,0,255119788,Warner Bros.,250000000,12,PG-13,144,"['Adventure', 'Fantasy']",62,59,2014,0
+1002,1002,1137,the hobbit: the desolation of smaug,3,0,258366855,Warner Bros.,250000000,12,PG-13,161,"['Adventure', 'Fantasy']",51,74,2013,0
+1003,1003,1138,the horse whisperer,1,0,75383563,Walt Disney Studios,60000000,5,PG-13,169,"['Drama', 'Romance', 'Western']",7,74,1998,0
+1004,1004,1139,the hours,9,1,41675994,Paramount Pictures,25000000,12,PG-13,110,"['Drama', 'Romance']",7,80,2002,0
+1005,1005,1140,the hunchback of notre dame,1,0,100138851,Walt Disney Studios,100000000,6,G,91,"['Animation', 'Drama', 'Family', 'Musical', 'Romance']",74,71,1996,0
+1006,1006,1141,the hunt for red october,3,1,122012643,Paramount Pictures,30000000,3,PG,135,"['Action', 'Adventure', 'Thriller']",35,89,1990,0
+1007,1007,1142,the hunting ground,1,0,405917,RADiUS-TWC,,2,PG-13,103,['Documentary'],4,92,2015,0
+1008,1008,1143,the hurricane,1,0,50699241,Universal Pictures,50000000,12,R,146,"['Biography', 'Drama', 'Sport']",0,83,1999,0
+1009,1009,1144,the hurt locker,9,6,17017811,Summit Entertainment,15000000,10,R,131,"['Drama', 'Thriller', 'War']",17,92,2009,0
+1010,1010,1145,the ides of march,1,0,40962534,Sony Pictures Releasing,23000000,10,R,101,"['Drama', 'Thriller']",12,84,2011,0
+1011,1011,1146,the illusionist,2,0,39868642,Yari Film Group Releasing,16500000,8,PG-13,110,"['Drama', 'Fantasy', 'History', 'Mystery', 'Romance', 'Thriller']",18,74,2006,0
+1012,1012,1147,the imaginarium of doctor parnassus,2,0,7689607,Sony Pictures Classics,30000000,9,PG-13,123,"['Adventure', 'Comedy', 'Fantasy', 'Mystery']",24,92,2009,0
+1013,1013,1148,the imitation game,8,1,91125683,The Weinstein Company,15000000,11,PG-13,114,"['Biography', 'Drama', 'Thriller', 'War']",25,92,2014,0
+1014,1014,1149,the impossible,1,0,19019882,Lionsgate,40000000,10,PG-13,114,"['Drama', 'History', 'Thriller']",12,81,2012,0
+1015,1015,1150,the incredibles,4,2,261441092,Walt Disney Studios,92000000,11,PG,115,"['Action', 'Adventure', 'Animation', 'Family']",83,97,2004,0
+1016,1016,1151,the insider,7,0,29089912,Walt Disney Studios,90000000,11,R,157,"['Biography', 'Drama', 'Thriller']",13,96,1999,0
+1017,1017,1152,the invisible woman,1,0,1234254,Sony Pictures Classics,,12,R,111,"['Biography', 'Drama', 'History', 'Romance']",2,75,2013,0
+1018,1018,1153,the irishman,10,0,968853,Netflix,159000000,11,R,209,"['Biography', 'Crime', 'Drama']",0,96,2019,0
+1019,1019,1154,the iron lady,2,2,30017992,The Weinstein Company,14000000,12,PG-13,105,"['Biography', 'Drama']",3,52,2011,0
+1020,1020,1155,the janitor,1,0,6400000,Twentieth Century Fox,,2,R,103,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",3,60,1994,0
+1021,1021,1156,the journey of natty gann,1,0,9708373,Walt Disney Studios,,9,PG,101,"['Adventure', 'Family']",6,91,1985,0
+1022,1022,1157,the judge,1,0,47119388,Warner Bros.,50000000,10,R,141,"['Crime', 'Drama']",0,48,2014,0
+1023,1023,1158,the jungle book,1,1,364001123,Walt Disney Studios,175000000,4,PG,106,"['Adventure', 'Drama', 'Family', 'Fantasy']",49,94,2016,0
+1024,1024,1159,the karate kid part ii,1,0,115103979,Columbia Pictures,,6,PG,113,"['Action', 'Family', 'Romance', 'Sport']",11,42,1986,0
+1025,1025,1160,the kids are all right,4,0,20811365,Focus Features,4000000,7,R,106,"['Comedy', 'Drama', 'Romance']",11,92,2010,0
+1026,1026,1161,the king's speech,12,4,138797449,The Weinstein Company,15000000,11,R,118,"['Biography', 'Drama', 'History']",42,94,2010,0
+1027,1027,1162,the kite runner,1,0,15800078,Paramount Vantage,20000000,12,PG-13,128,['Drama'],29,65,2007,0
+1028,1028,1165,the last emperor,9,9,43984230,Columbia Pictures,25000000,11,PG-13,163,"['Biography', 'Drama', 'History']",9,90,1987,0
+1029,1029,1166,the last farm,1,0,1161751,,,1,R,130,"['Drama', 'Romance']",1,92,2005,0
+1030,1030,1167,the last king of scotland,1,1,17606684,Fox Searchlight Pictures,6000000,2,R,123,"['Biography', 'Drama', 'History', 'Thriller']",30,87,2006,0
+1031,1031,1168,the last of the mohicans,1,1,75505856,Twentieth Century Fox,40000000,9,R,112,"['Action', 'Adventure', 'Drama', 'Romance', 'War']",37,93,1992,0
+1032,1032,1169,the last samurai,4,0,111127263,Warner Bros.,140000000,12,R,154,"['Action', 'Drama', 'War']",33,66,2003,0
+1033,1033,1170,the last station,2,0,6617867,Sony Pictures Classics,18000000,9,R,112,"['Biography', 'Drama', 'Romance']",0,71,2009,0
+1034,1034,1171,the last temptation of christ,1,0,8373585,Universal Pictures,7000000,8,R,164,['Drama'],19,81,1988,0
+1035,1035,1172,the lego movie,1,0,257760692,Warner Bros.,60000000,2,PG,100,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",96,96,2014,0
+1036,1036,1173,the lighthouse,1,0,10867104,A24,4000000,10,R,109,"['Drama', 'Fantasy', 'Horror', 'Mystery']",0,92,2019,0
+1037,1037,1174,the lion king,5,2,543638043,Walt Disney Studios,260000000,7,PG,118,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical']",27,93,1994,0
+1038,1038,1175,the little matchgirl,1,0,791247,,,9,,123,"['Action', 'Comedy', 'Sci-Fi']",4,92,2006,0
+1039,1039,1176,the little mermaid,3,2,111543479,Walt Disney Studios,,11,G,83,"['Animation', 'Family', 'Fantasy', 'Musical', 'Romance']",7,93,1989,0
+1040,1040,1177,the lobster,1,0,9077245,Mongrel Media,4500000,10,R,119,"['Comedy', 'Drama', 'Romance', 'Sci-Fi', 'Thriller']",17,87,2016,0
+1041,1041,1178,the lone ranger,2,0,89302115,Walt Disney Studios,215000000,7,PG-13,150,"['Action', 'Adventure', 'Comedy', 'Thriller', 'War', 'Western']",51,31,2013,0
+1042,1042,1179,the lord of the rings: the fellowship of the ring,13,4,315544750,New Line Cinema,93000000,12,PG-13,178,"['Action', 'Adventure', 'Drama', 'Fantasy']",21,91,2001,0
+1043,1043,1180,the lord of the rings: the return of the king,11,11,377845905,New Line Cinema,94000000,12,PG-13,201,"['Adventure', 'Drama', 'Fantasy']",38,93,2003,0
+1044,1044,1181,the lord of the rings: the two towers,6,2,342551365,New Line Cinema,94000000,12,PG-13,179,"['Adventure', 'Drama', 'Fantasy']",37,95,2002,0
+1045,1045,1182,the lost thing,1,1,3287315,DreamWorks,,10,R,118,['Drama'],2,83,2010,0
+1046,1046,1183,the lost world: jurassic park,1,0,229086679,Universal Pictures,73000000,5,PG-13,129,"['Action', 'Adventure', 'Sci-Fi']",58,92,1997,0
+1047,1047,1184,the lovely bones,1,0,44114232,DreamWorks,65000000,9,PG-13,135,"['Drama', 'Fantasy', 'Thriller']",14,31,2009,0
+1048,1048,1185,the lover,1,0,4899194,Metro-Goldwyn-Mayer (MGM),,6,R,115,"['Biography', 'Drama', 'Romance']",3,32,1992,0
+1049,1049,1187,the madness of king george,4,1,15238689,The Samuel Goldwyn Company,,12,PG-13,110,"['Biography', 'Comedy', 'Drama', 'History']",16,93,1994,0
+1050,1050,1188,the mambo kings,1,0,6742168,Warner Bros.,,2,R,104,"['Drama', 'Music']",4,81,1992,0
+1051,1051,1190,the man who wasn't there,1,0,7504257,USA Films,,10,R,116,"['Crime', 'Drama']",0,92,2001,0
+1052,1052,1191,the martian,7,0,228433663,Twentieth Century Fox,108000000,9,PG-13,144,"['Adventure', 'Drama', 'Sci-Fi']",43,91,2015,0
+1053,1053,1192,the mask,1,0,119938730,New Line Cinema,23000000,7,PG-13,101,"['Action', 'Comedy', 'Crime', 'Fantasy']",0,77,1994,0
+1054,1054,1193,the mask of zorro,2,0,94095523,Sony Pictures Releasing,95000000,7,PG-13,136,"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller', 'Western']",37,82,1998,0
+1055,1055,1194,the master,3,0,16377274,The Weinstein Company,37500000,9,R,138,['Drama'],16,85,2012,0
+1056,1056,1195,the matrix,4,4,171479930,Warner Bros.,63000000,3,R,136,"['Action', 'Sci-Fi']",29,88,1999,0
+1057,1057,1196,the mermaid,1,0,3232685,Sony Pictures Releasing,,2,R,94,"['Comedy', 'Drama', 'Fantasy', 'Romance']",12,92,1997,0
+1058,1058,1197,the messenger,2,0,1109660,Oscilloscope,6500000,11,R,113,"['Drama', 'Romance', 'War']",0,90,2009,0
+1059,1059,1199,the milagro beanfield war,1,1,13825794,Universal Pictures,,3,R,117,"['Comedy', 'Drama', 'Fantasy']",2,58,1988,0
+1060,1060,1200,the mirror has two faces,2,0,41083864,Sony Pictures Releasing,42000000,11,PG-13,126,"['Comedy', 'Drama', 'Romance']",0,55,1996,0
+1061,1061,1201,the mission,7,1,17218023,Warner Bros.,,10,PG,125,"['Adventure', 'Drama', 'History']",7,64,1986,0
+1062,1062,1204,the morning after,1,0,25147055,Twentieth Century Fox,,12,R,103,"['Crime', 'Mystery', 'Romance', 'Thriller']",11,67,1986,0
+1063,1063,1205,the motorcycle diaries,2,1,16781387,Focus Features,,5,R,126,"['Adventure', 'Biography', 'Drama']",1,83,2004,0
+1064,1064,1206,the mummy,1,0,155385488,Universal Pictures,80000000,5,PG-13,124,"['Action', 'Adventure', 'Fantasy']",50,60,1999,0
+1065,1065,1207,the muppets,1,1,88631237,Walt Disney Studios,45000000,11,PG,,"['Adventure', 'Comedy', 'Family', 'Musical']",65,95,2011,0
+1066,1066,1209,the neighbors' window,1,1,330661,Magnolia Pictures,,1,NR,,"['Drama', 'Short']",4,92,2019,0
+1067,1067,1211,the new world,1,0,12712093,,30000000,3,PG-13,135,"['Biography', 'Drama', 'History', 'Romance']",0,63,2005,0
+1068,1068,1212,the nightmare before christmas,1,0,75082668,Walt Disney Studios,,10,PG,76,"['Animation', 'Family', 'Fantasy', 'Musical']",53,95,1993,0
+1069,1069,1213,the nutty professor,1,1,128814019,Universal Pictures,54000000,6,PG-13,95,"['Comedy', 'Romance', 'Sci-Fi']",30,64,1996,0
+1070,1070,1214,the official story,1,0,29426,ALMI,,11,R,112,"['Drama', 'History', 'War']",4,100,1985,0
+1071,1071,1215,the old man and the sea,1,1,67740,,,10,G,86,"['Adventure', 'Drama']",6,90,1999,0
+1072,1072,1216,the paper,1,0,38824341,Universal Pictures,,3,R,112,"['Comedy', 'Drama']",8,88,1994,0
+1073,1073,1217,the passion of the christ,3,0,370782930,Newmarket Films,30000000,2,R,127,['Drama'],28,49,2004,0
+1074,1074,1218,the patriot,3,0,113330342,Sony Pictures Releasing,110000000,6,R,165,"['Action', 'Drama', 'History', 'War']",39,61,2000,0
+1075,1075,1219,the people vs. larry flynt,2,0,20300385,Sony Pictures Releasing,,12,R,130,"['Biography', 'Drama']",13,88,1996,0
+1076,1076,1220,the perfect storm,2,0,182618434,Warner Bros.,140000000,6,PG-13,130,"['Action', 'Adventure', 'Drama', 'Thriller']",0,47,2000,0
+1077,1077,1222,the phantom of the opera,3,0,51268815,Warner Bros.,70000000,12,PG-13,143,"['Drama', 'Musical', 'Romance', 'Thriller']",3,33,2004,0
+1078,1078,1224,the pianist,7,3,32572577,Focus Features,35000000,1,R,150,"['Biography', 'Drama', 'Music', 'War']",20,95,2002,0
+1079,1079,1225,the piano,8,3,40157856,Miramax,7000000,11,R,121,"['Drama', 'Music', 'Romance']",8,92,1993,0
+1080,1080,1226,the pig,1,0,24666,,,4,NR,104,"['Comedy', 'Crime', 'Drama', 'Horror', 'Mystery']",5,92,2008,0
+1081,1081,1227,the pirates! band of misfits,1,0,31051126,Sony Pictures Releasing,55000000,3,PG,88,"['Adventure', 'Animation', 'Comedy', 'Family']",0,86,2012,0
+1082,1082,1228,the player,3,0,21706101,New Line Cinema,8000000,4,R,124,"['Comedy', 'Crime', 'Drama', 'Thriller']",17,98,1992,0
+1083,1083,1229,the polar express,3,0,187224490,Warner Bros.,165000000,11,G,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",26,56,2004,0
+1084,1084,1230,the portrait of a lady,2,0,3692836,Gramercy Pictures (I),,12,PG-13,144,"['Drama', 'Romance']",6,45,1996,0
+1085,1085,1231,the post,2,0,81903458,Twentieth Century Fox,50000000,12,PG-13,116,"['Drama', 'Thriller']",16,88,2017,0
+1086,1086,1232,the postman (il postino),5,1,21848932,Miramax,,6,PG,108,"['Biography', 'Comedy', 'Drama', 'Romance']",20,93,1995,0
+1087,1087,1233,the preacher's wife,1,0,48102795,Walt Disney Studios,,12,PG,123,"['Comedy', 'Drama', 'Fantasy', 'Romance']",8,92,1996,0
+1088,1088,1234,the prestige,2,0,53089891,Walt Disney Studios,40000000,10,PG-13,130,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",24,76,2006,0
+1089,1089,1235,the prince of egypt,2,1,101413188,DreamWorks Distribution,70000000,12,PG,99,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Musical']",62,80,1998,0
+1090,1090,1236,the prince of tides,7,0,74787599,Columbia Pictures,30000000,12,R,132,"['Drama', 'Romance']",6,69,1991,0
+1091,1091,1237,the princess and the frog,3,0,104400899,Walt Disney Studios,105000000,11,G,97,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",58,85,2009,0
+1092,1092,1238,the princess bride,1,0,30857814,Twentieth Century Fox,15000000,9,PG,98,"['Adventure', 'Family', 'Fantasy', 'Romance']",50,97,1987,0
+1093,1093,1239,the purple rose of cairo,1,0,10631333,Orion Pictures,,3,PG,82,"['Comedy', 'Fantasy', 'Romance']",11,92,1985,0
+1094,1094,1240,the pursuit of happyness,1,0,163566459,Sony Pictures Releasing,55000000,12,PG-13,117,"['Biography', 'Drama']",14,67,2006,0
+1095,1095,1241,the queen,6,1,56441711,Miramax,15000000,9,PG-13,103,"['Biography', 'Drama', 'History']",12,96,2006,0
+1096,1096,1242,the quiet american,1,0,12988801,Miramax,30000000,11,R,101,"['Drama', 'Romance', 'Thriller', 'War']",10,87,2002,0
+1097,1097,1243,the reader,5,1,34194407,The Weinstein Company,32000000,12,R,124,"['Drama', 'Romance']",5,63,2008,0
+1098,1098,1244,the red turtle,1,0,921974,Sony Pictures Classics,,6,PG,80,"['Animation', 'Family', 'Fantasy']",2,93,2016,0
+1099,1099,1245,the red violin,1,1,10019109,Lionsgate,18000000,11,R,130,"['Drama', 'Music', 'Mystery', 'Romance']",21,74,1999,0
+1100,1100,1246,the remains of the day,8,0,23237911,Columbia Pictures,15000000,11,PG,134,"['Drama', 'Romance']",10,95,1993,0
+1101,1101,1247,the revenant,12,3,183637894,Twentieth Century Fox,135000000,12,R,156,"['Action', 'Adventure', 'Drama', 'History', 'Western']",42,78,2015,0
+1102,1102,1248,the rock,1,0,134069511,Walt Disney Studios,75000000,6,R,136,"['Action', 'Adventure', 'Thriller']",39,66,1996,0
+1103,1103,1249,the royal tenenbaums,1,0,52364010,Walt Disney Studios,21000000,12,R,110,"['Comedy', 'Drama']",17,80,2001,0
+1104,1104,1250,the sandman,1,0,92080,Expanded Entertainment,,9,NR,,"['Animation', 'Fantasy', 'Horror', 'Short']",0,92,1992,0
+1105,1105,1251,the savages,2,0,6623082,Fox Searchlight Pictures,9000000,11,R,114,"['Comedy', 'Drama']",18,89,2007,0
+1106,1106,1252,the saviour,1,0,636563,,,9,NR,105,['Drama'],6,84,2006,0
+1107,1107,1254,the sea inside,1,0,2104923,Fine Line Features,,9,PG-13,126,"['Biography', 'Drama']",0,84,2004,0
+1108,1108,1255,the secret of kells,1,0,676775,GKIDS,8000000,2,G,71,"['Adventure', 'Animation', 'Family', 'Fantasy']",31,91,2009,0
+1109,1109,1256,the sessions,1,0,6002451,Fox Searchlight Pictures,1000000,10,R,95,"['Biography', 'Comedy', 'Drama', 'Romance']",1,91,2012,0
+1110,1110,1257,the shape of water,13,4,63859435,Fox Searchlight Pictures,19500000,12,R,123,"['Adventure', 'Drama', 'Fantasy', 'Romance', 'Thriller']",29,92,2017,0
+1111,1111,1258,the shawshank redemption,7,0,28699976,Columbia Pictures,25000000,9,R,142,['Drama'],68,90,1994,0
+1112,1112,1259,the shore,1,1,38982260,Warner Bros.,,12,PG-13,94,"['Comedy', 'Horror', 'Musical', 'Romance', 'Sci-Fi']",1,65,2011,0
+1113,1113,1260,the silence of the lambs,7,5,130742922,Orion Pictures,19000000,2,R,118,"['Crime', 'Drama', 'Thriller']",48,96,1991,0
+1114,1114,1262,the sixth sense,6,0,293506292,Walt Disney Studios,40000000,8,PG-13,107,"['Drama', 'Mystery', 'Thriller']",18,86,1999,0
+1115,1115,1263,the social network,8,3,96962694,Sony Pictures Releasing,40000000,10,PG-13,,"['Biography', 'Drama']",60,96,2010,0
+1116,1116,1264,the squid and the whale,1,0,7372734,IDP Distribution,1500000,10,R,81,"['Comedy', 'Drama']",1,92,2005,0
+1117,1117,1265,the straight story,1,0,6203044,Walt Disney Studios,10000000,10,G,112,"['Biography', 'Drama']",0,95,1999,0
+1118,1118,1266,the sweet hereafter,2,0,3263585,Fine Line Features,5000000,10,R,112,['Drama'],7,98,1997,0
+1119,1119,1267,the tale of the princess kaguya,1,0,974913,GKIDS,,11,PG,137,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",3,100,2014,0
+1120,1120,1268,the talented mr. ripley,5,0,81298265,Paramount Pictures,40000000,12,R,139,"['Crime', 'Drama', 'Thriller']",14,83,1999,0
+1121,1121,1269,the tempest,1,0,277943,Miramax,20000000,12,PG-13,110,"['Comedy', 'Drama', 'Fantasy', 'Romance']",0,30,2010,0
+1122,1122,1270,the theory of everything,5,1,35893537,Focus Features,15000000,11,PG-13,123,"['Biography', 'Drama', 'Romance']",8,80,2014,0
+1123,1123,1271,the thin red line,7,0,36400491,Twentieth Century Fox,52000000,12,R,170,"['Drama', 'War']",0,80,1998,0
+1124,1124,1272,the time machine,1,0,56832494,DreamWorks Distribution,80000000,3,PG-13,96,"['Action', 'Adventure', 'Sci-Fi']",17,29,2002,0
+1125,1125,1274,the town,1,0,92186262,Warner Bros.,37000000,9,R,125,"['Crime', 'Drama', 'Thriller']",31,93,2010,0
+1126,1126,1275,the tree of life,3,0,13303319,Fox Searchlight Pictures,32000000,5,PG-13,139,"['Drama', 'Fantasy']",19,84,2011,0
+1127,1127,1276,the trip to bountiful,2,1,7491903,Island Pictures,,12,PG,108,['Drama'],3,100,1985,0
+1128,1128,1277,the triplets of belleville,2,0,7007149,Sony Pictures Classics,,6,PG-13,80,"['Animation', 'Comedy', 'Drama']",24,94,2003,0
+1129,1129,1278,the truman show,3,0,125618201,Paramount Pictures,60000000,6,PG,103,"['Comedy', 'Drama', 'Sci-Fi']",55,95,1998,0
+1130,1130,1279,the two popes,3,0,243711,,,12,PG-13,125,"['Comedy', 'Drama']",7,89,2019,0
+1131,1131,1280,the unbearable lightness of being,2,0,10006806,Orion Pictures,,2,R,171,"['Drama', 'Romance']",1,85,1988,0
+1132,1132,1281,the untouchables,4,1,76270454,Paramount Pictures,25000000,6,R,119,"['Crime', 'Drama', 'Thriller']",49,82,1987,0
+1133,1133,1282,the usual suspects,2,2,23341568,Gramercy Pictures (I),6000000,8,R,106,"['Crime', 'Mystery', 'Thriller']",45,89,1995,0
+1134,1134,1283,the village,2,0,114197520,Walt Disney Studios,60000000,8,PG-13,108,"['Drama', 'Mystery', 'Thriller']",17,43,1993,0
+1135,1135,1284,the visitor,1,0,180011740,Twentieth Century Fox,100000000,7,PG-13,119,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",7,92,2008,0
+1136,1136,1286,the way back,1,0,13590514,Warner Bros.,,3,R,108,"['Drama', 'Sport']",5,74,2010,0
+1137,1137,1287,the whales of august,1,0,1338198,Alive Films,,10,PG,90,['Drama'],0,60,1987,0
+1138,1138,1288,the white ribbon,1,0,2222862,Sony Pictures Classics,18000000,9,R,144,"['Drama', 'History', 'Mystery', 'Thriller']",5,86,2009,0
+1139,1139,1289,the wife,1,0,9601092,Sony Pictures Classics,,8,R,99,['Drama'],3,86,2018,0
+1140,1140,1290,the wild thornberrys movie,1,0,40108697,Paramount Pictures,25000000,12,PG,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",30,80,2002,0
+1141,1141,1291,the wind rises,1,0,5209580,Walt Disney Studios,,2,PG-13,126,"['Animation', 'Biography', 'Drama', 'History', 'Romance', 'War']",24,88,2013,0
+1142,1142,1292,the wings of the dove,4,0,13692848,Miramax,,11,R,102,"['Drama', 'Romance']",0,84,1997,0
+1143,1143,1293,the witches of eastwick,2,0,63766510,Warner Bros.,,6,R,118,"['Comedy', 'Fantasy', 'Horror']",11,76,1987,0
+1144,1144,1294,the wolf of wall street,5,0,116900694,Paramount Pictures,100000000,12,R,,"['Biography', 'Crime', 'Drama']",57,79,2013,0
+1145,1145,1295,the wolfman,1,1,61979680,Universal Pictures,150000000,2,R,103,"['Drama', 'Fantasy', 'Horror', 'Thriller']",4,34,2010,0
+1146,1146,1296,the wrestler,2,0,26238243,Fox Searchlight Pictures,6000000,12,R,109,"['Drama', 'Sport']",16,98,2008,0
+1147,1147,1298,the young victoria,3,1,11001272,Apparition,35000000,3,PG,105,"['Biography', 'Drama', 'History', 'Romance']",4,76,2009,0
+1148,1148,1299,thelma & louise,6,1,45360915,Metro-Goldwyn-Mayer (MGM),16500000,5,R,130,"['Adventure', 'Crime', 'Drama']",27,84,1991,0
+1149,1149,1300,there will be blood,8,2,40222514,Paramount Vantage,25000000,12,R,158,['Drama'],40,91,2007,0
+1150,1150,1301,thirteen,1,0,4601043,Fox Searchlight Pictures,2000000,8,R,100,['Drama'],0,81,2003,0
+1151,1151,1303,this way up,1,0,8400000,Walt Disney Studios,,4,,95,"['Fantasy', 'Mystery', 'Thriller']",66,91,2008,0
+1152,1152,1304,"three billboards outside ebbing, missouri",7,2,54513740,Fox Searchlight Pictures,12000000,11,R,115,"['Comedy', 'Crime', 'Drama']",33,91,2017,0
+1153,1153,1305,throw momma from the train,1,0,57915972,Orion Pictures,,12,PG-13,88,"['Comedy', 'Crime', 'Thriller']",32,63,1987,0
+1154,1154,1306,tim burton's corpse bride,1,0,53359111,Warner Bros.,,9,PG,77,"['Animation', 'Drama', 'Family', 'Fantasy', 'Musical', 'Romance']",36,84,2005,0
+1155,1155,1307,time freak,1,0,10003,Grindstone Entertainment,,11,PG-13,104,"['Comedy', 'Drama', 'Romance', 'Sci-Fi']",2,92,2011,0
+1156,1156,1308,timecode,1,0,1057750,Sony Pictures Releasing,5000000,4,R,97,"['Drama', 'Romance']",0,68,2016,0
+1157,1157,1309,tin toy,1,1,123967,Expanded Entertainment,,7,NR,,"['Animation', 'Family', 'Fantasy', 'Short']",4,60,1988,0
+1158,1158,1310,tinker tailor soldier spy,3,0,24149393,Focus Features,21000000,9,R,122,"['Drama', 'Mystery', 'Thriller']",28,83,2011,0
+1159,1159,1311,titanic,14,11,659363944,Paramount Pictures,200000000,12,PG-13,194,"['Drama', 'Romance']",62,89,1997,0
+1160,1160,1312,titus,1,0,2007290,Fox Searchlight Pictures,,12,R,162,"['Drama', 'History', 'Thriller']",6,68,1999,0
+1161,1161,1313,tom & viv,2,0,538534,Miramax,,12,PG-13,125,"['Biography', 'Drama', 'Romance']",10,31,1994,0
+1162,1162,1314,top gun,4,1,179800601,Paramount Pictures,15000000,5,PG,110,"['Action', 'Drama']",34,54,1986,0
+1163,1163,1315,topsy-turvy,4,2,6208548,USA Films,"[2200000, 41158757]",12,R,160,"['Biography', 'Comedy', 'Drama', 'History', 'Music', 'Musical']",8,89,1999,0
+1164,1164,1316,total recall,3,1,119412921,Sony Pictures Releasing,65000000,6,,113,"['Action', 'Sci-Fi', 'Thriller']",42,92,1990,0
+1165,1165,1317,toy story,3,0,222498679,Walt Disney Studios,30000000,11,G,81,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",44,100,1995,0
+1166,1166,1318,toy story 2,1,0,245852179,Walt Disney Studios,90000000,11,G,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",48,100,1999,0
+1167,1167,1319,toy story 3,5,2,415004880,Walt Disney Studios,200000000,6,G,103,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",80,98,2010,0
+1168,1168,1320,toy story 4,2,1,434038008,Walt Disney Studios,200000000,6,G,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",46,92,2019,0
+1169,1169,1321,toys,2,0,23278931,Twentieth Century Fox,,12,PG-13,118,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",0,30,1992,0
+1170,1170,1322,traffic,5,4,124115725,USA Films,48000000,12,R,147,"['Crime', 'Drama', 'Thriller']",10,93,2000,0
+1171,1171,1323,training day,2,1,76631907,Warner Bros.,45000000,10,R,122,"['Crime', 'Drama', 'Thriller']",34,72,2001,0
+1172,1172,1324,trainspotting,1,0,16491080,Miramax,3100000,7,R,93,['Drama'],29,91,1996,0
+1173,1173,1325,transamerica,2,0,9015303,The Weinstein Company,1000000,12,R,103,"['Adventure', 'Comedy', 'Drama']",6,77,2005,0
+1174,1174,1326,transformers,3,0,319246193,DreamWorks,150000000,6,PG-13,144,"['Action', 'Adventure', 'Sci-Fi']",0,58,2007,0
+1175,1175,1327,transformers: dark of the moon,3,0,352390543,DreamWorks,195000000,6,PG-13,154,"['Action', 'Adventure', 'Sci-Fi']",55,35,2011,0
+1176,1176,1328,transformers: revenge of the fallen,1,0,402111870,DreamWorks,200000000,6,PG-13,149,"['Action', 'Adventure', 'Sci-Fi']",31,20,2009,0
+1177,1177,1329,treasure planet,1,0,38176783,Walt Disney Studios,140000000,11,PG,95,"['Adventure', 'Animation', 'Family', 'Sci-Fi']",0,69,2002,0
+1178,1178,1330,trevor,1,1,16814,Regent Releasing,,7,R,88,"['Drama', 'Romance']",1,92,1994,0
+1179,1179,1331,triangle,1,0,1333377,,12000000,10,R,99,"['Fantasy', 'Mystery', 'Thriller']",25,28,1994,0
+1180,1180,1332,trolls,1,0,153707064,Twentieth Century Fox,125000000,10,PG,92,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",44,76,2016,0
+1181,1181,1333,tron: legacy,1,0,172062763,Walt Disney Studios,170000000,12,PG,125,"['Action', 'Adventure', 'Sci-Fi']",84,51,2010,0
+1182,1182,1334,tropic thunder,1,0,110515313,DreamWorks,92000000,8,R,107,"['Action', 'Comedy', 'War']",49,82,2008,0
+1183,1183,1335,troy,1,0,133378256,Warner Bros.,175000000,5,R,163,"['Drama', 'History']",0,54,2004,0
+1184,1184,1336,true grit,10,0,171243005,Paramount Pictures,38000000,12,PG-13,110,"['Drama', 'Western']",40,96,2010,0
+1185,1185,1337,true lies,1,0,146282411,Twentieth Century Fox,115000000,7,R,141,"['Action', 'Comedy', 'Thriller']",51,71,1994,0
+1186,1186,1338,trumbo,1,0,7857741,Bleecker Street Media,15000000,11,R,124,"['Biography', 'Drama']",16,74,2015,0
+1187,1187,1340,tucker the man and his dream,3,0,19652638,Paramount Pictures,,8,PG,110,"['Biography', 'Drama']",6,83,1988,0
+1188,1188,1342,tumbleweeds,1,0,1350248,Fine Line Features,312000,11,PG-13,102,"['Comedy', 'Drama']",0,82,1999,0
+1189,1189,1343,twice in a lifetime,1,0,8402424,Bud Yorkin Co.,,10,R,111,"['Drama', 'Romance']",21,83,1985,0
+1190,1190,1344,twister,2,0,241721524,Warner Bros.,92000000,5,PG-13,113,"['Action', 'Adventure', 'Thriller']",27,57,1996,0
+1191,1191,1346,"two days, one night",1,0,1436243,IFC Films,,5,PG-13,95,['Drama'],17,97,2014,0
+1192,1192,1347,two soldiers,1,1,3530620,,,8,R,105,"['Action', 'Horror', 'Thriller']",3,92,2003,0
+1193,1193,1348,u-571,2,1,77122415,Universal Pictures,62000000,4,PG-13,116,"['Action', 'War']",5,68,2000,0
+1194,1194,1349,ulee's gold,1,0,9161691,Metro-Goldwyn-Mayer (MGM),2700000,6,R,113,['Drama'],1,94,1997,0
+1195,1195,1350,unbroken,3,0,115637895,Universal Pictures,65000000,12,PG-13,137,"['Biography', 'Drama', 'Sport', 'War']",14,50,2014,0
+1196,1196,1351,under siege,2,0,83563139,Warner Bros.,,10,R,103,"['Action', 'Thriller']",36,79,1992,0
+1197,1197,1352,unfaithful,1,0,52775765,Twentieth Century Fox,50000000,5,R,124,"['Drama', 'Romance', 'Thriller']",8,50,2002,0
+1198,1198,1353,unforgiven,9,4,101157447,Warner Bros.,14400000,8,R,130,"['Drama', 'Western']",50,96,1992,0
+1199,1199,1354,united 93,2,0,31483450,Universal Pictures,15000000,4,R,111,"['Drama', 'History', 'Thriller']",19,90,2006,0
+1200,1200,1355,unstoppable,1,0,81562942,Twentieth Century Fox,100000000,11,PG-13,98,"['Action', 'Thriller']",29,86,2010,0
+1201,1201,1356,unstrung heroes,1,0,7929434,Walt Disney Studios,,9,PG,93,"['Comedy', 'Drama']",0,74,1995,0
+1202,1202,1357,up,5,2,293004164,Walt Disney Studios,175000000,5,PG,96,"['Adventure', 'Animation', 'Comedy', 'Family']",66,98,2009,0
+1203,1203,1358,up close and personal,1,0,51088705,Walt Disney Studios,,3,PG-13,124,"['Drama', 'Romance']",15,31,1996,0
+1204,1204,1359,up in the air,6,0,83823381,Paramount Pictures,25000000,12,R,109,"['Comedy', 'Drama', 'Romance']",23,91,2009,0
+1205,1205,1360,valmont,1,0,1132112,Orion Pictures,,11,R,137,"['Drama', 'Romance']",10,55,1989,0
+1206,1206,1361,vanilla sky,1,0,100618344,Paramount Pictures,68000000,12,R,136,"['Fantasy', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller']",24,42,2001,0
+1207,1207,1362,vatel,1,0,51080,Miramax,,12,PG-13,103,"['Biography', 'Drama', 'Romance']",0,31,2000,0
+1208,1208,1363,velvet goldmine,1,0,1053788,Miramax,9000000,11,R,118,"['Drama', 'Music']",8,57,1998,0
+1209,1209,1364,venus,1,0,3347411,Miramax,6000000,12,R,95,"['Comedy', 'Drama', 'Romance']",0,89,2006,0
+1210,1210,1365,vera drake,3,0,3775283,Fine Line Features,11000000,10,R,125,"['Crime', 'Drama']",2,92,2004,0
+1211,1211,1366,vice,8,1,47836282,Annapurna Pictures,60000000,12,R,132,"['Biography', 'Comedy', 'Drama']",21,92,2018,0
+1212,1212,1367,vicky cristina barcelona,1,1,23216709,MGM/Weinstein,16000000,8,PG-13,96,"['Comedy', 'Drama', 'Romance']",7,81,2008,0
+1213,1213,1368,victor,1,0,117755,CanZion Films,,9,PG-13,105,"['Biography', 'Crime', 'Drama']",26,81,1998,0
+1214,1214,1369,victoria & abdul,2,0,22245070,Focus Features,,9,PG-13,111,"['Biography', 'Drama', 'History']",5,66,2017,0
+1215,1215,1371,volver,1,0,12899867,Sony Pictures Classics,9400000,3,R,121,"['Comedy', 'Drama']",8,91,2006,0
+1216,1216,1372,w.e.,1,0,583455,The Weinstein Company,,1,R,119,"['Drama', 'History', 'Romance']",0,12,2011,0
+1217,1217,1373,wag the dog,2,0,43061945,New Line Cinema,15000000,12,R,97,"['Comedy', 'Drama']",0,85,1997,0
+1218,1218,1374,walk the line,5,1,119519402,Twentieth Century Fox,28000000,2,PG-13,136,"['Biography', 'Drama', 'Music', 'Romance']",9,82,2005,0
+1219,1219,1375,wall street,1,1,43848069,Twentieth Century Fox,16500000,12,R,126,"['Crime', 'Drama']",20,78,1987,0
+1220,1220,1376,wall-e,6,1,223808164,Walt Disney Studios,180000000,6,G,98,"['Adventure', 'Animation', 'Family', 'Sci-Fi']",56,95,2008,0
+1221,1221,1377,wallace & gromit in the curse of the were-rabbit,1,1,56110897,DreamWorks Distribution,30000000,9,G,85,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi']",34,95,2005,0
+1222,1222,1378,wanted,2,0,134508551,Universal Pictures,75000000,6,R,110,"['Action', 'Crime', 'Fantasy', 'Thriller']",29,71,2008,0
+1223,1223,1379,war for the planet of the apes,1,0,146880162,Twentieth Century Fox,150000000,7,PG-13,140,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",54,92,2017,0
+1224,1224,1380,war horse,6,0,79884879,Walt Disney Studios,66000000,12,PG-13,146,"['Action', 'Adventure', 'Drama', 'History', 'War']",26,75,2011,0
+1225,1225,1381,war of the worlds,3,0,234280354,Paramount Pictures,132000000,6,PG-13,116,"['Adventure', 'Sci-Fi', 'Thriller']",43,75,2005,0
+1226,1226,1382,warrior,1,0,13657115,Lionsgate,25000000,9,PG-13,140,"['Action', 'Drama', 'Sport']",0,83,2011,0
+1227,1227,1383,wasp,1,1,1421563,,,1,NR,127,"['Crime', 'Drama', 'Thriller']",78,84,2004,0
+1228,1228,1384,wat's pig,1,0,112175,Northern Arts Entertainment,,6,NR,,"['Animation', 'Short']",6,81,1996,0
+1229,1229,1385,waterworld,1,0,88246220,Universal Pictures,175000000,7,PG-13,135,"['Action', 'Adventure', 'Sci-Fi']",23,46,1995,0
+1230,1230,1388,weekends,1,0,481807,,,2,R,90,['Drama'],6,85,2018,0
+1231,1231,1390,whale rider,1,0,20779666,Newmarket Films,3500000,1,PG-13,101,"['Drama', 'Family']",9,91,2003,0
+1232,1232,1391,what dreams may come,2,1,55382927,PolyGram,85000000,10,PG-13,113,"['Drama', 'Fantasy', 'Romance']",11,54,1998,0
+1233,1233,1392,what's eating gilbert grape,1,0,10032765,Paramount Pictures,11000000,12,PG-13,118,['Drama'],11,90,1993,0
+1234,1234,1393,what's love got to do with it,2,0,39100956,Walt Disney Studios,15000000,6,R,118,"['Biography', 'Drama', 'Music']",0,96,1993,0
+1235,1235,1394,when harry met sally...,1,0,93075866,Columbia Pictures,"[2200000, 41158757]",7,R,95,"['Comedy', 'Drama', 'Romance']",17,90,1989,0
+1236,1236,1396,when marnie was there,1,0,561085,GKIDS,,7,PG,103,"['Animation', 'Drama', 'Family', 'Mystery']",15,91,2015,0
+1237,1237,1397,when the day breaks,1,0,39302,,,12,NR,95,['Drama'],0,73,1999,0
+1238,1238,1398,whiplash,5,3,13092000,Sony Pictures Classics,3300000,10,R,106,"['Drama', 'Music']",47,94,2014,0
+1239,1239,1399,white nights,2,1,42160849,Columbia Pictures,,11,PG-13,136,"['Drama', 'Music']",0,46,1985,0
+1240,1240,1400,who framed roger rabbit,6,3,156452370,Walt Disney Studios,70000000,6,,104,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Fantasy', 'Mystery']",89,92,1988,0
+1241,1241,1401,wild,2,0,37880356,Fox Searchlight Pictures,15000000,12,R,115,"['Biography', 'Drama']",0,89,2014,0
+1242,1242,1402,wild at heart,1,0,14560247,The Samuel Goldwyn Company,,8,R,125,"['Comedy', 'Crime', 'Drama', 'Thriller']",9,65,1990,0
+1243,1243,1403,wild life,1,0,11020375,Universal Pictures,,9,NR,96,"['Comedy', 'Drama']",0,43,2011,0
+1244,1244,1404,william shakespeare's romeo & juliet,1,0,46351345,Twentieth Century Fox,,11,PG-13,,"['Drama', 'Romance']",14,72,1996,0
+1245,1245,1405,willow,2,0,57269863,Metro-Goldwyn-Mayer (MGM),,5,PG,126,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",33,50,1988,0
+1246,1246,1406,winter's bone,4,0,6531503,Roadside Attractions,2000000,6,R,100,"['Drama', 'Mystery']",11,94,2010,0
+1247,1247,1408,witness,8,2,68706993,Paramount Pictures,12000000,2,R,112,"['Crime', 'Drama', 'Romance', 'Thriller']",29,93,1985,0
+1248,1248,1410,wonder,1,0,132422809,Lionsgate,20000000,10,PG,113,"['Drama', 'Family']",26,85,2017,0
+1249,1249,1411,wonder boys,3,1,19393557,Paramount Pictures,55000000,2,R,107,"['Comedy', 'Drama']",3,82,2000,0
+1250,1250,1412,wordless,1,0,3868257,,,11,R,117,"['Action', 'Adventure', 'History']",5,92,1996,0
+1251,1251,1413,work experience,1,1,18016290,United Artists,2000000,8,R,88,['Comedy'],3,39,1989,0
+1252,1252,1414,working girl,6,1,63779477,Twentieth Century Fox,,12,R,113,"['Comedy', 'Drama', 'Romance']",11,83,1988,0
+1253,1253,1415,world of tomorrow,1,0,37762677,Paramount Pictures,70000000,9,PG,106,"['Action', 'Adventure', 'Mystery', 'Sci-Fi', 'Thriller']",6,100,2015,0
+1254,1254,1416,wreck-it ralph,1,0,189422889,Walt Disney Studios,165000000,11,PG,101,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",116,87,2012,0
+1255,1255,1417,wyatt earp,1,0,25052000,Warner Bros.,63000000,6,PG-13,191,"['Adventure', 'Biography', 'Crime', 'Drama', 'Western']",7,44,1994,0
+1256,1256,1418,x-men: days of future past,1,0,233921534,Twentieth Century Fox,200000000,5,PG-13,132,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",110,90,2014,0
+1257,1257,1419,y tu mamá también,1,0,13839658,IFC Films,5000000,11,R,106,['Drama'],6,92,2002,0
+1258,1258,1420,you can count on me,2,0,9416804,Paramount Classics,1200000,11,R,111,['Drama'],12,95,2000,0
+1259,1259,1421,young guns ii,1,0,44143410,Twentieth Century Fox,,8,,104,"['Action', 'Western']",12,92,1990,0
+1260,1260,1422,young sherlock holmes,1,0,19739575,Paramount Pictures,18000000,12,PG-13,109,"['Adventure', 'Fantasy', 'Mystery', 'Thriller']",30,64,1985,0
+1261,1261,1424,youth,1,0,2703296,Fox Searchlight Pictures,13000000,5,R,124,"['Comedy', 'Drama', 'Music', 'Romance']",0,72,2015,0
+1262,1262,1425,zero dark thirty,5,1,95720716,Sony Pictures Releasing,40000000,12,R,157,"['Drama', 'History', 'Thriller', 'War']",27,91,2012,0
+1263,1263,1426,zootopia,1,1,341268248,Walt Disney Studios,150000000,2,PG,108,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Mystery']",133,98,2016,0
